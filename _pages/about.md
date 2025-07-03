@@ -31,10 +31,9 @@ I am passionate about model diagnostics and mechanistic interpretability. My  cu
 
 
 # 🔥 News
-- *2025.05*: 🎉🎉 Two papers are accepted by [ICML 2025](https://icml.cc/) as **Poster**!
+- *2025.05*: 🎉🎉 Two papers are accepted by [ICML 2025](https://icml.cc/) as **Poster**! See you at Vancouver.
 - *2024.09*: &nbsp;🎉🎉 Excited to share that our work “Model Balancing Helps Low-data Training and Fine-tuning” is accepted by [EMNLP 2024](https://2024.emnlp.org) as **Oral Presentation**!
 - *2024.6*: &nbsp;😁 I graduated from HUST!
-- *2023.9*: &nbsp;😁 Completing a wonderful two-month visiting at Dartmouth College.
 
 
 # 📝 Publications 
