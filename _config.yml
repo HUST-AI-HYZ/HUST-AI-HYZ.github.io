@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Tianyu Pang"
+title                    : "Yuanzhe Hu"
 description              : ""
-repository               : "TDCSZ327/tianyupang.github.io"
+repository               : "HUST-AI-HYZ/HUST-AI-HYZ.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Tianyu Pang"
-  avatar           : "/images/profile.jpg"
-  bio              : "Incoming Ph.D. student @ Dartmouth College"
-  location         : "Nanjing, China"
+  name             : "Yuanzhe Hu"
+  avatar           : "/images/profile.jpeg"
+  bio              : "Master Student @ UCSD, CSE"
+  location         : "La Jolla, CA, USA"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=xcDPmRMAAAAJ&hl=zh-CN"
-  email            : "tianyupang628@gmail.com"
+  googlescholar    : "https://scholar.google.com/citations?user=ehBiQEUAAAAJ&hl=en&authuser=2"
+  email            : "yzhu.ml@outlook.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "TDCSZ327"
+  github           : "HUST-AI-YZ"
   google_plus      :
   keybase          :
   instagram        :
@@ -57,7 +57,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  resume           : "https://drive.google.com/file/d/1Yi9jqtQK9IJUrKuVvbI05FiJfPfToPKM/view?usp=sharing"
+  resume           : #"https://drive.google.com/file/d/1Yi9jqtQK9IJUrKuVvbI05FiJfPfToPKM/view?usp=sharing"
 
 
 # Reading Files

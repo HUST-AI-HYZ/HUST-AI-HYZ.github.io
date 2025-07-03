@@ -17,72 +17,36 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I'm Tianyu. I am an incoming Ph.D. student at Dartmouth College. I have the great honor of being advised by [Prof. Yaoqing Yang](https://sites.google.com/site/yangyaoqingcmu/).
+Hi, I'm Yuanzhe. I am a master student at University of Califronia, San Diego. I have the great honor of being collaborating with [Prof. Yaoqing Yang](https://sites.google.com/site/yangyaoqingcmu/), Prof. [Julian McAuley](https://cseweb.ucsd.edu/~jmcauley/) and Prof. [Zhiting Hu](https://zhiting.ucsd.edu). 
 
-I am passionate about model diagnostics and mechanistic interpretability . My  current research is focused on
+I am passionate about model diagnostics and mechanistic interpretability. My  current research is focused on
 
-- understanding the mechanisms, dynamics and generalization of LLMs  from the perspective of random matrix theory, high-dimensional statistics and loss landscape;
+- understanding the mechanisms, dynamics and generalization of LLMs from the perspective of random matrix theory, high-dimensional statistics and loss landscape;
 - leveraging  model/data diagnostics and interpretability insights to improve the transparency, robustness and efficiency  of (scientific) machine learning.
 
 # 📖 Educations
 
-- *2025.09 - present*, Ph.D. in Machine Learning, Department of Computer Science, Dartmouth College.
-- *2022.09 - 2025.06*, M.S. in Mathematics, Department of Mathematics, Nanjing University. 
-- *2018.09 - 2022.06*, B.S. in Statistics, Kuang Yaming Honors School, Nanjing University. 
+- *2024.09 - 2026.03 (Expected)*, M.S. in Computer Science and Engineering, University of Califronia, San Diego (UCSD). 
+- *2020.09 - 2024.06*, B.S. in Artificial Intelligence, Innovation Experimental Honor Class, Qiming School, Huazhong University of Science and Technology (HUST). 
 
 
 # 🔥 News
-- *2025.05*: 🎉🎉 Excited to share that our work “LIFT the Veil for the Truth: Principal Weights Emerge after Rank Reduction for Reasoning-Focused Supervised Fine-Tuning” is accepted by [ICML 2025](https://icml.cc/) as **Poster**!
-- *2024.10*: &nbsp;😁 Completing a wonderful three-month visiting at Dartmouth College.
+- *2025.05*: 🎉🎉 Two papers are accepted by [ICML 2025](https://icml.cc/) as **Poster**!
 - *2024.09*: &nbsp;🎉🎉 Excited to share that our work “Model Balancing Helps Low-data Training and Fine-tuning” is accepted by [EMNLP 2024](https://2024.emnlp.org) as **Oral Presentation**!
-- *2023.09*: &nbsp;🎉🎉 Excited to share that our work “Temperature Balancing, Layer-wise Weight Analysis, and Neural Network Training” is accepted by [NeurIPS 2023](https://neurips.cc/Conferences/2023) as **Spotlight**!
+- *2024.6*: &nbsp;😁 I graduated from HUST!
+- *2023.9*: &nbsp;😁 Completing a wonderful two-month visiting at Dartmouth College.
+
 
 # 📝 Publications 
 
 （# denotes equal contribution）
-
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='images/ICML_2025.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**LIFT the Veil for the Truth: Principal Weights Emerge after Rank Reduction for Reasoning-Focused Supervised Fine-Tuning**
-
-[Zihang Liu](https://zihanghliu.github.io), **Tianyu Pang**, [Oleg Balabanov](https://scholar.google.com/citations?user=N-Rm3SIAAAAJ&hl=en), Chaoqun Yang, [Tianjin Huang](https://tianjinyellow.github.io/), [Lu Yin](https://luuyin.com/), [Yaoqing Yang](https://sites.google.com/site/yangyaoqingcmu/), [Shiwei Liu](https://shiweiliuiiiiiii.github.io/)
-
-[Code]( https://github.com/zihanghliu/LIFT)\|[Paper](https://arxiv.org/pdf/2506.00772)
-
-**ICML 2025**
-
-</div>
-</div>
-
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='images/EMNLP_2025.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-
-
-
-**Why LLM Safety Guardrails Collapse After Fine-tuning: A Similarity Analysis Between Alignment and Fine-tuning Datasets** 
-
-[Lei Hsiung](https://hsiung.cc/), **Tianyu Pang**, [Yung-Chen Tang](https://sites.google.com/view/yungchentang), [Linyue Song](https://www.linkedin.com/in/linyue-song), [Tsung-Yi Ho](https://www.cse.cuhk.edu.hk/people/faculty/tsung-yi-ho/), [Pin-yu Chen](https://sites.google.com/site/pinyuchenpage) , [Yaoqing Yang](https://sites.google.com/site/yangyaoqingcmu/)
-
-[Paper](https://arxiv.org/abs/2506.05346)\|[Demo](https://hsiung.cc/llm-similarity-risk/)
-
-**ICML 2025 Workshop DIG-BUG**
-
-</div>
-
-</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2024</div><img src='images/EMNLP_2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Model Balancing Helps Low-data Training and Fine-tuning**
 
-[Zihang Liu](https://zihanghliu.github.io)#, [Yuanzhe Hu](https://github.com/HUST-AI-HYZ)#, **Tianyu Pang**, [Yefan Zhou](https://yefanzhou.github.io), [Pu Ren](https://paulpuren.github.io), [Yaoqing Yang](https://sites.google.com/site/yangyaoqingcmu/)
+[Zihang Liu](https://zihanghliu.github.io)#, **[Yuanzhe Hu](https://github.com/HUST-AI-HYZ)#**, Tianyu Pang, [Yefan Zhou](https://yefanzhou.github.io), [Pu Ren](https://paulpuren.github.io), [Yaoqing Yang](https://sites.google.com/site/yangyaoqingcmu/)
 
 [Code](https://github.com/ZihangHLiu/ModelBalancing)\|[Paper](https://arxiv.org/abs/2410.12178)\|[Video](https://us06web.zoom.us/rec/play/5RHeJiEVuG-yw_Ytt9cHPMzqEIm2xWenwjhHjJ4yt7camtmQObTndJ56YgBBw0A1TlNRGiwZ2MAw5klz.7Xm2WgzcHdxPjGqm?autoplay=true)
 
@@ -91,32 +55,3 @@ I am passionate about model diagnostics and mechanistic interpretability . My  c
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/NeurIPS_2023.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**Temperature Balancing, Layer-wise Weight Analysis, and Neural Network Training** 
-
-[Yefan Zhou](https://yefanzhou.github.io)#, **Tianyu Pang**#, [Keqin Liu](https://scholar.xjtlu.edu.cn/en/persons/kevin-liu), [Charles H. Martin](https://www.linkedin.com/in/charlesmartin14/), [Michael Mahoney](https://www.stat.berkeley.edu/~mmahoney/), [Yaoqing Yang](https://sites.google.com/site/yangyaoqingcmu/)
-
-[Code](https://github.com/YefanZhou/TempBalance)\|[Paper](https://arxiv.org/abs/2312.00359)\|[Video](https://recorder-v3.slideslive.com/?share=87192&s=14ff4069-14ea-4f19-bf8b-368a2db26dfd)
-
-**NeurIPS 2023 <span style="color: red;">Spotlight</span>**
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/ICLR_2025_1.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-
-**Crafting Heavy-Tails in Weight Matrix Spectrum without Gradient Noise** 
-
-[Vignesh Kothapalli](https://kvignesh1420.github.io), **Tianyu Pang**, [Shenyang Deng](https://scholar.google.com/citations?user=TvUZLD8AAAAJ&hl=en&oi=ao), [Zongmin Liu](https://www.linkedin.com/in/zongmin-dylan-liu-73438a242/details/education/), [Yaoqing Yang](https://sites.google.com/site/yangyaoqingcmu/)
-
-[Code](https://github.com/kvignesh1420/single-index-ht)\|[Paper](https://arxiv.org/pdf/2406.04657)
-
-In submisson, 2025
-
-</div>
-
-</div>
