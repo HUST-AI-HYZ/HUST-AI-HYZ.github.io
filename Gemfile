@@ -24,4 +24,8 @@ group :jekyll_plugins do
   gem "jekyll-feed"
   gem 'jekyll-sitemap'
   gem 'hawkins'
+  gem 'csv'
+  gem 'base64'
+  gem 'bigdecimal'
+  gem "webrick"
 end

@@ -94,6 +94,9 @@
       {% if author.weibo %}
         <li><a href="https://www.weibo.com/{{ author.weibo }}"><i class="fab fa-fw fa-weibo" aria-hidden="true"></i> Weibo</a></li>
       {% endif %}
+      {% if author.rednote %}
+        <li><a href="{{ author.rednote }}"><i class="fas fa-fw fa-book" aria-hidden="true"></i> RedNote</a></li>
+      {% endif %}
       {% if author.flickr %}
         <li><a href="https://www.flickr.com/{{ author.flickr }}"><i class="fab fa-fw fa-flickr" aria-hidden="true"></i> Flickr</a></li>
       {% endif %}
@@ -191,6 +194,9 @@
       {% endif %}
       {% if author.weibo %}
         <a href="https://www.weibo.com/{{ author.weibo }}"><i class="fab fa-fw fa-weibo" aria-hidden="true"></i></a>
+      {% endif %}
+      {% if author.rednote %}
+        <a href="{{ author.rednote }}"><i class="fas fa-fw fa-book" aria-hidden="true"></i></a>
       {% endif %}
       {% if author.flickr %}
         <a href="https://www.flickr.com/{{ author.flickr }}"><i class="fab fa-fw fa-flickr" aria-hidden="true"></i></a>
