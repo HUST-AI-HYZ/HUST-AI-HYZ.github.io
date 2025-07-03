@@ -30,7 +30,7 @@ My  current research is focused on
 # 📖 Educations
 
 - *2024.09 - 2026.03 (Expected)*, M.S. in Computer Science and Engineering, University of Califronia, San Diego (UCSD). 
-- *2020.09 - 2024.06*, B.S. in Artificial Intelligence, Innovation Experimental Honor Class, Qiming School, Huazhong University of Science and Technology (HUST). **GPA: 3.91 / 4.0.** 
+- *2020.09 - 2024.06*, B.S. in Artificial Intelligence, Innovation Experimental Honor Class, Qiming School, Huazhong University of Science and Technology (HUST).
 
 
 # 🔥 News
