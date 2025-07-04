@@ -88,7 +88,7 @@ Under Review
 
 **Yuanzhe Hu**, Kinshuk Goel, Vlad Killiakov, Yaoqing Yang
 
-[Code](https://github.com/HUST-AI-HYZ/FARMS)\|[Paper](https://arxiv.org/abs/2506.06280)\|[Video](https://recorder-v3.slideslive.com/?share=101775&s=d33c2fb4-ab78-47fc-a76b-0a9e7aef1a02)\|[Review](https://openreview.net/forum?id=7ywj1B3DuO&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICML.cc%2F2025%2FConference%2FAuthors%23your-submissions))\| ![Star Count](https://img.shields.io/github/stars/HUST-AI-HYZ/FARMS.svg)
+[Code](https://github.com/HUST-AI-HYZ/FARMS) \|[Paper](https://arxiv.org/abs/2506.06280) \|[Video](https://recorder-v3.slideslive.com/?share=101775&s=d33c2fb4-ab78-47fc-a76b-0a9e7aef1a02) \|[Review](https://openreview.net/forum?id=7ywj1B3DuO&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICML.cc%2F2025%2FConference%2FAuthors%23your-submissions)) \| ![Star Count](https://img.shields.io/github/stars/HUST-AI-HYZ/FARMS.svg)
 
 **ICML 2025**
 
@@ -104,7 +104,7 @@ Under Review
 
 {Zihang Liu#, **Yuanzhe Hu#**}, Tianyu Pang, Yefan Zhou, Pu Ren, Yaoqing Yang
 
-[Code](https://github.com/ZihangHLiu/ModelBalancing)\|[Paper](https://arxiv.org/abs/2410.12178)\|[Video](https://us06web.zoom.us/rec/play/5RHeJiEVuG-yw_Ytt9cHPMzqEIm2xWenwjhHjJ4yt7camtmQObTndJ56YgBBw0A1TlNRGiwZ2MAw5klz.7Xm2WgzcHdxPjGqm?autoplay=true)\|[Review](./pdf/paper_review/Model_balancing_review.pdf)\| ![Star Count](https://img.shields.io/github/stars/ZihangHLiu/ModelBalancing.svg)
+[Code](https://github.com/ZihangHLiu/ModelBalancing) \|[Paper](https://arxiv.org/abs/2410.12178) \|[Video](https://us06web.zoom.us/rec/play/5RHeJiEVuG-yw_Ytt9cHPMzqEIm2xWenwjhHjJ4yt7camtmQObTndJ56YgBBw0A1TlNRGiwZ2MAw5klz.7Xm2WgzcHdxPjGqm?autoplay=true) \|[Review](./pdf/paper_review/Model_balancing_review.pdf) \| ![Star Count](https://img.shields.io/github/stars/ZihangHLiu/ModelBalancing.svg)
 
 **EMNLP 2024 <span style="color: red;">Oral, Rate (168/6105=2.75%)</span>**
 
@@ -122,7 +122,8 @@ Under Review
 
 Yu Wang, Dmitry Krotov, **Yuanzhe Hu**, Yifan Gao, Wangchunshu Zhou, Julian McAuley, Dan Gutfreund, Rogerio Feris, Zexue He
 
-[Code](https://github.com/wangyu-ustc/MemoryLLM)\|[Paper](https://arxiv.org/abs/2502.00592)\|[Review](https://openreview.net/forum?id=OcqbkROe8J&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICML.cc%2F2025%2FConference%2FAuthors%23your-submissions)) \| ![Star Count](https://img.shields.io/github/stars/wangyu-ustc/MemoryLLM.svg)
+[HF Model](https://huggingface.co/YuWangX/mplus-8b) \|[Code](https://github.com/wangyu-ustc/MemoryLLM) \|[Paper](https://arxiv.org/abs/2502.00592) \|[Review](https://openreview.net/forum?id=OcqbkROe8J&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICML.cc%2F2025%2FConference%2FAuthors%23your-submissions)) \| ![Star Count](https://img.shields.io/github/stars/wangyu-ustc/MemoryLLM.svg)
+
 
 
 **ICML 2025**
