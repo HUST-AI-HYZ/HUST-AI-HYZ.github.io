@@ -19,16 +19,14 @@ redirect_from:
 
 # ℹ️ Short Bio
 
-Hi, I'm Yuanzhe. 
-
-I am a master student at University of Califronia, San Diego. I have the great honor of being collaborating with [Prof. Yaoqing Yang](https://sites.google.com/site/yangyaoqingcmu/), Prof. [Julian McAuley](https://cseweb.ucsd.edu/~jmcauley/) and Prof. [Zhiting Hu](https://zhiting.ucsd.edu). 
+Hi, I'm Yuanzhe, a master student at University of Califronia, San Diego. I have the great honor of being collaborating with [Prof. Yaoqing Yang](https://sites.google.com/site/yangyaoqingcmu/), Prof. [Julian McAuley](https://cseweb.ucsd.edu/~jmcauley/) and Prof. [Zhiting Hu](https://zhiting.ucsd.edu). 
 
 My current research is focused on
 
 - Understanding the mechanisms, dynamics and generalization of LLM and SciML Models [2,3,4].
-- Memory Mechanisms in LLM & Agent [1,5].
-<!-- # TODO: Please modify the research interests / paper tag here..... -->
+- Memory mechanisms in LLM & Agent [1,5].
 
+I am actively seeking for <span style="color: red;">**26 Fall CS/ECE PhD Positions**</span>, **research internship** after M.S graduation (about six months), and **collobration opportunities**. 
 
 # 📖 Educations
 
