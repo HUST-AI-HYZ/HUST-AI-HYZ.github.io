@@ -64,13 +64,12 @@ Submitted to **NeurIPs 2025 (D&B)** / Will be presented on **ICML 2025 LCFM Work
 
 
 
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/paper_main/Sciml_Diagnosis.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **[2] Loss Landscape Analysis of Scientific Machine Learning Models**
 
-{Haiquan Lu, **Yuanzhe Hu#**}, Yefan Zhou, Tianyu Pang, Xiaotian Liu, Pu Ren, Yaoqing Yang 
+{Haiquan Lu#, **Yuanzhe Hu#**}, Yefan Zhou, Tianyu Pang, Xiaotian Liu, Pu Ren, Yaoqing Yang 
 
 Under Review
 
@@ -134,5 +133,5 @@ Yu Wang, Dmitry Krotov, **Yuanzhe Hu**, Yifan Gao, Wangchunshu Zhou, Julian McAu
 
 
 
-Last Update: 07/03/2025
+Last Update: 07/04/2025
 
