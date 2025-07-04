@@ -43,7 +43,7 @@ author:
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : # e.g., "linkedin username"
+  linkedin         : "https://www.linkedin.com/in/yuanzhe-hu-17a2702b6/"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
@@ -53,8 +53,8 @@ author:
   tumblr           :
   vine             :
   weibo            :
-  rednote          : "https://www.xiaohongshu.com/user/profile/5bfa92d7dc17a9000178dd0f?xsec_token=YBTqNzJvAAwDnHz8W1Rqh93EtDo_JGemMCGva-qLzqQZs=&xsec_source=app_share&xhsshare=CopyLink&appuid=5bfa92d7dc17a9000178dd0f&apptime=1751583810&share_id=419374e1e3634ff892255b5729feea18"
-  twitter          : 
+  rednote          : #"https://www.xiaohongshu.com/user/profile/5bfa92d7dc17a9000178dd0f?xsec_token=YBTqNzJvAAwDnHz8W1Rqh93EtDo_JGemMCGva-qLzqQZs=&xsec_source=app_share&xhsshare=CopyLink&appuid=5bfa92d7dc17a9000178dd0f&apptime=1751583810&share_id=419374e1e3634ff892255b5729feea18"
+  twitter          : "https://x.com/YzhuML"
   youtube          :
   wikipedia        :
   resume           : "./pdf/Yuanzhe_Hu_CV_Jun_2025.pdf"
