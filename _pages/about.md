@@ -31,14 +31,14 @@ I am actively seeking for <span style="color: red;">**26 Fall CS/ECE PhD Positio
 # 📖 Educations
 
 - *2024.09 - 2026.03 (Expected)*, M.S. in Computer Science and Engineering, University of Califronia, San Diego (UCSD). 
-- *2020.09 - 2024.06*, B.S. in Artificial Intelligence, Innovation Experimental Honor Class, Qiming School, Huazhong University of Science and Technology (HUST).
+- *2020.09 - 2024.06*, B.S. in Artificial Intelligence, Innovation Experimental Honor Class, Qiming School, Huazhong University of Science and Technology (HUST). GPA: 3.91/4.0. 
 
 
 # 🔥 News
 - *2025.05*: 🎉🎉 Two papers are accepted by [ICML 2025](https://icml.cc/) as **Poster**! See you at Vancouver.
 - *2024.09*: &nbsp;🎉🎉 Excited to share that our work “Model Balancing Helps Low-data Training and Fine-tuning” is accepted by [EMNLP 2024](https://2024.emnlp.org) as **Oral Presentation**!
-- *2024.6*: &nbsp;😁 I graduated from HUST!
-- *2024.6*: &nbsp;😄 I created my account on OpenReview!
+- *2024.06*: &nbsp;😁 I graduated from HUST!
+- *2024.06*: &nbsp;😄 I created my account on OpenReview!
 
 
 # 📝 Writing Samples 
