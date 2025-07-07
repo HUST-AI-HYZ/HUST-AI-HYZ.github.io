@@ -30,12 +30,40 @@ I am actively seeking for <span style="color: red;">**26 Fall CS/ECE PhD Positio
 
 # 📖 Educations
 
-- *2024.09 - 2026.03 (Expected)*, M.S. in Computer Science and Engineering, University of Califronia, San Diego (UCSD). 
-- *2020.09 - 2024.06*, B.S. in Artificial Intelligence, Innovation Experimental Honor Class, Qiming School, Huazhong University of Science and Technology (HUST). GPA: 3.91/4.0. 
+<!-- - M.S. in Computer Science and Engineering, University of Califronia, San Diego (UCSD)  &nbsp;  *2024.09 - 2026.03 (Expected)*. 
+- *2020.09 - 2024.06*, B.S. in Artificial Intelligence, Innovation Experimental Honor Class, Qiming School, Huazhong University of Science and Technology (HUST). GPA: 3.91/4.0.  -->
+<table>
+  <tr>
+    <td style="width: 60px; border: none; padding: 10px 15px 10px 0;">
+      <img src="./images/ucsd_badge.png" width="80">
+    </td>
+    <td style="border: none; vertical-align: middle;">
+      <b>University of California, San Diego (UCSD)</b><br>
+      M.S. in Computer Science and Engineering
+    </td>
+    <td style="text-align: right; border: none; vertical-align: middle; white-space: nowrap;">
+      <i>2024.09 - 2026.03 (Expected)</i>
+    </td>
+  </tr>
+  <tr>
+    <td style="width: 60px; border: none; padding: 10px 15px 10px 0;">
+      <img src="./images/hust_badge.png" width="80">
+    </td>
+    <td style="border: none; vertical-align: middle;">
+      <b>Huazhong University of Science and Technology (HUST)</b><br>
+      B.S. in Artificial Intelligence, Innovation Experimental Honor Class, Qiming School<br>
+      GPA: 3.91/4.0
+    </td>
+    <td style="text-align: right; border: none; vertical-align: middle; white-space: nowrap;">
+      <i>2020.09 - 2024.06</i>
+    </td>
+  </tr>
+</table>
 
 
 # 🔥 News
-- *2025.05*: 🎉🎉 Two papers are accepted by [ICML 2025](https://icml.cc/) as **Poster**! See you at Vancouver.
+- *2025.07*: &nbsp;😁 We open-sourced the [MemoryAgentBench](https://github.com/HUST-AI-HYZ/MemoryAgentBench). Thanks for the great help from [Yu Wang](https://yuwang.us)! 
+- *2025.05*: &nbsp;🎉🎉 Two papers are accepted by [ICML 2025](https://icml.cc/) as **Poster**! See you at Vancouver.
 - *2024.09*: &nbsp;🎉🎉 Excited to share that our work “Model Balancing Helps Low-data Training and Fine-tuning” is accepted by [EMNLP 2024](https://2024.emnlp.org) as **Oral Presentation**!
 - *2024.06*: &nbsp;😁 I graduated from HUST!
 - *2024.06*: &nbsp;😄 I created my account on OpenReview!
@@ -46,25 +74,23 @@ I am actively seeking for <span style="color: red;">**26 Fall CS/ECE PhD Positio
 (# denotes equal contribution)
 
 ## Under Review & Preprints
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/paper_main/MemAgentBench.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/paper_main/MemAgentBench.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **[1] Evaluating Memory in LLM Agents via Incremental Multi-Turn Interactions**
 
 {**Yuanzhe Hu#**, Yu Wang#}, Julian McAuley
 
-[Paper](https://openreview.net/pdf?id=ZgQ0t3zYTQ)
+[HF Dataset](https://huggingface.co/datasets/ai-hyz/MemoryAgentBench) \| [Code](https://github.com/HUST-AI-HYZ/MemoryAgentBench) \| [Paper](https://openreview.net/pdf?id=ZgQ0t3zYTQ)
 
 Submitted to **NeurIPs 2025 (D&B)** / Will be presented on **ICML 2025 LCFM Workshop**
 
-<!-- TLDR: xxxx -->
-
 </div>
 </div>
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/paper_main/Sciml_Diagnosis.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/paper_main/Sciml_Diagnosis.jpg' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **[2] Loss Landscape Analysis of Scientific Machine Learning Models**
@@ -80,7 +106,7 @@ Under Review
 
 
 ## Published
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='images/paper_main/ICML2025_FARMS.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='images/paper_main/ICML2025_FARMS.jpg' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **[3] Eigenspectrum Analysis of Neural Networks without Aspect Ratio Bias**
@@ -96,7 +122,7 @@ Under Review
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2024</div><img src='images/paper_main/EMNLP_2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2024</div><img src='images/paper_main/EMNLP_2024.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **[4] Model Balancing Helps Low-data Training and Fine-tuning**
@@ -114,7 +140,7 @@ Under Review
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='images/paper_main/ICML2025_Mplus.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='images/paper_main/ICML2025_Mplus.jpg' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **[5] M+: Extending MemoryLLM with Scalable Long-Term Memory**
@@ -133,5 +159,5 @@ Yu Wang, Dmitry Krotov, **Yuanzhe Hu**, Yifan Gao, Wangchunshu Zhou, Julian McAu
 
 
 
-Last Update: 07/04/2025
+Last Update: 07/2025
 
