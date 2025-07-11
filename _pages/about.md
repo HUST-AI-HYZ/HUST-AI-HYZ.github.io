@@ -113,7 +113,7 @@ Under Preparation
 
 **Yuanzhe Hu**, Kinshuk Goel, Vlad Killiakov, Yaoqing Yang
 
-[Code](https://github.com/HUST-AI-HYZ/FARMS) \| [Paper](https://arxiv.org/abs/2506.06280) \| [Video](https://recorder-v3.slideslive.com/?share=101775&s=d33c2fb4-ab78-47fc-a76b-0a9e7aef1a02) \| [Review](https://openreview.net/forum?id=7ywj1B3DuO&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICML.cc%2F2025%2FConference%2FAuthors%23your-submissions)) \| ![Star Count](https://img.shields.io/github/stars/HUST-AI-HYZ/FARMS.svg)
+[Code](https://github.com/HUST-AI-HYZ/FARMS) \| [Paper](https://arxiv.org/abs/2506.06280) \| [ICML Website](https://icml.cc/virtual/2025/poster/46300) \| [Review](https://openreview.net/forum?id=7ywj1B3DuO&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICML.cc%2F2025%2FConference%2FAuthors%23your-submissions)) \| ![Star Count](https://img.shields.io/github/stars/HUST-AI-HYZ/FARMS.svg)
 
 **ICML 2025**
 
