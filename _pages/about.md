@@ -23,8 +23,8 @@ Hi, I'm Yuanzhe, a master student at University of Califronia, San Diego. I have
 
 My current research is focused on
 
-- Understanding the mechanisms, dynamics and generalization of LLM and SciML Models [2, [3](https://arxiv.org/abs/2506.06280), [4](https://arxiv.org/abs/2410.12178)].
-- Memory mechanisms in LLM & Agent [[1](https://openreview.net/pdf?id=ZgQ0t3zYTQ), [5](https://arxiv.org/abs/2502.00592)].
+- Understanding the mechanisms, dynamics and generalization of LLM and SciML models via numerical analysis. [2, [3](https://arxiv.org/abs/2506.06280), [4](https://arxiv.org/abs/2410.12178)].
+- Memory system in LLM & Agent [[1](https://arxiv.org/abs/2507.05257), [5](https://arxiv.org/abs/2502.00592)].
 
 I am actively seeking for <span style="color: red;">**26 Fall CS/ECE PhD Positions**</span>, **research internship** after M.S graduation (about six months), and **collobration opportunities**. 
 
