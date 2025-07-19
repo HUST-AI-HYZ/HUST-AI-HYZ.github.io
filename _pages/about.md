@@ -51,7 +51,7 @@ I am actively seeking for <span style="color: red;">**26 Fall CS/ECE PhD Positio
     </td>
     <td style="border: none; vertical-align: middle;">
       <b>Huazhong University of Science and Technology (HUST)</b><br>
-      B.S. in Artificial Intelligence, Innovation Experimental Honor Class, Qiming School<br>
+      BEng. in Artificial Intelligence, Innovation Experimental Honor Class, Qiming School<br>
       GPA: 3.91/4.0
     </td>
     <td style="text-align: right; border: none; vertical-align: middle; white-space: nowrap;">
