@@ -83,7 +83,7 @@ I am actively seeking for <span style="color: red;">**26 Fall CS/ECE PhD Positio
 
 [HF Dataset](https://huggingface.co/datasets/ai-hyz/MemoryAgentBench) \| [Code](https://github.com/HUST-AI-HYZ/MemoryAgentBench) \| [Paper](https://arxiv.org/abs/2507.05257) \| ![Star Count](https://img.shields.io/github/stars/HUST-AI-HYZ/MemoryAgentBench.svg)
 
-Submitted to **NeurIPs 2025 (D&B)** / Will be presented on **ICML 2025 LCFM Workshop**
+Submitted to **NeurIPs 2025 (D&B)** / **ICML 2025 LCFM Workshop**
 
 </div>
 </div>
