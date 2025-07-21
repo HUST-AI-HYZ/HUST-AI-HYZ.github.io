@@ -73,7 +73,7 @@ I am actively seeking for <span style="color: red;">**26 Fall CS/ECE PhD Positio
 
 (# denotes equal contribution)
 
-## Preprints & On-working Prj
+## Preprints & On-Working Prj
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/paper_main/MemAgentBench.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -90,14 +90,14 @@ Submitted to **NeurIPs 2025 (D&B)** / **ICML 2025 LCFM Workshop**
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/paper_main/Sciml_Diagnosis.jpg' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">On-Working</div><img src='images/paper_main/Sciml_Diagnosis.jpg' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **[2] Loss Landscape Analysis of Scientific Machine Learning Models**
 
 <!-- {Haiquan Lu#, **Yuanzhe Hu#**}, Yefan Zhou, Tianyu Pang, Xiaotian Liu, Pu Ren, Yaoqing Yang  -->
 
-On-working, aimming at ICLR 2026.
+On-Working, aimming at ICLR 2026.
 
 </div>
 </div>
