@@ -23,7 +23,7 @@ Hi, I'm Yuanzhe, a master student at University of Califronia, San Diego. I have
 
 My current research is focused on
 
-- Understanding the mechanisms, dynamics and generalization of LLM and SciML models via numerical analysis. [2, [3](https://arxiv.org/abs/2506.06280), [4](https://arxiv.org/abs/2410.12178)].
+- Understanding the mechanisms, dynamics and generalization of LLM and SciML models via mathematical analysis. [2, [3](https://arxiv.org/abs/2506.06280), [4](https://arxiv.org/abs/2410.12178)].
 - Memory system in LLM & Agent [[1](https://arxiv.org/abs/2507.05257), [5](https://arxiv.org/abs/2502.00592)].
 
 <!-- I am actively seeking for <span style="color: red;">**26 Fall CS/ECE PhD Positions**</span>, **research internship** after M.S graduation (about six months), and **collobration opportunities**.  -->
@@ -61,14 +61,6 @@ My current research is focused on
 </table>
 
 
-# 🔥 News
-- *2025.07*: &nbsp;😁 We open-sourced the [MemoryAgentBench](https://github.com/HUST-AI-HYZ/MemoryAgentBench). Thanks for the great help from [Yu Wang](https://yuwang.us)! 
-- *2025.05*: &nbsp;🎉🎉 Two papers are accepted by [ICML 2025](https://icml.cc/) as **Poster**! See you at Vancouver.
-- *2024.09*: &nbsp;🎉🎉 Excited to share that our work “Model Balancing Helps Low-data Training and Fine-tuning” is accepted by [EMNLP 2024](https://2024.emnlp.org) as **Oral Presentation**!
-- *2024.06*: &nbsp;😁 I graduated from HUST!
-- *2024.06*: &nbsp;😄 I created my account on OpenReview!
-
-
 # 📝 Writing Samples 
 
 (# denotes equal contribution)
@@ -81,9 +73,14 @@ My current research is focused on
 
 {**Yuanzhe Hu#**, Yu Wang#}, Julian McAuley
 
+Submitted to **NeurIPs 2025 (D&B)** / **ICML 2025 LCFM Workshop**
+
+**Short Summary:**  MemoryAgentBench is the first unified and comprehensive benchmark assessing LLM agents’ memory via incremental, multi-turn interactions. It targets four competencies—accurate retrieval, test-time learning, long-range understanding, and conflict resolution—and shows that neither long-context transformers nor retrieval-augmented methods fully satisfy them. By “chunking” existing datasets and introducing EventQA and FactConsolidation tasks, evaluations of various memory agents reveal major gaps in real-time learning and conflict handling.
+
+
+
 [HF Dataset](https://huggingface.co/datasets/ai-hyz/MemoryAgentBench) \| [Code](https://github.com/HUST-AI-HYZ/MemoryAgentBench) \| [Paper](https://arxiv.org/abs/2507.05257) \| ![Star Count](https://img.shields.io/github/stars/HUST-AI-HYZ/MemoryAgentBench.svg)
 
-Submitted to **NeurIPs 2025 (D&B)** / **ICML 2025 LCFM Workshop**
 
 </div>
 </div>
@@ -113,9 +110,13 @@ On-Working, aimming at ICLR 2026.
 
 **Yuanzhe Hu**, Kinshuk Goel, Vlad Killiakov, Yaoqing Yang
 
+**ICML 2025**
+
+**Short Summary:** FARMS addresses aspect‐ratio bias in heavy‐tailed self‐regularization eigenspectrum analysis by subsampling weight matrices into fixed‐aspect‐ratio submatrices and averaging their empirical spectral densities, yielding more accurate heavy‐tailedness metrics and improved layer‐wise hyperparameter tuning across domains such as vision, scientific ML, and LLM pruning
+. Applying FARMS further enhances previous state‐of‐the‐art layer‐wise optimization algorithms.
+
 [Code](https://github.com/HUST-AI-HYZ/FARMS) \| [Paper](https://arxiv.org/abs/2506.06280) \| [ICML Website](https://icml.cc/virtual/2025/poster/46300) \| [Review](https://openreview.net/forum?id=7ywj1B3DuO&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICML.cc%2F2025%2FConference%2FAuthors%23your-submissions)) \| ![Star Count](https://img.shields.io/github/stars/HUST-AI-HYZ/FARMS.svg)
 
-**ICML 2025**
 
 </div>
 </div>
@@ -129,9 +130,13 @@ On-Working, aimming at ICLR 2026.
 
 {Zihang Liu#, **Yuanzhe Hu#**}, Tianyu Pang, Yefan Zhou, Pu Ren, Yaoqing Yang
 
+**EMNLP 2024 <span style="color: red;">, Oral (168/6105=2.75%), Meta Review OA=5.0</span>**
+
+**Short Summary:** Based on Heavy-Tailed Self-Regularization theory, this paper identifies that low-data fine-tuning induces imbalanced training quality across model layers—measured via the variance of power-law exponents in each layer’s empirical spectral density. To address this, the authors adapt an advanced layer-wise learning-rate scheduler, which dynamically assigns higher rates to undertrained layers and lower rates to overtrained ones. Empirical results show that our method substantially improves few-shot fine-tuning in both NLP benchmarks (e.g., LLaMA-7B on ScienceQA) and scientific machine-learning tasks (e.g., neural PDE solvers), with gains that grow as available data decreases. 
+
+
 [Code](https://github.com/ZihangHLiu/ModelBalancing) \| [Paper](https://arxiv.org/abs/2410.12178) \| [Video](https://us06web.zoom.us/rec/play/5RHeJiEVuG-yw_Ytt9cHPMzqEIm2xWenwjhHjJ4yt7camtmQObTndJ56YgBBw0A1TlNRGiwZ2MAw5klz.7Xm2WgzcHdxPjGqm?autoplay=true) \| [Review](./pdf/paper_review/Model_balancing_review.pdf) \| ![Star Count](https://img.shields.io/github/stars/ZihangHLiu/ModelBalancing.svg)
 
-**EMNLP 2024 <span style="color: red;">Oral, Rate (168/6105=2.75%)</span>**
 
 </div>
 </div>
@@ -147,17 +152,25 @@ On-Working, aimming at ICLR 2026.
 
 Yu Wang, Dmitry Krotov, **Yuanzhe Hu**, Yifan Gao, Wangchunshu Zhou, Julian McAuley, Dan Gutfreund, Rogerio Feris, Zexue He
 
+**ICML 2025**
+
+
+**Short Summary:** M+ builds on MemoryLLM by introducing a scalable long-term memory module and a co-trained retriever that stores and fetches dropped hidden-state tokens, enabling the model to retain and recall information over much longer contexts. By offloading memory to CPU and retrieving once per layer, M+ extends effective retention from under 20 K to over 160 K tokens, outperforming prior baselines on long-context understanding and knowledge-retention benchmarks while maintaining similar GPU memory usage.
+
+
 [机器之心](https://mp.weixin.qq.com/s/8fl3ymmJMn2P0_XBmVQQuw) \| [HF Model](https://huggingface.co/YuWangX/mplus-8b) \| [Code](https://github.com/wangyu-ustc/MemoryLLM) \| [Paper](https://arxiv.org/abs/2502.00592) \| [Review](https://openreview.net/forum?id=OcqbkROe8J&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICML.cc%2F2025%2FConference%2FAuthors%23your-submissions)) \| ![Star Count](https://img.shields.io/github/stars/wangyu-ustc/MemoryLLM.svg)
 
 
-
-**ICML 2025**
-
 </div>
 </div>
 
 
-
+# 🔥 News
+- *2025.07*: &nbsp;😁 We open-sourced the [MemoryAgentBench](https://github.com/HUST-AI-HYZ/MemoryAgentBench). Thanks for the great help from [Yu Wang](https://yuwang.us)! 
+- *2025.05*: &nbsp;🎉🎉 Two papers are accepted by [ICML 2025](https://icml.cc/) as **Poster**! See you at Vancouver.
+- *2024.09*: &nbsp;🎉🎉 Excited to share that our work “Model Balancing Helps Low-data Training and Fine-tuning” is accepted by [EMNLP 2024](https://2024.emnlp.org) as **Oral Presentation**!
+- *2024.06*: &nbsp;😁 I graduated from HUST!
+- *2024.06*: &nbsp;😄 I created my account on OpenReview!
 
 Last Update: 07/2025
 
