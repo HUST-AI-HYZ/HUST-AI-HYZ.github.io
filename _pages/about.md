@@ -114,7 +114,7 @@ On-Working, aimming at ICLR 2026.
 
 **Short Summary:** FARMS addresses aspect‐ratio bias in heavy‐tailed self‐regularization eigenspectrum analysis by subsampling weight matrices into fixed‐aspect‐ratio submatrices and averaging their empirical spectral densities, yielding more accurate heavy‐tailedness metrics and improved layer‐wise hyperparameter tuning across domains such as **LLM pruning**. Applying FARMS further enhances previous state‐of‐the‐art layer‐wise optimization algorithms.
 
-[Code](https://github.com/HUST-AI-HYZ/FARMS) \| [Paper](https://arxiv.org/abs/2506.06280) \| [ICML Website](https://icml.cc/virtual/2025/poster/46300) \| [Review](https://openreview.net/forum?id=7ywj1B3DuO&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICML.cc%2F2025%2FConference%2FAuthors%23your-submissions)) \| ![Star Count](https://img.shields.io/github/stars/HUST-AI-HYZ/FARMS.svg)
+[Code](https://github.com/HUST-AI-HYZ/FARMS) \| [Paper and Review](https://openreview.net/forum?id=7ywj1B3DuO&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICML.cc%2F2025%2FConference%2FAuthors%23your-submissions)) \| [ICML Website](https://icml.cc/virtual/2025/poster/46300)  \| ![Star Count](https://img.shields.io/github/stars/HUST-AI-HYZ/FARMS.svg)
 
 
 </div>
