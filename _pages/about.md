@@ -171,5 +171,5 @@ Yu Wang, Dmitry Krotov, **Yuanzhe Hu**, Yifan Gao, Wangchunshu Zhou, Julian McAu
 - *2024.06*: &nbsp;😁 I graduated from HUST!
 - *2024.06*: &nbsp;😄 I created my account on OpenReview!
 
-Last Update: 07/2025
+Last Update: 08/2025
 
