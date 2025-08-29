@@ -23,8 +23,8 @@ Hi, I'm Yuanzhe, a master student at University of Califronia, San Diego. I have
 
 My current research is focused on
 
-- Understanding the mechanisms, dynamics and generalization of LLM and SciML models via mathematical analysis. [2, [3](https://arxiv.org/abs/2506.06280), [4](https://arxiv.org/abs/2410.12178)].
-- Memory system in LLM & Agent [[1](https://arxiv.org/abs/2507.05257), [5](https://arxiv.org/abs/2502.00592)].
+- Understanding the mechanisms, dynamics and generalization of LLM and SciML models via mathematical analysis. [[2](https://arxiv.org/abs/2506.06280), [3](https://arxiv.org/abs/2410.12178)].
+- Memory system in LLM & Agent [[1](https://arxiv.org/abs/2507.05257), [4](https://arxiv.org/abs/2502.00592)].
 
 <!-- I am actively seeking for <span style="color: red;">**26 Fall CS/ECE PhD Positions**</span>, **research internship** after M.S graduation (about six months), and **collobration opportunities**.  -->
 
@@ -87,26 +87,11 @@ Submitted to **NeurIPs 2025 (D&B)** / **ICML 2025 LCFM Workshop**
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">On-Working</div><img src='images/paper_main/Sciml_Diagnosis.jpg' alt="sym" width="80%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**[2] Loss Landscape Analysis of Scientific Machine Learning Models**
-
-<!-- {Haiquan Lu#, **Yuanzhe Hu#**}, Yefan Zhou, Tianyu Pang, Xiaotian Liu, Pu Ren, Yaoqing Yang  -->
-
-On-Working, aimming at ICLR 2026.
-
-</div>
-</div>
-
-
-
-
 ## Published
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='images/paper_main/ICML2025_FARMS.jpg' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**[3] Eigenspectrum Analysis of Neural Networks without Aspect Ratio Bias**
+**[2] Eigenspectrum Analysis of Neural Networks without Aspect Ratio Bias**
 
 **Yuanzhe Hu**, Kinshuk Goel, Vlad Killiakov, Yaoqing Yang
 
@@ -125,7 +110,7 @@ On-Working, aimming at ICLR 2026.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2024</div><img src='images/paper_main/EMNLP_2024.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**[4] Model Balancing Helps Low-data Training and Fine-tuning**
+**[3] Model Balancing Helps Low-data Training and Fine-tuning**
 
 {Zihang Liu#, **Yuanzhe Hu#**}, Tianyu Pang, Yefan Zhou, Pu Ren, Yaoqing Yang
 
@@ -147,7 +132,7 @@ On-Working, aimming at ICLR 2026.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='images/paper_main/ICML2025_Mplus.jpg' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**[5] M+: Extending MemoryLLM with Scalable Long-Term Memory**
+**[4] M+: Extending MemoryLLM with Scalable Long-Term Memory**
 
 Yu Wang, Dmitry Krotov, **Yuanzhe Hu**, Yifan Gao, Wangchunshu Zhou, Julian McAuley, Dan Gutfreund, Rogerio Feris, Zexue He
 
