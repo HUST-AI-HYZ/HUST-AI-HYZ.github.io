@@ -75,8 +75,7 @@ My current research is focused on
 
 Submitted to **NeurIPs 2025 (D&B)** / **ICML 2025 LCFM Workshop**
 
-**Short Summary:**  MemoryAgentBench is the first unified and comprehensive benchmark assessing **LLM agents’ memory** via incremental, multi-turn interactions. It targets four competencies—accurate retrieval, test-time learning, long-range understanding, and conflict resolution—and shows that neither long-context transformers nor retrieval-augmented methods fully satisfy them. By “chunking” existing datasets and introducing EventQA and FactConsolidation tasks, evaluations of various memory agents reveal major gaps in real-time learning and conflict handling.
-
+**Short Summary:**  MemoryAgentBench is a new benchmark designed to evaluate four core competencies of memory agents in Large Language Models, highlighting the need for improved memory mechanisms.
 
 
 [HF Dataset](https://huggingface.co/datasets/ai-hyz/MemoryAgentBench) \| [Code](https://github.com/HUST-AI-HYZ/MemoryAgentBench) \| [Paper](https://arxiv.org/abs/2507.05257) \| ![Star Count](https://img.shields.io/github/stars/HUST-AI-HYZ/MemoryAgentBench.svg)
@@ -97,7 +96,7 @@ Submitted to **NeurIPs 2025 (D&B)** / **ICML 2025 LCFM Workshop**
 
 **ICML 2025**
 
-**Short Summary:** FARMS addresses aspect‐ratio bias in heavy‐tailed self‐regularization eigenspectrum analysis by subsampling weight matrices into fixed‐aspect‐ratio submatrices and averaging their empirical spectral densities, yielding more accurate heavy‐tailedness metrics and improved layer‐wise hyperparameter tuning across domains such as **LLM pruning**. Applying FARMS further enhances previous state‐of‐the‐art layer‐wise optimization algorithms.
+**Short Summary:** FARMS, a method for normalizing weight matrices by subsampling with a fixed aspect ratio based on M-P Law, improves the accuracy of eigenspectrum analysis and layer-wise hyperparameter assignment across various domains, including image classification, scientific machine learning, and large language model pruning.
 
 [Code](https://github.com/HUST-AI-HYZ/FARMS) \| [Paper and Review](https://openreview.net/forum?id=7ywj1B3DuO&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICML.cc%2F2025%2FConference%2FAuthors%23your-submissions)) \| [ICML Website](https://icml.cc/virtual/2025/poster/46300)  \| ![Star Count](https://img.shields.io/github/stars/HUST-AI-HYZ/FARMS.svg)
 
@@ -116,7 +115,7 @@ Submitted to **NeurIPs 2025 (D&B)** / **ICML 2025 LCFM Workshop**
 
 **EMNLP 2024 <span style="color: red;">, Oral (168/6105=2.75%), Meta Review OA=5.0</span>**
 
-**Short Summary:** This paper identifies that **low-data fine-tuning** induces imbalanced training quality across model layers—measured via the variance of power-law exponents in each layer’s empirical spectral density. To address this, we adapt an advanced layer-wise learning-rate scheduler, which dynamically assigns higher rates to undertrained layers and lower rates to overtrained ones. Empirical results show that our method substantially improves few-shot fine-tuning in both NLP benchmarks and SciML, with gains that grow as available data decreases. 
+**Short Summary:** This paper introduce a modified layer-wise learning rate scheduler, improves low-data training and fine-tuning performance in both NLP and SciML by balancing training quality across model layers.
 
 
 [Code](https://github.com/ZihangHLiu/ModelBalancing) \| [Paper](https://arxiv.org/abs/2410.12178) \| [Video](https://us06web.zoom.us/rec/play/5RHeJiEVuG-yw_Ytt9cHPMzqEIm2xWenwjhHjJ4yt7camtmQObTndJ56YgBBw0A1TlNRGiwZ2MAw5klz.7Xm2WgzcHdxPjGqm?autoplay=true) \| [Review](./pdf/paper_review/Model_balancing_review.pdf) \| ![Star Count](https://img.shields.io/github/stars/ZihangHLiu/ModelBalancing.svg)
@@ -139,7 +138,7 @@ Yu Wang, Dmitry Krotov, **Yuanzhe Hu**, Yifan Gao, Wangchunshu Zhou, Julian McAu
 **ICML 2025**
 
 
-**Short Summary:** M+ builds on MemoryLLM by introducing a scalable **long-term memory** module and a **co-trained retriever** that stores and fetches dropped hidden-state tokens, enabling the model to retain and recall information over much longer contexts. M+ extends effective retention from under 20 K to over 160 K tokens, outperforming prior baselines on long-context understanding and knowledge-retention benchmarks while maintaining similar GPU memory usage.
+**Short Summary:** M+ enhances long-term information retention in large language models by integrating a retriever-based long-term memory mechanism, outperforming MemoryLLM and other baselines in knowledge retention tasks.
 
 
 [机器之心](https://mp.weixin.qq.com/s/8fl3ymmJMn2P0_XBmVQQuw) \| [HF Model](https://huggingface.co/YuWangX/mplus-8b) \| [Code](https://github.com/wangyu-ustc/MemoryLLM) \| [Paper](https://arxiv.org/abs/2502.00592) \| [Review](https://openreview.net/forum?id=OcqbkROe8J&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICML.cc%2F2025%2FConference%2FAuthors%23your-submissions)) \| ![Star Count](https://img.shields.io/github/stars/wangyu-ustc/MemoryLLM.svg)
