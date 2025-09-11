@@ -125,7 +125,7 @@ Submitted to **NeurIPs 2025 (D&B)** / **ICML 2025 LCFM Workshop**
 </div>
 
 ## Contributed
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='images/paper_main/K2-Think.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Tech Report</div><img src='images/paper_main/K2-Think.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **[4] K2-Think: A Parameter-Efficient Reasoning System**
