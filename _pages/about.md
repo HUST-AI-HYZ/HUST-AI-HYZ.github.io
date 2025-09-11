@@ -23,10 +23,13 @@ Hi, I'm Yuanzhe, a master student at University of Califronia, San Diego. I have
 
 My current research is focused on
 
-- Understanding the mechanisms, dynamics and generalization of LLM and SciML models via mathematical analysis. [[2](https://arxiv.org/abs/2506.06280), [3](https://arxiv.org/abs/2410.12178)].
-- Memory system in LLM & Agent [[1](https://arxiv.org/abs/2507.05257), [4](https://arxiv.org/abs/2502.00592)].
+- Understanding the mechanisms, dynamics and generalization of LLM and SciML models via mathematical analysis.
+- Memory system in LLM & Agent.
 
-<!-- I am actively seeking for <span style="color: red;">**26 Fall CS/ECE PhD Positions**</span>, **research internship** after M.S graduation (about six months), and **collobration opportunities**.  -->
+<!-- I am actively seeking for <span style="color: red;">**26 Fall CS/ECE PhD Positions**</span>, **research internship** after M.S graduation (about six months), and **collobration opportunities**. 
+[[2](https://arxiv.org/abs/2506.06280), [3](https://arxiv.org/abs/2410.12178)]
+[[1](https://arxiv.org/abs/2507.05257), [4](https://arxiv.org/abs/2502.00592)]
+ -->
 
 # 📖 Educations
 
@@ -65,7 +68,7 @@ My current research is focused on
 
 (# denotes equal contribution)
 
-## Preprints & On-Working Prj
+## First Authored
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/paper_main/MemAgentBench.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -84,9 +87,6 @@ Submitted to **NeurIPs 2025 (D&B)** / **ICML 2025 LCFM Workshop**
 </div>
 </div>
 
-
-
-## Published
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='images/paper_main/ICML2025_FARMS.jpg' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -124,14 +124,30 @@ Submitted to **NeurIPs 2025 (D&B)** / **ICML 2025 LCFM Workshop**
 </div>
 </div>
 
+## Contributed
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='images/paper_main/K2-Think.png' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**[4] K2-Think: A Parameter-Efficient Reasoning System**
+
+Zhoujun Cheng, Richard Fan, Shibo Hao, Taylor W. Killian, Haonan Li, Suqi Sun, Hector Ren, Alexander Moreno, Daqian Zhang, Tianjun Zhong, Yuxin Xiong, **Yuanzhe Hu**, Yutao Xie, Xudong Han, Yuqi Wang, Varad Pimpalkhute, Yonghao Zhuang, Aaryamonvikram Singh, Xuezhi Liang, Anze Xie, Jianshu She, Desai Fan, Chengqian Gao, Liqun Ma, Mikhail Yurochkin, John Maggs, Xuezhe Ma, Guowei He, Zhiting Hu, Zhengzhong Liu, Eric P. Xing
+
+**MBZUAI IFM Tech Report**
 
 
+**Short Summary:** K2-Think introduces a parameter-efficient reasoning system based on a 32B model, achieving state-of-the-art mathematical reasoning scores by synergistically combining advanced post-training and strategic test-time computation techniques. The system, leveraging Cerebras Wafer-Scale Engine, delivers a micro-average of 67.99 on challenging math benchmarks, outperforming much larger open-source models while enabling 10x faster inference.
 
+
+[NY Times](https://www.nytimes.com/2025/09/09/technology/uae-emirates-ai-open-source.html) \| [Forbes](https://www.forbes.com/sites/patrickmoorhead/2025/09/09/the-uae-showcases-its-abilities-in-ai-reasoning-with-k2-think-model/) \| [HF Model](https://huggingface.co/LLM360/K2-Think) \| [Code](https://github.com/MBZUAI-IFM/K2-Think-SFT) \| [Paper](https://arxiv.org/abs/2509.07604) \| ![Star Count](https://img.shields.io/github/stars/MBZUAI-IFM/K2-Think-SFT.svg)
+
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='images/paper_main/ICML2025_Mplus.jpg' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**[4] M+: Extending MemoryLLM with Scalable Long-Term Memory**
+**[5] M+: Extending MemoryLLM with Scalable Long-Term Memory**
 
 Yu Wang, Dmitry Krotov, **Yuanzhe Hu**, Yifan Gao, Wangchunshu Zhou, Julian McAuley, Dan Gutfreund, Rogerio Feris, Zexue He
 
@@ -149,11 +165,12 @@ Yu Wang, Dmitry Krotov, **Yuanzhe Hu**, Yifan Gao, Wangchunshu Zhou, Julian McAu
 
 
 # 🔥 News
+- *2025.07*: &nbsp;😁 Excited to share that our recent work "K2-Think: A Parameter-Efficient Reasoning System", which was report by NY Times and Forbes.
 - *2025.07*: &nbsp;😁 We open-sourced the [MemoryAgentBench](https://github.com/HUST-AI-HYZ/MemoryAgentBench). Thanks for the great help from [Yu Wang](https://yuwang.us)! 
 - *2025.05*: &nbsp;🎉🎉 Two papers are accepted by [ICML 2025](https://icml.cc/) as **Poster**! See you at Vancouver.
 - *2024.09*: &nbsp;🎉🎉 Excited to share that our work “Model Balancing Helps Low-data Training and Fine-tuning” is accepted by [EMNLP 2024](https://2024.emnlp.org) as **Oral Presentation**!
 - *2024.06*: &nbsp;😁 I graduated from HUST!
 - *2024.06*: &nbsp;😄 I created my account on OpenReview!
 
-Last Update: 08/2025
+Last Update: 09/2025
 
