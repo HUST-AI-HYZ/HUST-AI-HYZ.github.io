@@ -24,7 +24,7 @@ Hi, I'm Yuanzhe, a master student at University of Califronia, San Diego. I have
 My current research is focused on
 
 - Understanding the mechanisms, dynamics and generalization of LLM and SciML models via mathematical analysis.
-- Memory system in LLM & Agent.
+- Memory and Reasoning in LLM & Agent.
 
 <!-- I am actively seeking for <span style="color: red;">**26 Fall CS/ECE PhD Positions**</span>, **research internship** after M.S graduation (about six months), and **collobration opportunities**. 
 [[2](https://arxiv.org/abs/2506.06280), [3](https://arxiv.org/abs/2410.12178)]
@@ -132,7 +132,7 @@ Submitted to **NeurIPs 2025 (D&B)** / **ICML 2025 LCFM Workshop**
 
 Zhoujun Cheng, Richard Fan, Shibo Hao, Taylor W. Killian, Haonan Li, Suqi Sun, Hector Ren, Alexander Moreno, Daqian Zhang, Tianjun Zhong, Yuxin Xiong, **Yuanzhe Hu**, Yutao Xie, Xudong Han, Yuqi Wang, Varad Pimpalkhute, Yonghao Zhuang, Aaryamonvikram Singh, Xuezhi Liang, Anze Xie, Jianshu She, Desai Fan, Chengqian Gao, Liqun Ma, Mikhail Yurochkin, John Maggs, Xuezhe Ma, Guowei He, Zhiting Hu, Zhengzhong Liu, Eric P. Xing
 
-**MBZUAI IFM Tech Report**
+**MBZUAI IFM / LLM 360 Tech Report**
 
 
 **Short Summary:** K2-Think introduces a parameter-efficient reasoning system based on a 32B model, achieving state-of-the-art mathematical reasoning scores by synergistically combining advanced post-training and strategic test-time computation techniques. The system, leveraging Cerebras Wafer-Scale Engine, delivers a micro-average of 67.99 on challenging math benchmarks, outperforming much larger open-source models while enabling 10x faster inference.
