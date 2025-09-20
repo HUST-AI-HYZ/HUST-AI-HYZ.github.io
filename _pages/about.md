@@ -69,28 +69,10 @@ My current research is focused on
 (# denotes equal contribution)
 
 ## First Authored
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/paper_main/MemAgentBench.png' alt="sym" width="80%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**[1] Evaluating Memory in LLM Agents via Incremental Multi-Turn Interactions**
-
-{**Yuanzhe Hu#**, Yu Wang#}, Julian McAuley
-
-Submitted to **NeurIPs 2025 (D&B)** / **ICML 2025 LCFM Workshop**
-
-**Short Summary:**  MemoryAgentBench is a new benchmark designed to evaluate four core competencies of memory agents in Large Language Models, highlighting the need for improved memory mechanisms.
-
-
-[HF Dataset](https://huggingface.co/datasets/ai-hyz/MemoryAgentBench) \| [Code](https://github.com/HUST-AI-HYZ/MemoryAgentBench) \| [Paper](https://arxiv.org/abs/2507.05257) \| ![Star Count](https://img.shields.io/github/stars/HUST-AI-HYZ/MemoryAgentBench.svg)
-
-
-</div>
-</div>
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='images/paper_main/ICML2025_FARMS.jpg' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**[2] Eigenspectrum Analysis of Neural Networks without Aspect Ratio Bias**
+**[1] Eigenspectrum Analysis of Neural Networks without Aspect Ratio Bias**
 
 **Yuanzhe Hu**, Kinshuk Goel, Vlad Killiakov, Yaoqing Yang
 
@@ -109,7 +91,7 @@ Submitted to **NeurIPs 2025 (D&B)** / **ICML 2025 LCFM Workshop**
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2024</div><img src='images/paper_main/EMNLP_2024.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**[3] Model Balancing Helps Low-data Training and Fine-tuning**
+**[2] Model Balancing Helps Low-data Training and Fine-tuning**
 
 {Zihang Liu#, **Yuanzhe Hu#**}, Tianyu Pang, Yefan Zhou, Pu Ren, Yaoqing Yang
 
@@ -119,6 +101,26 @@ Submitted to **NeurIPs 2025 (D&B)** / **ICML 2025 LCFM Workshop**
 
 
 [Code](https://github.com/ZihangHLiu/ModelBalancing) \| [Paper](https://arxiv.org/abs/2410.12178) \| [Video](https://us06web.zoom.us/rec/play/5RHeJiEVuG-yw_Ytt9cHPMzqEIm2xWenwjhHjJ4yt7camtmQObTndJ56YgBBw0A1TlNRGiwZ2MAw5klz.7Xm2WgzcHdxPjGqm?autoplay=true) \| [Review](./pdf/paper_review/Model_balancing_review.pdf) \| ![Star Count](https://img.shields.io/github/stars/ZihangHLiu/ModelBalancing.svg)
+
+
+</div>
+</div>
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/paper_main/MemAgentBench.png' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**[3] Evaluating Memory in LLM Agents via Incremental Multi-Turn Interactions**
+
+{**Yuanzhe Hu#**, Yu Wang#}, Julian McAuley
+
+Under Review / **ICML 2025 LCFM Workshop**
+
+**Short Summary:**  MemoryAgentBench is a new benchmark designed to evaluate four core competencies of memory agents in Large Language Models, highlighting the need for improved memory mechanisms.
+
+
+[HF Dataset](https://huggingface.co/datasets/ai-hyz/MemoryAgentBench) \| [Code](https://github.com/HUST-AI-HYZ/MemoryAgentBench) \| [Paper](https://arxiv.org/abs/2507.05257) \| ![Star Count](https://img.shields.io/github/stars/HUST-AI-HYZ/MemoryAgentBench.svg)
 
 
 </div>
