@@ -68,7 +68,7 @@ My current research is focused on
 
 (# denotes equal contribution)
 
-## First Authored
+## First / Leading Authored
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='images/paper_main/ICML2025_FARMS.jpg' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -127,7 +127,7 @@ Under Review / **ICML 2025 LCFM Workshop**
 </div>
 
 ## Contributed
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Tech Report</div><img src='images/paper_main/K2-Think.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Tech Report</div><img src='images/paper_main/K2-Think.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **[4] K2-Think: A Parameter-Efficient Reasoning System**
@@ -137,19 +137,19 @@ Zhoujun Cheng, Richard Fan, Shibo Hao, Taylor W. Killian, Haonan Li, Suqi Sun, H
 **MBZUAI IFM / LLM 360 Tech Report**
 
 
-**Short Summary:** K2-Think introduces a parameter-efficient reasoning system based on a 32B model, achieving state-of-the-art mathematical reasoning scores by synergistically combining advanced post-training and strategic test-time computation techniques. The system, leveraging Cerebras Wafer-Scale Engine, delivers a micro-average of 67.99 on challenging math benchmarks, outperforming much larger open-source models while enabling 10x faster inference.
+**Short Summary:** K2-Think introduces a parameter-efficient reasoning system based on a 32B model, achieving state-of-the-art mathematical reasoning scores by synergistically combining advanced post-training and strategic test-time computation techniques.
 
+**Main contribution:** Reasoning LLM SFT on 32B Models.  
 
-[NY Times](https://www.nytimes.com/2025/09/09/technology/uae-emirates-ai-open-source.html) \| [Forbes](https://www.forbes.com/sites/patrickmoorhead/2025/09/09/the-uae-showcases-its-abilities-in-ai-reasoning-with-k2-think-model/) \| [HF Model](https://huggingface.co/LLM360/K2-Think) \| [Code](https://github.com/MBZUAI-IFM/K2-Think-SFT) \| [Paper](https://arxiv.org/abs/2509.07604) \| ![Star Count](https://img.shields.io/github/stars/MBZUAI-IFM/K2-Think-SFT.svg)
-
+[NY Times](https://www.nytimes.com/2025/09/09/technology/uae-emirates-ai-open-source.html) \| [Forbes](https://www.forbes.com/sites/patrickmoorhead/2025/09/09/the-uae-showcases-its-abilities-in-ai-reasoning-with-k2-think-model/) \| [Paper](https://arxiv.org/abs/2509.07604) 
 
 </div>
-</div> -->
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='images/paper_main/ICML2025_Mplus.jpg' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**[4] M+: Extending MemoryLLM with Scalable Long-Term Memory**
+**[5] M+: Extending MemoryLLM with Scalable Long-Term Memory**
 
 Yu Wang, Dmitry Krotov, **Yuanzhe Hu**, Yifan Gao, Wangchunshu Zhou, Julian McAuley, Dan Gutfreund, Rogerio Feris, Zexue He
 
@@ -158,8 +158,9 @@ Yu Wang, Dmitry Krotov, **Yuanzhe Hu**, Yifan Gao, Wangchunshu Zhou, Julian McAu
 
 **Short Summary:** M+ enhances long-term information retention in large language models by integrating a retriever-based long-term memory mechanism, outperforming MemoryLLM and other baselines in knowledge retention tasks.
 
+**Main contribution:** Built the Evaluation Framework for M+. 
 
-[机器之心](https://mp.weixin.qq.com/s/8fl3ymmJMn2P0_XBmVQQuw) \| [HF Model](https://huggingface.co/YuWangX/mplus-8b) \| [Code](https://github.com/wangyu-ustc/MemoryLLM) \| [Paper](https://arxiv.org/abs/2502.00592) \| [Review](https://openreview.net/forum?id=OcqbkROe8J&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICML.cc%2F2025%2FConference%2FAuthors%23your-submissions)) \| ![Star Count](https://img.shields.io/github/stars/wangyu-ustc/MemoryLLM.svg)
+[机器之心](https://mp.weixin.qq.com/s/8fl3ymmJMn2P0_XBmVQQuw) \| [Code](https://github.com/wangyu-ustc/MemoryLLM) \| [Paper](https://arxiv.org/abs/2502.00592) \| [Review](https://openreview.net/forum?id=OcqbkROe8J&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICML.cc%2F2025%2FConference%2FAuthors%23your-submissions)) \| ![Star Count](https://img.shields.io/github/stars/wangyu-ustc/MemoryLLM.svg)
 
 
 </div>
@@ -167,7 +168,7 @@ Yu Wang, Dmitry Krotov, **Yuanzhe Hu**, Yifan Gao, Wangchunshu Zhou, Julian McAu
 
 
 # 🔥 News
-<!-- - *2025.09*: &nbsp;😁 Excited to share that our recent work "K2-Think: A Parameter-Efficient Reasoning System", which was report by NY Times and Forbes. -->
+- *2025.09*: &nbsp;😁 Excited to share that our recent work "K2-Think: A Parameter-Efficient Reasoning System".
 - *2025.07*: &nbsp;😁 We open-sourced the [MemoryAgentBench](https://github.com/HUST-AI-HYZ/MemoryAgentBench). Thanks for the great help from [Yu Wang](https://yuwang.us)! 
 - *2025.05*: &nbsp;🎉🎉 Two papers are accepted by [ICML 2025](https://icml.cc/) as **Poster**! See you at Vancouver.
 - *2024.09*: &nbsp;🎉🎉 Excited to share that our work “Model Balancing Helps Low-data Training and Fine-tuning” is accepted by [EMNLP 2024](https://2024.emnlp.org) as **Oral Presentation**!
