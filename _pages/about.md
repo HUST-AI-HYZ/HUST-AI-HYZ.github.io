@@ -139,7 +139,6 @@ Zhoujun Cheng, Richard Fan, Shibo Hao, Taylor W. Killian, Haonan Li, Suqi Sun, H
 
 **Short Summary:** K2-Think introduces a parameter-efficient reasoning system based on a 32B model, achieving state-of-the-art mathematical reasoning scores by synergistically combining advanced post-training and strategic test-time computation techniques.
 
-**Main contribution:** Reasoning LLM SFT on 32B Models.  
 
 [NY Times](https://www.nytimes.com/2025/09/09/technology/uae-emirates-ai-open-source.html) \| [Forbes](https://www.forbes.com/sites/patrickmoorhead/2025/09/09/the-uae-showcases-its-abilities-in-ai-reasoning-with-k2-think-model/) \| [Paper](https://arxiv.org/abs/2509.07604) 
 
@@ -157,8 +156,6 @@ Yu Wang, Dmitry Krotov, **Yuanzhe Hu**, Yifan Gao, Wangchunshu Zhou, Julian McAu
 
 
 **Short Summary:** M+ enhances long-term information retention in large language models by integrating a retriever-based long-term memory mechanism, outperforming MemoryLLM and other baselines in knowledge retention tasks.
-
-**Main contribution:** Built the Evaluation Framework for M+. 
 
 [机器之心](https://mp.weixin.qq.com/s/8fl3ymmJMn2P0_XBmVQQuw) \| [Code](https://github.com/wangyu-ustc/MemoryLLM) \| [Paper](https://arxiv.org/abs/2502.00592) \| [Review](https://openreview.net/forum?id=OcqbkROe8J&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICML.cc%2F2025%2FConference%2FAuthors%23your-submissions)) \| ![Star Count](https://img.shields.io/github/stars/wangyu-ustc/MemoryLLM.svg)
 
