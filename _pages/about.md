@@ -120,7 +120,7 @@ Under Review / **ICML 2025 LCFM Workshop**
 **Short Summary:**  MemoryAgentBench is a new benchmark designed to evaluate four core competencies of memory agents in Large Language Models, highlighting the need for improved memory mechanisms.
 
 
-[HF Dataset](https://huggingface.co/datasets/ai-hyz/MemoryAgentBench) \| [Code](https://github.com/HUST-AI-HYZ/MemoryAgentBench) \| [Paper](https://arxiv.org/abs/2507.05257) \| ![Star Count](https://img.shields.io/github/stars/HUST-AI-HYZ/MemoryAgentBench.svg)
+[HF Dataset](https://huggingface.co/datasets/ai-hyz/MemoryAgentBench) \| [Code](https://github.com/HUST-AI-HYZ/MemoryAgentBench) \| [Paper](https://arxiv.org/abs/2507.05257v2) \| ![Star Count](https://img.shields.io/github/stars/HUST-AI-HYZ/MemoryAgentBench.svg)
 
 
 </div>
