@@ -78,7 +78,7 @@ My current research is focused on
 
 **ICML 2025**
 
-**Short Summary:** FARMS, a method for normalizing weight matrices by subsampling with a fixed aspect ratio based on M-P Law, improves the accuracy of eigenspectrum analysis and layer-wise hyperparameter assignment across various domains, including image classification, scientific machine learning, and large language model pruning.
+**Short Summary:** FARMS, a method for normalizing weight matrices by subsampling with a fixed aspect ratio based on M-P Law, improves the accuracy of eigenspectrum analysis and layer-wise hyperparameter assignment across various domains, including SciML, and LLM pruning.
 
 [Code](https://github.com/HUST-AI-HYZ/FARMS) \| [Paper and Review](https://openreview.net/forum?id=7ywj1B3DuO&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICML.cc%2F2025%2FConference%2FAuthors%23your-submissions)) \| [ICML Website](https://icml.cc/virtual/2025/poster/46300)  \| ![Star Count](https://img.shields.io/github/stars/HUST-AI-HYZ/FARMS.svg)
 
@@ -97,7 +97,7 @@ My current research is focused on
 
 **EMNLP 2024 <span style="color: red;">, Oral (168/6105=2.75%), Meta Review OA=5.0</span>**
 
-**Short Summary:** This paper introduce a modified layer-wise learning rate scheduler, improves low-data training and fine-tuning performance in both NLP and SciML by balancing training quality across model layers.
+**Short Summary:** This paper introduce a modified layer-wise learning rate scheduler, improves low-data training and fine-tuning performance in both LLM and SciML by balancing training quality across model layers.
 
 
 [Code](https://github.com/ZihangHLiu/ModelBalancing) \| [Paper](https://arxiv.org/abs/2410.12178) \| [Video](https://us06web.zoom.us/rec/play/5RHeJiEVuG-yw_Ytt9cHPMzqEIm2xWenwjhHjJ4yt7camtmQObTndJ56YgBBw0A1TlNRGiwZ2MAw5klz.7Xm2WgzcHdxPjGqm?autoplay=true) \| [Review](./pdf/paper_review/Model_balancing_review.pdf) \| ![Star Count](https://img.shields.io/github/stars/ZihangHLiu/ModelBalancing.svg)
@@ -117,7 +117,7 @@ My current research is focused on
 
 Under Review / **ICML 2025 LCFM Workshop**
 
-**Short Summary:**  MemoryAgentBench is a new benchmark designed to evaluate four core competencies of memory agents in Large Language Models, highlighting the need for improved memory mechanisms.
+**Short Summary:**  MemoryAgentBench is a new benchmark designed to evaluate four core competencies of memory agents in LLMs, highlighting the need for improved memory mechanisms.
 
 
 [HF Dataset](https://huggingface.co/datasets/ai-hyz/MemoryAgentBench) \| [Code](https://github.com/HUST-AI-HYZ/MemoryAgentBench) \| [Paper](https://arxiv.org/abs/2507.05257v2) \| ![Star Count](https://img.shields.io/github/stars/HUST-AI-HYZ/MemoryAgentBench.svg)
@@ -127,10 +127,31 @@ Under Review / **ICML 2025 LCFM Workshop**
 </div>
 
 ## Contributed
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/paper_main/Mem_Alpha.png' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**[4] Mem-$\alpha$: Learning Memory Construction via Reinforcement Learning**
+
+Yu Wang, Ryuichi Takanobu, Zhiqi Liang, Yuzhen Mao, **Yuanzhe Hu**, Julian McAuley, Xiaojian Wu
+
+**Under Review**
+
+
+**Short Summary:** Mem-alpha, a reinforcement learning framework, enhances memory management in LLMs through interaction and feedback, improving performance and generalization in long-term information understanding.
+
+
+[Paper](https://arxiv.org/abs/2509.25911) 
+
+</div>
+</div>
+
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Tech Report</div><img src='images/paper_main/K2-Think.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**[4] K2-Think: A Parameter-Efficient Reasoning System**
+**[5] K2-Think: A Parameter-Efficient Reasoning System**
 
 Zhoujun Cheng, Richard Fan, Shibo Hao, Taylor W. Killian, Haonan Li, Suqi Sun, Hector Ren, Alexander Moreno, Daqian Zhang, Tianjun Zhong, Yuxin Xiong, **Yuanzhe Hu**, Yutao Xie, Xudong Han, Yuqi Wang, Varad Pimpalkhute, Yonghao Zhuang, Aaryamonvikram Singh, Xuezhi Liang, Anze Xie, Jianshu She, Desai Fan, Chengqian Gao, Liqun Ma, Mikhail Yurochkin, John Maggs, Xuezhe Ma, Guowei He, Zhiting Hu, Zhengzhong Liu, Eric P. Xing
 
@@ -145,17 +166,19 @@ Zhoujun Cheng, Richard Fan, Shibo Hao, Taylor W. Killian, Haonan Li, Suqi Sun, H
 </div>
 </div>
 
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='images/paper_main/ICML2025_Mplus.jpg' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**[5] M+: Extending MemoryLLM with Scalable Long-Term Memory**
+**[6] M+: Extending MemoryLLM with Scalable Long-Term Memory**
 
 Yu Wang, Dmitry Krotov, **Yuanzhe Hu**, Yifan Gao, Wangchunshu Zhou, Julian McAuley, Dan Gutfreund, Rogerio Feris, Zexue He
 
 **ICML 2025**
 
 
-**Short Summary:** M+ enhances long-term information retention in large language models by integrating a retriever-based long-term memory mechanism, outperforming MemoryLLM and other baselines in knowledge retention tasks.
+**Short Summary:** M+ enhances long-term information retention in LLMs by integrating a retriever-based long-term memory mechanism, outperforming MemoryLLM and other baselines in knowledge retention tasks.
 
 [机器之心](https://mp.weixin.qq.com/s/8fl3ymmJMn2P0_XBmVQQuw) \| [Code](https://github.com/wangyu-ustc/MemoryLLM) \| [Paper](https://arxiv.org/abs/2502.00592) \| [Review](https://openreview.net/forum?id=OcqbkROe8J&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICML.cc%2F2025%2FConference%2FAuthors%23your-submissions)) \| ![Star Count](https://img.shields.io/github/stars/wangyu-ustc/MemoryLLM.svg)
 
