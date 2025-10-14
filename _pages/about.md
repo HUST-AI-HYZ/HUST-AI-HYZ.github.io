@@ -141,7 +141,7 @@ Yu Wang, Ryuichi Takanobu, Zhiqi Liang, Yuzhen Mao, **Yuanzhe Hu**, Julian McAul
 **Short Summary:** Mem-alpha, a reinforcement learning framework, enhances memory management in LLMs through interaction and feedback, improving performance and generalization in long-term information understanding.
 
 
-[Paper](https://arxiv.org/abs/2509.25911) 
+[Code](https://github.com/wangyu-ustc/Mem-alpha) \| [Paper](https://arxiv.org/abs/2509.25911) \| ![Star Count](https://img.shields.io/github/stars/wangyu-ustc/Mem-alpha.svg)
 
 </div>
 </div>
@@ -195,5 +195,5 @@ Yu Wang, Dmitry Krotov, **Yuanzhe Hu**, Yifan Gao, Wangchunshu Zhou, Julian McAu
 - *2024.06*: &nbsp;😁 I graduated from HUST!
 - *2024.06*: &nbsp;😄 I created my account on OpenReview!
 
-Last Update: 09/2025
+Last Update: 10/2025
 
