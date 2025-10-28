@@ -26,7 +26,7 @@ My current research is focused on
 - Understanding the mechanisms, dynamics and generalization of LLM pruning and post-training via mathematical analysis.
 - Memory and Reasoning in LLM & Agent.
 
-I am actively seeking for <span style="color: red;">**26 Fall CS/ECE/DS PhD Positions**</span>, **research internship** after M.S graduation (about six months), and **collobration opportunities** on Agentic Learning. Feel free to reach out! 
+I am actively seeking for <span style="color: red;">**26 Fall CS/ECE/DS PhD Positions**</span>, **industrial research internship** after M.S graduation (about six months), and **collobration opportunities** on Agentic Learning. Feel free to reach out! 
 
 # 📖 Educations
 <table>
