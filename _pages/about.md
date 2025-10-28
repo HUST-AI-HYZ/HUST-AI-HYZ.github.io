@@ -66,7 +66,7 @@ I am actively seeking for <span style="color: red;">**26 Fall CS/ECE/DS PhD Posi
     </td>
     <td style="border: none; vertical-align: middle;">
       <b>MIRIX: Multi-Agent Memory System for LLM-Based Agents</b><br>
-      My Contribution: Designed the framework for MIRIX's Evaluation and solved some bugs.<br><br>
+      My Contribution: Designed the framework for MIRIX's Evaluation, project maintenance and bug solving.<br><br>
       <a href="https://mirix.io"><img src="https://img.shields.io/badge/Website-mirix.io-A569BD?logo=googlechrome&logoColor=white" alt="Website"></a>
       <a href="https://github.com/Mirix-AI/MIRIX"><img src="https://img.shields.io/github/stars/Mirix-AI/MIRIX.svg" alt="Star Count"></a>
       <a href="https://github.com/Mirix-AI/MIRIX"><img src="https://img.shields.io/github/forks/Mirix-AI/MIRIX.svg" alt="Fork Count"></a>
