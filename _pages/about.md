@@ -68,9 +68,8 @@ I am actively seeking for <span style="color: red;">**26 Fall CS/ECE/DS PhD Posi
       <b>MIRIX: Multi-Agent Memory System for LLM-Based Agents</b><br>
       My Contribution: Designed the framework for MIRIX's Evaluation and solved some bugs.<br><br>
       <a href="https://mirix.io"><img src="https://img.shields.io/badge/Website-mirix.io-A569BD?logo=googlechrome&logoColor=white" alt="Website"></a>
-      <a href="https://github.com/Mirix-AI/MIRIX"><img src="https://img.shields.io/badge/Code-GitHub-5DADE2?logo=github&logoColor=white" alt="Code"></a>
-      <img src="https://img.shields.io/github/stars/Mirix-AI/MIRIX.svg" alt="Star Count">
-      <img src="https://img.shields.io/github/forks/Mirix-AI/MIRIX.svg" alt="Fork Count">
+      <a href="https://github.com/Mirix-AI/MIRIX"><img src="https://img.shields.io/github/stars/Mirix-AI/MIRIX.svg" alt="Star Count"></a>
+      <a href="https://github.com/Mirix-AI/MIRIX"><img src="https://img.shields.io/github/forks/Mirix-AI/MIRIX.svg" alt="Fork Count"></a>
     </td>
   </tr>
 </table>
@@ -94,8 +93,9 @@ I am actively seeking for <span style="color: red;">**26 Fall CS/ECE/DS PhD Posi
 
 **Short Summary:** A layer-wise LLM pruning method inspired by Marchenko–Pastur (MP) law. 
 
-[Paper](https://arxiv.org/abs/2506.06280) \| [Video](https://icml.cc/virtual/2025/poster/46300) \| [Review](https://openreview.net/forum?id=7ywj1B3DuO&referrer=%5BAuthor%20Console%5D%2Fgroup%3Fid%3DICML.cc%2F2025%2FConference%2FAuthors%23your-submissions) <br><br> <a href="https://github.com/HUST-AI-HYZ/FARMS"><img src="https://img.shields.io/badge/Code-GitHub-5DADE2?logo=github&logoColor=white" alt="Code"></a> ![Star Count](https://img.shields.io/github/stars/HUST-AI-HYZ/FARMS.svg)
+[Paper](https://arxiv.org/abs/2506.06280) \| [Video](https://icml.cc/virtual/2025/poster/46300) \| [Review](https://openreview.net/forum?id=7ywj1B3DuO&referrer=%5BAuthor%20Console%5D%2Fgroup%3Fid%3DICML.cc%2F2025%2FConference%2FAuthors%23your-submissions)  
 
+<a href="https://github.com/HUST-AI-HYZ/FARMS"><img src="https://img.shields.io/github/stars/HUST-AI-HYZ/FARMS.svg" alt="Star Count"></a>
 
 </div>
 </div>
@@ -114,7 +114,9 @@ I am actively seeking for <span style="color: red;">**26 Fall CS/ECE/DS PhD Posi
 **Short Summary:** Learning rate scheduler for LLM fine-tuning on low-source dataset. 
 
 
-[Paper](https://arxiv.org/abs/2410.12178) \| [Video](https://us06web.zoom.us/rec/play/5RHeJiEVuG-yw_Ytt9cHPMzqEIm2xWenwjhHjJ4yt7camtmQObTndJ56YgBBw0A1TlNRGiwZ2MAw5klz.7Xm2WgzcHdxPjGqm?autoplay=true) \| [Review](./pdf/paper_review/Model_balancing_review.pdf) <br><br> <a href="https://github.com/ZihangHLiu/ModelBalancing"><img src="https://img.shields.io/badge/Code-GitHub-5DADE2?logo=github&logoColor=white" alt="Code"></a> ![Star Count](https://img.shields.io/github/stars/ZihangHLiu/ModelBalancing.svg)
+[Paper](https://arxiv.org/abs/2410.12178) \| [Video](https://us06web.zoom.us/rec/play/5RHeJiEVuG-yw_Ytt9cHPMzqEIm2xWenwjhHjJ4yt7camtmQObTndJ56YgBBw0A1TlNRGiwZ2MAw5klz.7Xm2WgzcHdxPjGqm?autoplay=true) \| [Review](./pdf/paper_review/Model_balancing_review.pdf)
+
+<a href="https://github.com/ZihangHLiu/ModelBalancing"><img src="https://img.shields.io/github/stars/ZihangHLiu/ModelBalancing.svg" alt="Star Count"></a>
 
 
 </div>
@@ -134,7 +136,9 @@ Under Review / **ICML 2025 LCFM Workshop**
 **Short Summary:**  MemoryAgentBench is a new benchmark designed to comprehensively evaluate memory agents in LLMs. 
 
 
-[Paper](https://arxiv.org/abs/2507.05257v2) <br><br> <a href="https://huggingface.co/datasets/ai-hyz/MemoryAgentBench">  <a href="https://github.com/HUST-AI-HYZ/MemoryAgentBench"><img src="https://img.shields.io/badge/Code-GitHub-5DADE2?logo=github&logoColor=white" alt="Code"></a>   ![Star Count](https://img.shields.io/github/stars/HUST-AI-HYZ/MemoryAgentBench.svg)    <img src="https://img.shields.io/badge/Dataset-HuggingFace-FFD21E?logo=huggingface" alt="HF Dataset"></a> 
+[Paper](https://arxiv.org/abs/2507.05257v2)
+
+<a href="https://github.com/HUST-AI-HYZ/MemoryAgentBench"><img src="https://img.shields.io/github/stars/HUST-AI-HYZ/MemoryAgentBench.svg" alt="Star Count"></a> <a href="https://huggingface.co/datasets/ai-hyz/MemoryAgentBench"><img src="https://img.shields.io/badge/Dataset-HuggingFace-FFD21E?logo=huggingface" alt="HF Dataset"></a> 
 
 
 
@@ -156,7 +160,9 @@ Yu Wang, Ryuichi Takanobu, Zhiqi Liang, Yuzhen Mao, **Yuanzhe Hu**, Julian McAul
 **Short Summary:** Mem-alpha, a reinforcement learning framework, enhances memory management in LLMs through interaction and feedback.
 
 
-[Paper](https://arxiv.org/abs/2509.25911) <br><br> <a href="https://github.com/wangyu-ustc/Mem-alpha"><img src="https://img.shields.io/badge/Code-GitHub-5DADE2?logo=github" alt="Code"></a> ![Star Count](https://img.shields.io/github/stars/wangyu-ustc/Mem-alpha.svg)  <a href="https://mp.weixin.qq.com/s/a030XuwxVrVZBbrR8qfxNQ"><img src="https://img.shields.io/badge/Media-量子位-1ABC9C?logo=wechat" alt="量子位"></a>
+[Paper](https://arxiv.org/abs/2509.25911) 
+
+<a href="https://github.com/wangyu-ustc/Mem-alpha"><img src="https://img.shields.io/github/stars/wangyu-ustc/Mem-alpha.svg" alt="Star Count"></a>  <a href="https://mp.weixin.qq.com/s/a030XuwxVrVZBbrR8qfxNQ"><img src="https://img.shields.io/badge/Media-量子位-1ABC9C?logo=wechat" alt="量子位"></a>
 
 </div>
 </div>
@@ -176,7 +182,9 @@ Zhoujun Cheng, Richard Fan, Shibo Hao, Taylor W. Killian, Haonan Li, Suqi Sun, H
 **Short Summary:** K2-Think is a parameter-efficient reasoning system based on a 32B model.
 
 
-[Paper](https://arxiv.org/abs/2509.07604) <br><br> <a href="https://huggingface.co/LLM360/K2-Think"><img src="https://img.shields.io/badge/Model-HuggingFace-FFD21E?logo=huggingface" alt="Model"></a> <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fhuggingface.co%2Fapi%2Fmodels%2FLLM360%2FK2-Think&label=Downloads&query=%24.downloads&color=orange&logo=huggingface&cacheSeconds=3600" alt="Model Downloads">  <a href="https://www.nytimes.com/2025/09/09/technology/uae-emirates-ai-open-source.html"><img src="https://img.shields.io/badge/Media-NY_Times-555555?logo=nytimes" alt="NY Times"></a> <a href="https://www.forbes.com/sites/patrickmoorhead/2025/09/09/the-uae-showcases-its-abilities-in-ai-reasoning-with-k2-think-model/"><img src="https://img.shields.io/badge/Media-Forbes-5DADE2?logo=forbes" alt="Forbes"></a> 
+[Paper](https://arxiv.org/abs/2509.07604) 
+
+ <a href="https://huggingface.co/LLM360/K2-Think"><img src="https://img.shields.io/badge/Model-HuggingFace-FFD21E?logo=huggingface" alt="Model"></a> <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fhuggingface.co%2Fapi%2Fmodels%2FLLM360%2FK2-Think&label=Downloads&query=%24.downloads&color=orange&logo=huggingface&cacheSeconds=3600" alt="Model Downloads">  <a href="https://www.nytimes.com/2025/09/09/technology/uae-emirates-ai-open-source.html"><img src="https://img.shields.io/badge/Media-NY_Times-555555?logo=nytimes" alt="NY Times"></a> <a href="https://www.forbes.com/sites/patrickmoorhead/2025/09/09/the-uae-showcases-its-abilities-in-ai-reasoning-with-k2-think-model/"><img src="https://img.shields.io/badge/Media-Forbes-5DADE2?logo=forbes" alt="Forbes"></a> 
 
 </div>
 </div>
@@ -195,7 +203,9 @@ Yu Wang, Dmitry Krotov, **Yuanzhe Hu**, Yifan Gao, Wangchunshu Zhou, Julian McAu
 
 **Short Summary:** M+ enhances long-term information retention in LLMs by integrating a retriever-based long-term memory mechanism.
 
-[Paper](https://arxiv.org/abs/2502.00592) \| [Review](https://openreview.net/forum?id=OcqbkROe8J&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICML.cc%2F2025%2FConference%2FAuthors%23your-submissions)) <br><br> <a href="https://huggingface.co/YuWangX/mplus-8b"><img src="https://img.shields.io/badge/Model-HuggingFace-FFD21E?logo=huggingface" alt="Model"></a> <a href="https://github.com/wangyu-ustc/MemoryLLM"><img src="https://img.shields.io/badge/Code-GitHub-5DADE2?logo=github&logoColor=white" alt="Code"></a> ![Star Count](https://img.shields.io/github/stars/wangyu-ustc/MemoryLLM.svg)  <a href="https://mp.weixin.qq.com/s/8fl3ymmJMn2P0_XBmVQQuw"><img src="https://img.shields.io/badge/Media-机器之心-1ABC9C?logo=wechat" alt="机器之心"></a>
+[Paper](https://arxiv.org/abs/2502.00592) \| [Review](https://openreview.net/forum?id=OcqbkROe8J&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICML.cc%2F2025%2FConference%2FAuthors%23your-submissions)) 
+
+<a href="https://huggingface.co/YuWangX/mplus-8b"><img src="https://img.shields.io/badge/Model-HuggingFace-FFD21E?logo=huggingface" alt="Model"></a>    <a href="https://github.com/wangyu-ustc/MemoryLLM"><img src="https://img.shields.io/github/stars/wangyu-ustc/MemoryLLM.svg" alt="Star Count"></a>    <a href="https://mp.weixin.qq.com/s/8fl3ymmJMn2P0_XBmVQQuw"><img src="https://img.shields.io/badge/Media-机器之心-1ABC9C?logo=wechat" alt="机器之心"></a>
 
 
 </div>
