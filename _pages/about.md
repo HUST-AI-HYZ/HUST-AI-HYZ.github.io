@@ -162,7 +162,7 @@ Yu Wang, Ryuichi Takanobu, Zhiqi Liang, Yuzhen Mao, **Yuanzhe Hu**, Julian McAul
 
 [Paper](https://arxiv.org/abs/2509.25911) 
 
-<a href="https://github.com/wangyu-ustc/Mem-alpha"><img src="https://img.shields.io/github/stars/wangyu-ustc/Mem-alpha.svg" alt="Star Count"></a>  <a href="https://mp.weixin.qq.com/s/a030XuwxVrVZBbrR8qfxNQ"><img src="https://img.shields.io/badge/Media-量子位-1ABC9C?logo=wechat" alt="量子位"></a>
+<a href="https://github.com/wangyu-ustc/Mem-alpha"><img src="https://img.shields.io/github/stars/wangyu-ustc/Mem-alpha.svg" alt="Star Count"></a>  <a href="https://mp.weixin.qq.com/s/a030XuwxVrVZBbrR8qfxNQ"><img src="https://img.shields.io/badge/Media-量子位-1ABC9C?logo=wechat" alt="量子位"></a>  <a href="https://mp.weixin.qq.com/s/O9vmwD_khWfMa785xolJsw"><img src="https://img.shields.io/badge/Media-机器之心-1ABC9C?logo=wechat" alt="机器之心"></a>
 
 </div>
 </div>
@@ -220,5 +220,5 @@ Yu Wang, Dmitry Krotov, **Yuanzhe Hu**, Yifan Gao, Wangchunshu Zhou, Julian McAu
 - *2024.06*: &nbsp;😁 I graduated from HUST!
 - *2024.06*: &nbsp;😄 I created my account on OpenReview!
 
-Last Update: 10/2025
+Last Update: 11/2025
 
