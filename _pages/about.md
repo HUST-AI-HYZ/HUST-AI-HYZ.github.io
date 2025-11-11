@@ -68,8 +68,8 @@ I am actively seeking for <span style="color: red;">**26 Fall CS/ECE/DS PhD Posi
       <b>MIRIX: Multi-Agent Memory System for LLM-Based Agents</b><br>
       My Contribution: Designed the framework for MIRIX's Evaluation, project maintenance and bug solving.<br><br>
       <a href="https://mirix.io"><img src="https://img.shields.io/badge/Website-mirix.io-A569BD?logo=googlechrome&logoColor=white" alt="Website"></a>
-      <a href="https://github.com/Mirix-AI/MIRIX"><img src="https://img.shields.io/github/stars/Mirix-AI/MIRIX.svg" alt="Star Count"></a>
-      <a href="https://github.com/Mirix-AI/MIRIX"><img src="https://img.shields.io/github/forks/Mirix-AI/MIRIX.svg" alt="Fork Count"></a>
+      <a href="https://github.com/Mirix-AI/MIRIX"><img src="https://badgen.net/github/stars/Mirix-AI/MIRIX" alt="Star Count"></a>
+      <a href="https://github.com/Mirix-AI/MIRIX"><img src="https://badgen.net/github/forks/Mirix-AI/MIRIX" alt="Fork Count"></a>
     </td>
   </tr>
 </table>
@@ -95,7 +95,7 @@ I am actively seeking for <span style="color: red;">**26 Fall CS/ECE/DS PhD Posi
 
 [Paper](https://arxiv.org/abs/2506.06280) \| [Video](https://icml.cc/virtual/2025/poster/46300) \| [Review](https://openreview.net/forum?id=7ywj1B3DuO&referrer=%5BAuthor%20Console%5D%2Fgroup%3Fid%3DICML.cc%2F2025%2FConference%2FAuthors%23your-submissions)  
 
-<a href="https://github.com/HUST-AI-HYZ/FARMS"><img src="https://img.shields.io/github/stars/HUST-AI-HYZ/FARMS.svg" alt="Star Count"></a>
+<a href="https://github.com/HUST-AI-HYZ/FARMS"><img src="https://badgen.net/github/stars/HUST-AI-HYZ/FARMS" alt="Star Count"></a>
 
 </div>
 </div>
@@ -116,7 +116,7 @@ I am actively seeking for <span style="color: red;">**26 Fall CS/ECE/DS PhD Posi
 
 [Paper](https://arxiv.org/abs/2410.12178) \| [Video](https://us06web.zoom.us/rec/play/5RHeJiEVuG-yw_Ytt9cHPMzqEIm2xWenwjhHjJ4yt7camtmQObTndJ56YgBBw0A1TlNRGiwZ2MAw5klz.7Xm2WgzcHdxPjGqm?autoplay=true) \| [Review](./pdf/paper_review/Model_balancing_review.pdf)
 
-<a href="https://github.com/ZihangHLiu/ModelBalancing"><img src="https://img.shields.io/github/stars/ZihangHLiu/ModelBalancing.svg" alt="Star Count"></a>
+<a href="https://github.com/ZihangHLiu/ModelBalancing"><img src="https://badgen.net/github/stars/ZihangHLiu/ModelBalancing" alt="Star Count"></a>
 
 
 </div>
@@ -138,7 +138,7 @@ Under Review / **ICML 2025 LCFM Workshop**
 
 [Paper](https://arxiv.org/abs/2507.05257v2)
 
-<a href="https://github.com/HUST-AI-HYZ/MemoryAgentBench"><img src="https://img.shields.io/github/stars/HUST-AI-HYZ/MemoryAgentBench.svg" alt="Star Count"></a> <a href="https://huggingface.co/datasets/ai-hyz/MemoryAgentBench"><img src="https://img.shields.io/badge/Dataset-HuggingFace-FFD21E?logo=huggingface" alt="HF Dataset"></a> <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fhuggingface.co%2Fapi%2Fdatasets%2Fai-hyz%2FMemoryAgentBench%3Fexpand%255B%255D%3DdownloadsAllTime&query=%24.downloadsAllTime&label=Total%20Downloads&color=orange&logo=huggingface&cacheSeconds=3600" alt="Dataset Downloads"> 
+<a href="https://github.com/HUST-AI-HYZ/MemoryAgentBench"><img src="https://badgen.net/github/stars/HUST-AI-HYZ/MemoryAgentBench" alt="Star Count"></a>   <a href="https://huggingface.co/datasets/ai-hyz/MemoryAgentBench"><img src="https://img.shields.io/badge/Dataset-HuggingFace-FFD21E?logo=huggingface" alt="HF Dataset"></a> <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fhuggingface.co%2Fapi%2Fdatasets%2Fai-hyz%2FMemoryAgentBench%3Fexpand%255B%255D%3DdownloadsAllTime&query=%24.downloadsAllTime&label=Total%20Downloads&color=orange&logo=huggingface&cacheSeconds=3600" alt="Dataset Downloads"> 
 
 
 
@@ -162,7 +162,7 @@ Yu Wang, Ryuichi Takanobu, Zhiqi Liang, Yuzhen Mao, **Yuanzhe Hu**, Julian McAul
 
 [Paper](https://arxiv.org/abs/2509.25911) 
 
-<a href="https://github.com/wangyu-ustc/Mem-alpha"><img src="https://img.shields.io/github/stars/wangyu-ustc/Mem-alpha.svg" alt="Star Count"></a>  <a href="https://mp.weixin.qq.com/s/a030XuwxVrVZBbrR8qfxNQ"><img src="https://img.shields.io/badge/Media-量子位-1ABC9C?logo=wechat" alt="量子位"></a>  <a href="https://mp.weixin.qq.com/s/O9vmwD_khWfMa785xolJsw"><img src="https://img.shields.io/badge/Media-机器之心-1ABC9C?logo=wechat" alt="机器之心"></a>
+<a href="https://github.com/wangyu-ustc/Mem-alpha"><img src="https://badgen.net/github/stars/wangyu-ustc/Mem-alpha" alt="Star Count"></a>  <a href="https://mp.weixin.qq.com/s/a030XuwxVrVZBbrR8qfxNQ"><img src="https://img.shields.io/badge/Media-量子位-1ABC9C?logo=wechat" alt="量子位"></a>  <a href="https://mp.weixin.qq.com/s/O9vmwD_khWfMa785xolJsw"><img src="https://img.shields.io/badge/Media-机器之心-1ABC9C?logo=wechat" alt="机器之心"></a>
 
 </div>
 </div>
@@ -205,7 +205,7 @@ Yu Wang, Dmitry Krotov, **Yuanzhe Hu**, Yifan Gao, Wangchunshu Zhou, Julian McAu
 
 [Paper](https://arxiv.org/abs/2502.00592) \| [Review](https://openreview.net/forum?id=OcqbkROe8J&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICML.cc%2F2025%2FConference%2FAuthors%23your-submissions)) 
 
-<a href="https://huggingface.co/YuWangX/mplus-8b"><img src="https://img.shields.io/badge/Model-HuggingFace-FFD21E?logo=huggingface" alt="Model"></a> <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fhuggingface.co%2Fapi%2Fmodels%2FYuWangX%2Fmplus-8b%3Fexpand%255B%255D%3DdownloadsAllTime&label=Total%20Downloads&query=%24.downloadsAllTime&color=orange&logo=huggingface&cacheSeconds=3600" alt="Model Downloads">    <a href="https://github.com/wangyu-ustc/MemoryLLM"><img src="https://img.shields.io/github/stars/wangyu-ustc/MemoryLLM.svg" alt="Star Count"></a>    <a href="https://mp.weixin.qq.com/s/8fl3ymmJMn2P0_XBmVQQuw"><img src="https://img.shields.io/badge/Media-机器之心-1ABC9C?logo=wechat" alt="机器之心"></a>
+<a href="https://huggingface.co/YuWangX/mplus-8b"><img src="https://img.shields.io/badge/Model-HuggingFace-FFD21E?logo=huggingface" alt="Model"></a> <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fhuggingface.co%2Fapi%2Fmodels%2FYuWangX%2Fmplus-8b%3Fexpand%255B%255D%3DdownloadsAllTime&label=Total%20Downloads&query=%24.downloadsAllTime&color=orange&logo=huggingface&cacheSeconds=3600" alt="Model Downloads">    <a href="https://github.com/wangyu-ustc/MemoryLLM"><img src="https://badgen.net/github/stars/wangyu-ustc/MemoryLLM" alt="Star Count"></a>    <a href="https://mp.weixin.qq.com/s/8fl3ymmJMn2P0_XBmVQQuw"><img src="https://img.shields.io/badge/Media-机器之心-1ABC9C?logo=wechat" alt="机器之心"></a>
 
 
 </div>
