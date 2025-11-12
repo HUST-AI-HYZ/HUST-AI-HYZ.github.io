@@ -205,7 +205,7 @@ Yu Wang, Dmitry Krotov, **Yuanzhe Hu**, Yifan Gao, Wangchunshu Zhou, Julian McAu
 
 [Paper](https://arxiv.org/abs/2502.00592) \| [Review](https://openreview.net/forum?id=OcqbkROe8J&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICML.cc%2F2025%2FConference%2FAuthors%23your-submissions)) 
 
-<a href="https://huggingface.co/YuWangX/mplus-8b"><img src="https://img.shields.io/badge/Model-HuggingFace-FFD21E?logo=huggingface" alt="Model"></a> <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fhuggingface.co%2Fapi%2Fmodels%2FYuWangX%2Fmplus-8b%3Fexpand%255B%255D%3DdownloadsAllTime&label=Total%20Downloads&query=%24.downloadsAllTime&color=orange&logo=huggingface&cacheSeconds=3600" alt="Model Downloads">    <a href="https://github.com/wangyu-ustc/MemoryLLM"><img src="https://badgen.net/github/stars/wangyu-ustc/MemoryLLM" alt="Star Count"></a>    <a href="https://mp.weixin.qq.com/s/8fl3ymmJMn2P0_XBmVQQuw"><img src="https://img.shields.io/badge/Media-机器之心-1ABC9C?logo=wechat" alt="机器之心"></a>
+<a href="https://github.com/wangyu-ustc/MemoryLLM"><img src="https://badgen.net/github/stars/wangyu-ustc/MemoryLLM" alt="Star Count"></a> <a href="https://huggingface.co/YuWangX/mplus-8b"><img src="https://img.shields.io/badge/Model-HuggingFace-FFD21E?logo=huggingface" alt="Model"></a> <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fhuggingface.co%2Fapi%2Fmodels%2FYuWangX%2Fmplus-8b%3Fexpand%255B%255D%3DdownloadsAllTime&label=Total%20Downloads&query=%24.downloadsAllTime&color=orange&logo=huggingface&cacheSeconds=3600" alt="Model Downloads">        <a href="https://mp.weixin.qq.com/s/8fl3ymmJMn2P0_XBmVQQuw"><img src="https://img.shields.io/badge/Media-机器之心-1ABC9C?logo=wechat" alt="机器之心"></a>
 
 
 </div>
