@@ -131,7 +131,7 @@ I am actively seeking for <span style="color: red;">**26 Fall CS/ECE/DS PhD Posi
 
 {**Yuanzhe Hu#**, Yu Wang#}, Julian McAuley
 
-Under Review / **ICML 2025 LCFM Workshop**
+Under Review (8/6/6/4) / **ICML 2025 LCFM Workshop**
 
 **Short Summary:**  MemoryAgentBench is a new benchmark designed to comprehensively evaluate memory agents in LLMs. 
 
