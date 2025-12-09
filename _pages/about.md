@@ -19,14 +19,18 @@ redirect_from:
 
 # ℹ️ Short Bio
 
-Hi, I'm Yuanzhe, a master student at University of Califronia, San Diego. I have the great honor of being collaborating with Prof. [Yaoqing Yang](https://sites.google.com/site/yangyaoqingcmu/), [Julian McAuley](https://cseweb.ucsd.edu/~jmcauley/), [Zhiting Hu](https://zhiting.ucsd.edu), and Dr. [Ren Pu](https://paulpuren.github.io), [Yu Wang](https://yuwang.us), [Zexue He](https://zexuehe.github.io)
+Hi, I'm Yuanzhe, a master student at University of Califronia, San Diego. I have the great honor of being collaborating with Prof. [Yaoqing Yang](https://sites.google.com/site/yangyaoqingcmu/), [Julian McAuley](https://cseweb.ucsd.edu/~jmcauley/), [Zhiting Hu](https://zhiting.ucsd.edu), and Dr. [Ren Pu](https://paulpuren.github.io), [Yu Wang](https://yuwang.us), [Zexue He](https://zexuehe.github.io). 
 
 My current research is focused on
 
-- Understanding the mechanisms, dynamics and generalization of LLM pruning and post-training via mathematical analysis.
-- Memory and Reasoning in LLM & Agent.
+- **Understanding the mechanisms, training dynamics, and generalization of LLMs and SciML models via mathematical analysis.** Building upon this theoretical foundation, We design advanced optimization algorithms to make LLM compression and training more efficient. Representative works include [FARMS (ICML 2025)](https://arxiv.org/abs/2506.06280) for layer-wise pruning, [Model Balancing (EMNLP 2024 Oral)](https://arxiv.org/abs/2410.12178) for low-resource fine-tuning, and ongoing comprehensive analysis of multi-regime dynamics in SciML models preparing for ICML 2026.
 
-<!-- I am actively seeking for <span style="color: red;">**26 Fall CS/ECE/DS PhD Positions**</span>, **industrial research internship** after M.S graduation (about six months), and **collobration opportunities** on Agentic Learning. Feel free to reach out!  -->
+
+- **Enhancing Memory and Reasoning in LLMs and Agents**, specifically by enabling models to process long-term history and achieve advanced reasoning capabilities through post-training. Representative works include [M+ (ICML 2025)](https://arxiv.org/abs/2502.00592) for long-term information retention,  [K2-Think (Tech Report)](https://arxiv.org/abs/2509.07604) for large-scale reasoning, [MIRIX (Open-source framework, 3.5K+ 🌟)](https://github.com/Mirix-AI/MIRIX) for multi-agent memory systems, [MemoryAgentBench (Under Review), 170+ 🌟](https://arxiv.org/abs/2507.05257v2) for comprehensive evaluation, and [Mem-alpha (Under Review)](https://arxiv.org/abs/2509.25911) for RL-based memory management.
+
+
+My research leverages mathematical insights into LLMs to develop efficient algorithms, while simultaneously unlocking advanced memory and reasoning capabilities in LLMs and Agents. Moving forward, I aim to **empower LLM Agents with superior memory and reasoning abilities** by innovating across efficient optimization methods, effective frameworks, mechanisms, and interactive environment designs. 
+
 
 # 📖 Educations
 <table>
@@ -57,32 +61,11 @@ My current research is focused on
   </tr>
 </table>
 
-# ⚙️ Open Source Project
-
-<table>
-  <tr>
-    <td style="width: 80px; border: none; padding: 10px 15px 10px 0;">
-      <img src="./images/mirix_logo.png" width="180">
-    </td>
-    <td style="border: none; vertical-align: middle;">
-      <b>MIRIX: Multi-Agent Memory System for LLM-Based Agents</b><br>
-      My Contribution: Designed the framework for MIRIX's Evaluation, project maintenance and bug solving.<br><br>
-      <a href="https://mirix.io"><img src="https://img.shields.io/badge/Website-mirix.io-A569BD?logo=googlechrome&logoColor=white" alt="Website"></a>
-      <a href="https://github.com/Mirix-AI/MIRIX">
-      <img src="https://img.shields.io/github/stars/Mirix-AI/MIRIX" alt="Star Count">
-      </a>
-      <a href="https://github.com/Mirix-AI/MIRIX">
-      <img src="https://img.shields.io/github/forks/Mirix-AI/MIRIX" alt="Fork Count">
-      </a>
-    </td>
-  </tr>
-</table>
 
 
+# ⚙️ Research Project
 
-# 📝 Writing Samples 
-
-## Leading Authored
+## 📖 Mathematical Analysis on LLMs and SciML Models
 
 <span style="color: #5DADE2;"># denotes equal contribution</span>
 
@@ -131,10 +114,47 @@ My current research is focused on
 
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Construction</div><img src='images/comming_soon.jpg' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**[3] Multi-Regime Patterns in SciML Models: How Optimization Methods Address Distinct Failure Modes**
+
+**Leading Author,  Preparing for ICML 2026**
+
+</div>
+</div>
+
+
+
+
+## 🤔 Enhancing Memory and Reasoning in LLMs and Agents
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MIRIX</div><img src='images/mirix_memory.jpg' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**MIRIX: Multi-Agent Memory System for LLM-Based Agents**
+
+**My Contribution:** Designed the framework for MIRIX's Evaluation, project maintenance and bug solving.
+
+**Open-Source Project, More than 3.5K+ 🌟**
+
+<a href="https://mirix.io"><img src="https://img.shields.io/badge/Website-mirix.io-A569BD?logo=googlechrome&logoColor=white" alt="Website"></a>
+<a href="https://github.com/Mirix-AI/MIRIX">
+  <img src="https://img.shields.io/github/stars/Mirix-AI/MIRIX" alt="Star Count">
+</a>
+<a href="https://github.com/Mirix-AI/MIRIX">
+  <img src="https://img.shields.io/github/forks/Mirix-AI/MIRIX" alt="Fork Count">
+</a>
+
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/paper_main/MemAgentBench.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**[3] Evaluating Memory in LLM Agents via Incremental Multi-Turn Interactions**
+**[4] Evaluating Memory in LLM Agents via Incremental Multi-Turn Interactions**
 
 {**Yuanzhe Hu#**, Yu Wang#}, Julian McAuley
 
@@ -154,12 +174,40 @@ Under Review (8/6/6/4) / **ICML 2025 LCFM Workshop**
 </div>
 </div>
 
-## Contributed
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='images/paper_main/ICML2025_Mplus.jpg' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**[5] M+: Extending MemoryLLM with Scalable Long-Term Memory**
+
+Yu Wang, Dmitry Krotov, **Yuanzhe Hu**, Yifan Gao, Wangchunshu Zhou, Julian McAuley, Dan Gutfreund, Rogerio Feris, Zexue He
+
+**ICML 2025**
+
+
+**Short Summary:** M+ enhances long-term information retention in LLMs by integrating a retriever-based long-term memory mechanism.
+
+[Paper](https://arxiv.org/abs/2502.00592) \| [Review](https://openreview.net/forum?id=OcqbkROe8J&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICML.cc%2F2025%2FConference%2FAuthors%23your-submissions)) 
+
+<a href="https://github.com/wangyu-ustc/MemoryLLM">
+<img src="https://img.shields.io/github/stars/wangyu-ustc/MemoryLLM" alt="Star Count">
+</a>  <a href="https://huggingface.co/YuWangX/mplus-8b"><img src="https://img.shields.io/badge/Model-HuggingFace-FFD21E?logo=huggingface" alt="Model"></a> <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fhuggingface.co%2Fapi%2Fmodels%2FYuWangX%2Fmplus-8b%3Fexpand%255B%255D%3DdownloadsAllTime&label=Total%20Downloads&query=%24.downloadsAllTime&color=orange&logo=huggingface&cacheSeconds=3600" alt="Model Downloads">        <a href="https://mp.weixin.qq.com/s/8fl3ymmJMn2P0_XBmVQQuw"><img src="https://img.shields.io/badge/Media-机器之心-1ABC9C?logo=wechat" alt="机器之心"></a>
+
+
+</div>
+</div>
+
+
+
+
+
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/paper_main/Mem_Alpha.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**[4] Mem-$\alpha$: Learning Memory Construction via Reinforcement Learning**
+**[6] Mem-$\alpha$: Learning Memory Construction via Reinforcement Learning**
 
 Yu Wang, Ryuichi Takanobu, Zhiqi Liang, Yuzhen Mao, **Yuanzhe Hu**, Julian McAuley, Xiaojian Wu
 
@@ -183,7 +231,7 @@ Yu Wang, Ryuichi Takanobu, Zhiqi Liang, Yuzhen Mao, **Yuanzhe Hu**, Julian McAul
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Tech Report</div><img src='images/paper_main/K2-Think.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**[5] K2-Think: A Parameter-Efficient Reasoning System**
+**[7] K2-Think: A Parameter-Efficient Reasoning System**
 
 Zhoujun Cheng, Richard Fan, Shibo Hao, Taylor W. Killian, Haonan Li, Suqi Sun, Hector Ren, Alexander Moreno, Daqian Zhang, Tianjun Zhong, Yuxin Xiong, **Yuanzhe Hu**, Yutao Xie, Xudong Han, Yuqi Wang, Varad Pimpalkhute, Yonghao Zhuang, Aaryamonvikram Singh, Xuezhi Liang, Anze Xie, Jianshu She, Desai Fan, Chengqian Gao, Liqun Ma, Mikhail Yurochkin, John Maggs, Xuezhe Ma, Guowei He, Zhiting Hu, Zhengzhong Liu, Eric P. Xing
 
@@ -202,27 +250,7 @@ Zhoujun Cheng, Richard Fan, Shibo Hao, Taylor W. Killian, Haonan Li, Suqi Sun, H
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='images/paper_main/ICML2025_Mplus.jpg' alt="sym" width="80%"></div></div>
-<div class='paper-box-text' markdown="1">
 
-**[6] M+: Extending MemoryLLM with Scalable Long-Term Memory**
-
-Yu Wang, Dmitry Krotov, **Yuanzhe Hu**, Yifan Gao, Wangchunshu Zhou, Julian McAuley, Dan Gutfreund, Rogerio Feris, Zexue He
-
-**ICML 2025**
-
-
-**Short Summary:** M+ enhances long-term information retention in LLMs by integrating a retriever-based long-term memory mechanism.
-
-[Paper](https://arxiv.org/abs/2502.00592) \| [Review](https://openreview.net/forum?id=OcqbkROe8J&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICML.cc%2F2025%2FConference%2FAuthors%23your-submissions)) 
-
-<a href="https://github.com/wangyu-ustc/MemoryLLM">
-<img src="https://img.shields.io/github/stars/wangyu-ustc/MemoryLLM" alt="Star Count">
-</a>  <a href="https://huggingface.co/YuWangX/mplus-8b"><img src="https://img.shields.io/badge/Model-HuggingFace-FFD21E?logo=huggingface" alt="Model"></a> <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fhuggingface.co%2Fapi%2Fmodels%2FYuWangX%2Fmplus-8b%3Fexpand%255B%255D%3DdownloadsAllTime&label=Total%20Downloads&query=%24.downloadsAllTime&color=orange&logo=huggingface&cacheSeconds=3600" alt="Model Downloads">        <a href="https://mp.weixin.qq.com/s/8fl3ymmJMn2P0_XBmVQQuw"><img src="https://img.shields.io/badge/Media-机器之心-1ABC9C?logo=wechat" alt="机器之心"></a>
-
-
-</div>
-</div>
 
 
 # 🔥 News
