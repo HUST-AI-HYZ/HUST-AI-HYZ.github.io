@@ -119,7 +119,9 @@ My research leverages mathematical insights into LLMs to develop efficient algor
 
 **[3] Multi-Regime Patterns in SciML Models: How Optimization Methods Address Distinct Failure Modes**
 
-**Leading Author,  Preparing for ICML 2026**
+**Yuanzhe Hu**  (Co-First Author)
+
+**Manuscript in preparation**  (Targeting ICML 2026)
 
 </div>
 </div>
