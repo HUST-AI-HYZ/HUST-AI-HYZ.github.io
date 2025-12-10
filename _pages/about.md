@@ -31,6 +31,8 @@ My current research is focused on
 
 My research leverages mathematical insights into LLMs to develop efficient algorithms, while simultaneously unlocking advanced memory and reasoning capabilities in LLMs and Agents. Moving forward, I aim to **empower LLM Agents with superior memory and reasoning abilities** by innovating across efficient optimization methods, effective frameworks, mechanisms, and interactive environment designs. 
 
+I am actively seeking for **26 Fall PhD Positions**, **industrial research internship** after M.S graduation (about six months), and **collobration opportunities**. Feel free to reach out! 
+
 
 # 📖 Educations
 <table>
