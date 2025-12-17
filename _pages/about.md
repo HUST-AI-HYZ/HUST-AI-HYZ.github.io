@@ -19,7 +19,7 @@ redirect_from:
 
 # ℹ️ Short Bio
 
-Hi, I'm Yuanzhe, a master student at University of Califronia, San Diego. I have the great honor of being collaborating with Prof. [Yaoqing Yang](https://sites.google.com/site/yangyaoqingcmu/), [Julian McAuley](https://cseweb.ucsd.edu/~jmcauley/), [Zhiting Hu](https://zhiting.ucsd.edu), and Dr. [Ren Pu](https://paulpuren.github.io), [Yu Wang](https://yuwang.us), [Zexue He](https://zexuehe.github.io). 
+Hi, I'm Yuanzhe, a master student at University of Califronia, San Diego. I have the great honor of being collaborating with Prof. [Yaoqing Yang](https://sites.google.com/site/yangyaoqingcmu/), [Julian McAuley](https://cseweb.ucsd.edu/~jmcauley/), [Zhiting Hu](https://zhiting.ucsd.edu), and Dr. [Ren Pu](https://paulpuren.github.io), [Yu Wang](https://yuwang.us). 
 
 My current research is focused on
 
