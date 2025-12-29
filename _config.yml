@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Yuanzhe Hu"
-  avatar           : "/images/profile.jpg"
+  avatar           : "/images/profile.png"
   bio              : "Master Student @ UCSD, CSE"
   location         : "La Jolla, CA, USA"
   employer         :
