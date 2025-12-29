@@ -19,7 +19,9 @@ redirect_from:
 
 # ℹ️ Short Bio
 
-Hi, I'm Yuanzhe, a master student at University of Califronia, San Diego. I have the great honor of being collaborating with Prof. [Yaoqing Yang](https://sites.google.com/site/yangyaoqingcmu/), [Julian McAuley](https://cseweb.ucsd.edu/~jmcauley/), [Zhiting Hu](https://zhiting.ucsd.edu), and Dr. [Ren Pu](https://paulpuren.github.io), [Yu Wang](https://yuwang.us). 
+Hi, I'm Yuanzhe, a second year master student at University of Califronia, San Diego 🔱. 
+
+I have the great honor of being collaborating with Prof. [Yaoqing Yang](https://sites.google.com/site/yangyaoqingcmu/) from CS@Dartmouth College, [Julian McAuley](https://cseweb.ucsd.edu/~jmcauley/) from CSE@UC San Diego, [Zhiting Hu](https://zhiting.ucsd.edu) HDSI@UC San Diego, and Dr. [Ren Pu](https://paulpuren.github.io) from AI & Learning Systems@LBNL, [Yu Wang](https://yuwang.us) from Memory Team@xAI, [Zexue He](https://zexuehe.github.io) from HAI@Stanford.
 
 My current research is focused on
 
@@ -71,7 +73,7 @@ I am actively seeking for <span style="color: red;">26 Fall PhD Positions, indus
 
 <span style="color: #5DADE2;"># denotes equal contribution</span>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='images/paper_main/ICML2025_FARMS.jpg' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='images/paper_main/ICML2025_FARMS.jpg' alt="sym" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **[1] Eigenspectrum Analysis of Neural Networks without Aspect Ratio Bias**
@@ -93,7 +95,7 @@ I am actively seeking for <span style="color: red;">26 Fall PhD Positions, indus
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2024</div><img src='images/paper_main/EMNLP_2024.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2024</div><img src='images/paper_main/EMNLP_2024.png' alt="sym" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **[2] Model Balancing Helps Low-data Training and Fine-tuning**
@@ -116,7 +118,7 @@ I am actively seeking for <span style="color: red;">26 Fall PhD Positions, indus
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Construction</div><img src='images/comming_soon.jpg' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Construction</div><img src='images/comming_soon.jpg' alt="sym" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **[3] Multi-Regime Patterns in SciML Models: How Optimization Methods Address Distinct Failure Modes**
@@ -134,7 +136,7 @@ I am actively seeking for <span style="color: red;">26 Fall PhD Positions, indus
 ## 🤔 Enhancing Memory and Reasoning in LLMs and Agents
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MIRIX</div><img src='images/mirix_memory.jpg' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MIRIX</div><img src='images/mirix_memory.jpg' alt="sym" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **MIRIX: Multi-Agent Memory System for LLM-Based Agents**
@@ -155,7 +157,7 @@ I am actively seeking for <span style="color: red;">26 Fall PhD Positions, indus
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/paper_main/MemAgentBench.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/paper_main/MemAgentBench.png' alt="sym" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **[4] Evaluating Memory in LLM Agents via Incremental Multi-Turn Interactions**
@@ -180,7 +182,7 @@ Under Review (8/6/6/4) / **ICML 2025 LCFM Workshop**
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='images/paper_main/ICML2025_Mplus.jpg' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='images/paper_main/ICML2025_Mplus.jpg' alt="sym" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **[5] M+: Extending MemoryLLM with Scalable Long-Term Memory**
@@ -208,7 +210,7 @@ Yu Wang, Dmitry Krotov, **Yuanzhe Hu**, Yifan Gao, Wangchunshu Zhou, Julian McAu
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/paper_main/Mem_Alpha.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/paper_main/Mem_Alpha.png' alt="sym" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **[6] Mem-$\alpha$: Learning Memory Construction via Reinforcement Learning**
@@ -232,7 +234,7 @@ Yu Wang, Ryuichi Takanobu, Zhiqi Liang, Yuzhen Mao, **Yuanzhe Hu**, Julian McAul
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Tech Report</div><img src='images/paper_main/K2-Think.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Tech Report</div><img src='images/paper_main/K2-Think.png' alt="sym" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **[7] K2-Think: A Parameter-Efficient Reasoning System**
