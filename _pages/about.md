@@ -35,6 +35,8 @@ My research leverages mathematical insights into LLMs to develop efficient algor
 
 I am actively seeking for <span style="color: red;">26 Fall PhD Positions, industrial research internship</span> after M.S graduation (about six months), and  <span style="color: red;">research collobration opportunities</span> . Feel free to reach out! 
 
+Small fun fact: My first name has a pronunciation that is about ~80% similar: Enzo.
+
 
 # 📖 Educations
 <table>
