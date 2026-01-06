@@ -28,15 +28,12 @@ My current research is focused on
 - **Understanding the mechanisms, training dynamics, and generalization of LLMs and SciML models via mathematical analysis.** Building upon this theoretical foundation, We design advanced optimization algorithms to make LLM compression and training more efficient. Previous works include [FARMS (ICML 2025)](https://arxiv.org/abs/2506.06280) for layer-wise pruning, [Model Balancing (EMNLP 2024 Oral)](https://arxiv.org/abs/2410.12178) for low-resource fine-tuning, and ongoing comprehensive analysis of multi-regime dynamics in SciML models preparing for ICML 2026.
 
 
-- **Enhancing Memory and Reasoning in LLMs and Agents**, specifically by enabling models to process long-term history and achieve advanced reasoning capabilities through post-training. Previous works include [M+ (ICML 2025)](https://arxiv.org/abs/2502.00592) for long-term information retention,  [K2-Think (Tech Report)](https://arxiv.org/abs/2509.07604) for large-scale reasoning, [MIRIX (Open-source framework, 3.5K+ 🌟)](https://github.com/Mirix-AI/MIRIX) for multi-agent memory systems, [MemoryAgentBench (Under Review), 170+ 🌟](https://arxiv.org/abs/2507.05257v2) for comprehensive evaluation, and [Mem-alpha (Under Review)](https://arxiv.org/abs/2509.25911) for RL-based memory management.
+- **Enhancing Memory and Reasoning in LLMs and Agents**, specifically by enabling models to process long-term history and achieve advanced reasoning capabilities through post-training. Previous works include [M+ (ICML 2025)](https://arxiv.org/abs/2502.00592) for long-term information retention,  [K2-Think (Tech Report)](https://arxiv.org/abs/2509.07604) for large-scale reasoning, [MIRIX (Open-source framework, 3K+ 🌟)](https://github.com/Mirix-AI/MIRIX) for multi-agent memory systems, [MemoryAgentBench (Under Review), 190+ 🌟](https://arxiv.org/abs/2507.05257v2) for comprehensive evaluation, and [Mem-alpha (Under Review)](https://arxiv.org/abs/2509.25911) for RL-based memory management.
 
 
 My research leverages mathematical insights into LLMs to develop efficient algorithms, while simultaneously unlocking advanced memory and reasoning capabilities in LLMs and Agents. Moving forward, I aim to **empower LLM Agents with superior memory and reasoning abilities** by innovating across efficient optimization methods, effective frameworks, mechanisms, and interactive environment designs. 
 
 I am actively seeking for <span style="color: red;">26 Fall PhD Positions, industrial research internship</span> after M.S graduation (about six months), and  <span style="color: red;">research collobration opportunities</span> . Feel free to reach out! 
-
-Small fun fact: My first name has a pronunciation that is about ~80% similar: Enzo.
-
 
 # 📖 Educations
 <table>
@@ -145,7 +142,7 @@ Small fun fact: My first name has a pronunciation that is about ~80% similar: En
 
 **My Contribution:** Designed the framework for MIRIX's Evaluation, project maintenance and bug solving.
 
-**Open-Source Project, More than 3.5K+ 🌟**
+**Open-Source Project, More than 3K+ 🌟**
 
 <a href="https://mirix.io"><img src="https://img.shields.io/badge/Website-mirix.io-A569BD?logo=googlechrome&logoColor=white" alt="Website"></a>
 <a href="https://github.com/Mirix-AI/MIRIX">
