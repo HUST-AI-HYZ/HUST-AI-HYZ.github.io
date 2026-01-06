@@ -142,7 +142,7 @@ I am actively seeking for <span style="color: red;">26 Fall PhD Positions, indus
 
 **My Contribution:** Designed the framework for MIRIX's Evaluation, project maintenance and bug solving.
 
-**Open-Source Project, More than 3K+ 🌟**
+**Open-Source Project, 3K+ 🌟**
 
 <a href="https://mirix.io"><img src="https://img.shields.io/badge/Website-mirix.io-A569BD?logo=googlechrome&logoColor=white" alt="Website"></a>
 <a href="https://github.com/Mirix-AI/MIRIX">
