@@ -31,9 +31,7 @@ My current research is focused on
 - **Enhancing Memory and Reasoning in LLMs and Agents**, specifically by enabling models to process long-term history and achieve advanced reasoning capabilities through post-training. Previous works include [M+ (ICML 2025)](https://arxiv.org/abs/2502.00592) for long-term information retention,  [K2-Think (Tech Report)](https://arxiv.org/abs/2509.07604) for large-scale reasoning, [MIRIX (Open-source framework, 3K+ 🌟)](https://github.com/Mirix-AI/MIRIX) for multi-agent memory systems, [MemoryAgentBench (Under Review), 190+ 🌟](https://arxiv.org/abs/2507.05257v2) for comprehensive evaluation, and [Mem-alpha (Under Review)](https://arxiv.org/abs/2509.25911) for RL-based memory management.
 
 
-My research leverages mathematical insights into LLMs to develop efficient algorithms, while simultaneously unlocking advanced memory and reasoning capabilities in LLMs and Agents. Moving forward, I aim to **empower LLM Agents with superior memory and reasoning abilities** by innovating across efficient optimization methods, effective frameworks, mechanisms, and interactive environment designs. 
-
-I am actively seeking for <span style="color: red;">26 Fall PhD Positions, industrial research internship</span> after M.S graduation (about six months), and  <span style="color: red;">research collobration opportunities</span> . Feel free to reach out! 
+My research leverages mathematical insights into LLMs to develop efficient algorithms, while simultaneously unlocking advanced memory and reasoning capabilities in LLMs and Agents. Currently, I am actively seeking for <span style="color: red;">26 Fall PhD Positions, industrial research internship</span> after M.S graduation (about six months), and  <span style="color: red;">research collobration opportunities</span> . Feel free to reach out! 
 
 # 📖 Educations
 <table>
