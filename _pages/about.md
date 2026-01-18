@@ -21,7 +21,7 @@ redirect_from:
 
 Hi, I'm Yuanzhe, a second year master student at University of Califronia, San Diego 🔱. 
 
-I have the great honor of being collaborating with Prof. [Yaoqing Yang](https://sites.google.com/site/yangyaoqingcmu/) from CS@Dartmouth College, [Julian McAuley](https://cseweb.ucsd.edu/~jmcauley/) from CSE@UC San Diego, [Zhiting Hu](https://zhiting.ucsd.edu) HDSI@UC San Diego, and Dr. [Ren Pu](https://paulpuren.github.io) from AI & Learning Systems@LBNL, [Yu Wang](https://yuwang.us) from Memory Team@xAI, [Zexue He](https://zexuehe.github.io) from HAI@Stanford.
+I have the great honor of being collaborating with Prof. [Yaoqing Yang](https://sites.google.com/site/yangyaoqingcmu/) from CS@Dartmouth College, [Julian McAuley](https://cseweb.ucsd.edu/~jmcauley/) from CSE@UC San Diego, [Zhiting Hu](https://zhiting.ucsd.edu) HDSI@UC San Diego.
 
 My current research is focused on
 
