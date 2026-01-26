@@ -154,7 +154,7 @@ My research leverages mathematical insights into LLMs to develop efficient algor
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/paper_main/MemAgentBench.png' alt="sym" width="90%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/paper_main/MemAgentBench.png' alt="sym" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **[4] Evaluating Memory in LLM Agents via Incremental Multi-Turn Interactions**
