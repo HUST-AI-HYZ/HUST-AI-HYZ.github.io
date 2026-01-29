@@ -115,7 +115,7 @@ My research leverages mathematical insights into LLMs to develop efficient algor
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/paper_main/sciml_diagnosis.jpg' alt="sym" width="90%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/paper_main/Sciml_Diagnosis.jpg' alt="sym" width="90%"></div></div> 
 <div class='paper-box-text' markdown="1">
 
 **[3] Unveiling Multi-regime Patterns in SciML: Distinct Failure Modes and Regime-specific Optimization**
@@ -130,8 +130,6 @@ My research leverages mathematical insights into LLMs to develop efficient algor
 </div>
 
 
-
-
 ## 🤔 Enhancing Memory and Reasoning in LLMs and Agents
 
 
@@ -142,7 +140,7 @@ My research leverages mathematical insights into LLMs to develop efficient algor
 
 **My Contribution:** Designed the framework for MIRIX's Evaluation, project maintenance and bug solving.
 
-**Open-Source Project, 3K+ 🌟**
+**Open-Source Project, 3K+ 🌟 stars**
 
 <a href="https://mirix.io"><img src="https://img.shields.io/badge/Website-mirix.io-A569BD?logo=googlechrome&logoColor=white" alt="Website"></a>
 <a href="https://github.com/Mirix-AI/MIRIX">
