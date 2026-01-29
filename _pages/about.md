@@ -115,14 +115,14 @@ My research leverages mathematical insights into LLMs to develop efficient algor
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Construction</div><img src='images/comming_soon.jpg' alt="sym" width="90%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/paper_main/SciML_Diagnosis.jpg' alt="sym" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**[3] Multi-Regime Patterns in SciML Models: How Optimization Methods Address Distinct Failure Modes**
+**[3] Unveiling Multi-regime Patterns in SciML: Distinct Failure Modes and Regime-specific Optimization**
 
-**Yuanzhe Hu**  (Co-First Author)
+{**Yuanzhe Hu#**, Xiaopeng Wang#, Yuxin Wang#, Xiaokun Zhong#}, Haiquan Lu, Tianyu Pang, Michael W. Mahoney,Yujun Yan, Pu Ren, Yaoqing Yang
 
-**Manuscript in preparation**  (Targeting ICML 2026)
+**Under Review**  
 
 </div>
 </div>
@@ -179,10 +179,29 @@ My research leverages mathematical insights into LLMs to develop efficient algor
 
 
 
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/paper_main/MemoryAreana.png' alt="sym" width="90%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**[5] Benchmarking Agent Memory in Interdependent Multi-Session Agentic Tasks**
+
+{Zexue He$#, Yu Wang#, Churan Zhi#, **Yuanzhe Hu#**, Tzu-Ping Chen#}, Lang Yin, Ze Chen, Tong Arthur Wu, Siru Ouyang, Zihan Wang, Jiaxin Pei, Julian McAuley, Yejin Choi, Alex Pentland
+
+**Under Review**  
+
+</div>
+</div>
+
+
+
+
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='images/paper_main/ICML2025_Mplus.jpg' alt="sym" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**[5] M+: Extending MemoryLLM with Scalable Long-Term Memory**
+**[6] M+: Extending MemoryLLM with Scalable Long-Term Memory**
 
 Yu Wang, Dmitry Krotov, **Yuanzhe Hu**, Yifan Gao, Wangchunshu Zhou, Julian McAuley, Dan Gutfreund, Rogerio Feris, Zexue He
 
@@ -210,7 +229,7 @@ Yu Wang, Dmitry Krotov, **Yuanzhe Hu**, Yifan Gao, Wangchunshu Zhou, Julian McAu
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/paper_main/Mem_Alpha.png' alt="sym" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**[6] Mem-$\alpha$: Learning Memory Construction via Reinforcement Learning**
+**[7] Mem-$\alpha$: Learning Memory Construction via Reinforcement Learning**
 
 Yu Wang, Ryuichi Takanobu, Zhiqi Liang, Yuzhen Mao, **Yuanzhe Hu**, Julian McAuley, Xiaojian Wu
 
@@ -234,7 +253,7 @@ Yu Wang, Ryuichi Takanobu, Zhiqi Liang, Yuzhen Mao, **Yuanzhe Hu**, Julian McAul
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Tech Report</div><img src='images/paper_main/K2-Think.png' alt="sym" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**[7] K2-Think: A Parameter-Efficient Reasoning System**
+**[8] K2-Think: A Parameter-Efficient Reasoning System**
 
 Zhoujun Cheng, Richard Fan, Shibo Hao, Taylor W. Killian, Haonan Li, Suqi Sun, Hector Ren, Alexander Moreno, Daqian Zhang, Tianjun Zhong, Yuxin Xiong, **Yuanzhe Hu**, Yutao Xie, Xudong Han, Yuqi Wang, Varad Pimpalkhute, Yonghao Zhuang, Aaryamonvikram Singh, Xuezhi Liang, Anze Xie, Jianshu She, Desai Fan, Chengqian Gao, Liqun Ma, Mikhail Yurochkin, John Maggs, Xuezhe Ma, Guowei He, Zhiting Hu, Zhengzhong Liu, Eric P. Xing
 
