@@ -33,6 +33,17 @@ My current research is focused on
 
 My research leverages mathematical insights into LLMs to develop efficient algorithms, while simultaneously unlocking advanced memory and reasoning capabilities in LLMs and Agents. Currently, I am actively seeking for <span style="color: red;">26 Fall PhD Positions, industrial research internship</span> after M.S graduation (about six months), and  <span style="color: red;">research collobration opportunities</span> . Feel free to reach out! 
 
+
+# 🔥 News
+- *2026.01*: &nbsp;🎉🎉 Our paper "Evaluating Memory in LLM Agents via Incremental Multi-Turn Interactions" was accepted by [ICLR 2026](https://iclr.cc). 
+- *2025.09*: &nbsp;😁 Excited to share that our recent work "K2-Think: A Parameter-Efficient Reasoning System".
+- *2025.07*: &nbsp;😁 We open-sourced the [MemoryAgentBench](https://github.com/HUST-AI-HYZ/MemoryAgentBench). Thanks for the great help from [Yu Wang](https://yuwang.us)! 
+- *2025.05*: &nbsp;🎉🎉 Two papers are accepted by [ICML 2025](https://icml.cc/) as **Poster**! See you at Vancouver.
+- *2024.09*: &nbsp;🎉🎉 Excited to share that our work “Model Balancing Helps Low-data Training and Fine-tuning” is accepted by [EMNLP 2024](https://2024.emnlp.org) as **Oral Presentation**!
+- *2024.06*: &nbsp;😁 I graduated from HUST!
+- *2024.06*: &nbsp;😄 I created my account on OpenReview!
+
+
 # 📖 Educations
 <table>
   <tr>
@@ -274,17 +285,4 @@ Zhoujun Cheng, Richard Fan, Shibo Hao, Taylor W. Killian, Haonan Li, Suqi Sun, H
 </div>
 
 
-
-
-
-
-# 🔥 News
-- *2025.09*: &nbsp;😁 Excited to share that our recent work "K2-Think: A Parameter-Efficient Reasoning System".
-- *2025.07*: &nbsp;😁 We open-sourced the [MemoryAgentBench](https://github.com/HUST-AI-HYZ/MemoryAgentBench). Thanks for the great help from [Yu Wang](https://yuwang.us)! 
-- *2025.05*: &nbsp;🎉🎉 Two papers are accepted by [ICML 2025](https://icml.cc/) as **Poster**! See you at Vancouver.
-- *2024.09*: &nbsp;🎉🎉 Excited to share that our work “Model Balancing Helps Low-data Training and Fine-tuning” is accepted by [EMNLP 2024](https://2024.emnlp.org) as **Oral Presentation**!
-- *2024.06*: &nbsp;😁 I graduated from HUST!
-- *2024.06*: &nbsp;😄 I created my account on OpenReview!
-
-Last Update: 11/2025
 
