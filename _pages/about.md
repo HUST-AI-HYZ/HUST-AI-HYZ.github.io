@@ -115,7 +115,7 @@ My research leverages mathematical insights into LLMs to develop efficient algor
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/paper_main/SciML_Diagnosis.jpg' alt="sym" width="90%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/paper_main/sciml_diagnosis.jpg' alt="sym" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **[3] Unveiling Multi-regime Patterns in SciML: Distinct Failure Modes and Regime-specific Optimization**
