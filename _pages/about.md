@@ -124,6 +124,8 @@ My research leverages mathematical insights into LLMs to develop efficient algor
 
 **Under Review**  
 
+**Short Summary:** We propose a regime-based diagnostic framework using loss-landscape analysis to characterize the unique, pathological failure modes of scientific machine learning (SciML) models and identify regime-specific optimization strategies.
+
 </div>
 </div>
 
