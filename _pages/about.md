@@ -186,9 +186,12 @@ My research leverages mathematical insights into LLMs to develop efficient algor
 
 **[5] Benchmarking Agent Memory in Interdependent Multi-Session Agentic Tasks**
 
-{Zexue He$#, Yu Wang#, Churan Zhi#, **Yuanzhe Hu#**, Tzu-Ping Chen#}, Lang Yin, Ze Chen, Tong Arthur Wu, Siru Ouyang, Zihan Wang, Jiaxin Pei, Julian McAuley, Yejin Choi, Alex Pentland
+{Zexue He#, Yu Wang#, Churan Zhi#, **Yuanzhe Hu#**, Tzu-Ping Chen#}, Lang Yin, Ze Chen, Tong Arthur Wu, Siru Ouyang, Zihan Wang, Jiaxin Pei, Julian McAuley, Yejin Choi, Alex Pentland
 
 **Under Review**  
+
+**Short Summary:** We present MemoryAreana, a new evaluation gym designed to bridge the gap between isolated recall and execution by benchmarking agents on tasks where memory acquisition and action are tightly coupled.
+
 
 </div>
 </div>
