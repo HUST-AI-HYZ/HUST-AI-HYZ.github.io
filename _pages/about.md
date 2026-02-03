@@ -25,8 +25,7 @@ I have the great honor of being collaborating with Prof. [Yaoqing Yang](https://
 
 My current research is focused on
 
-- **Understanding the mechanisms, training dynamics, and generalization of LLMs and SciML models via mathematical analysis.** Building upon this theoretical foundation, We design advanced optimization algorithms to make LLM compression and training more efficient. Previous works include [FARMS (ICML 2025)](https://arxiv.org/abs/2506.06280) for layer-wise pruning, [Model Balancing (EMNLP 2024 Oral)](https://arxiv.org/abs/2410.12178) for low-resource fine-tuning, and ongoing comprehensive analysis of multi-regime dynamics in SciML models preparing for ICML 2026.
-
+- **Understanding the mechanisms, training dynamics, and generalization of LLMs and SciML models via mathematical analysis.** Building upon this theoretical foundation, We design advanced optimization algorithms to make LLM compression and training more efficient. Previous works include [FARMS (ICML 2025)](https://arxiv.org/abs/2506.06280) for layer-wise pruning, [Model Balancing (EMNLP 2024 Oral)](https://arxiv.org/abs/2410.12178) for low-resource fine-tuning. 
 
 - **Enhancing Memory and Reasoning in LLMs and Agents**, specifically by enabling models to process long-term history and achieve advanced reasoning capabilities through post-training. Previous works include  [MemoryAgentBench (ICLR 2026), 190+ 🌟](https://arxiv.org/abs/2507.05257v2) for memory agent comprehensive evaluation, [M+ (ICML 2025)](https://arxiv.org/abs/2502.00592) for long-term information retention,  [K2-Think (Tech Report)](https://arxiv.org/abs/2509.07604) for large-scale reasoning, [MIRIX (Open-source framework, 3K+ 🌟)](https://github.com/Mirix-AI/MIRIX) for multi-agent memory systems, and [Mem-alpha (Under Review)](https://arxiv.org/abs/2509.25911) for RL-based memory management.
 
@@ -77,14 +76,14 @@ My research leverages mathematical insights into LLMs to develop efficient algor
 
 # ⚙️ Research Project
 
-## 📖 Mathematical Analysis on LLMs and SciML Models
+## 📖 Mathematical Analysis and Optimization on LLMs and SciML Models
 
 <span style="color: #5DADE2;"># denotes equal contribution</span>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='images/paper_main/ICML2025_FARMS.jpg' alt="sym" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**[1] Eigenspectrum Analysis of Neural Networks without Aspect Ratio Bias**
+**Eigenspectrum Analysis of Neural Networks without Aspect Ratio Bias**
 
 **Yuanzhe Hu**, Kinshuk Goel, Vlad Killiakov, Yaoqing Yang
 
@@ -106,7 +105,7 @@ My research leverages mathematical insights into LLMs to develop efficient algor
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2024</div><img src='images/paper_main/EMNLP_2024.png' alt="sym" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**[2] Model Balancing Helps Low-data Training and Fine-tuning**
+**Model Balancing Helps Low-data Training and Fine-tuning**
 
 {Zihang Liu#, **Yuanzhe Hu#**}, Tianyu Pang, Yefan Zhou, Pu Ren, Yaoqing Yang
 
@@ -129,7 +128,7 @@ My research leverages mathematical insights into LLMs to develop efficient algor
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/paper_main/Sciml_Diagnosis.jpg' alt="sym" width="90%"></div></div> 
 <div class='paper-box-text' markdown="1">
 
-**[3] Unveiling Multi-regime Patterns in SciML: Distinct Failure Modes and Regime-specific Optimization**
+**Unveiling Multi-regime Patterns in SciML: Distinct Failure Modes and Regime-specific Optimization**
 
 {**Yuanzhe Hu#**, Xiaopeng Wang#, Yuxin Wang#, Xiaokun Zhong#}, Haiquan Lu, Tianyu Pang, Michael W. Mahoney,Yujun Yan, Pu Ren, Yaoqing Yang
 
@@ -168,7 +167,7 @@ My research leverages mathematical insights into LLMs to develop efficient algor
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/paper_main/MemAgentBench.png' alt="sym" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**[4] Evaluating Memory in LLM Agents via Incremental Multi-Turn Interactions**
+**Evaluating Memory in LLM Agents via Incremental Multi-Turn Interactions**
 
 {**Yuanzhe Hu#**, Yu Wang#}, Julian McAuley
 
@@ -195,7 +194,7 @@ My research leverages mathematical insights into LLMs to develop efficient algor
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/paper_main/MemoryAreana.png' alt="sym" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**[5] Benchmarking Agent Memory in Interdependent Multi-Session Agentic Tasks**
+**Benchmarking Agent Memory in Interdependent Multi-Session Agentic Tasks**
 
 {Zexue He#, Yu Wang#, Churan Zhi#, **Yuanzhe Hu#**, Tzu-Ping Chen#}, Lang Yin, Ze Chen, Tong Arthur Wu, Siru Ouyang, Zihan Wang, Jiaxin Pei, Julian McAuley, Yejin Choi, Alex Pentland
 
@@ -215,7 +214,7 @@ My research leverages mathematical insights into LLMs to develop efficient algor
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='images/paper_main/ICML2025_Mplus.jpg' alt="sym" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**[6] M+: Extending MemoryLLM with Scalable Long-Term Memory**
+**M+: Extending MemoryLLM with Scalable Long-Term Memory**
 
 Yu Wang, Dmitry Krotov, **Yuanzhe Hu**, Yifan Gao, Wangchunshu Zhou, Julian McAuley, Dan Gutfreund, Rogerio Feris, Zexue He
 
@@ -243,7 +242,7 @@ Yu Wang, Dmitry Krotov, **Yuanzhe Hu**, Yifan Gao, Wangchunshu Zhou, Julian McAu
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/paper_main/Mem_Alpha.png' alt="sym" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**[7] Mem-$\alpha$: Learning Memory Construction via Reinforcement Learning**
+**Mem-$\alpha$: Learning Memory Construction via Reinforcement Learning**
 
 Yu Wang, Ryuichi Takanobu, Zhiqi Liang, Yuzhen Mao, **Yuanzhe Hu**, Julian McAuley, Xiaojian Wu
 
@@ -267,7 +266,7 @@ Yu Wang, Ryuichi Takanobu, Zhiqi Liang, Yuzhen Mao, **Yuanzhe Hu**, Julian McAul
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Tech Report</div><img src='images/paper_main/K2-Think.png' alt="sym" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**[8] K2-Think: A Parameter-Efficient Reasoning System**
+**K2-Think: A Parameter-Efficient Reasoning System**
 
 Zhoujun Cheng, Richard Fan, Shibo Hao, Taylor W. Killian, Haonan Li, Suqi Sun, Hector Ren, Alexander Moreno, Daqian Zhang, Tianjun Zhong, Yuxin Xiong, **Yuanzhe Hu**, Yutao Xie, Xudong Han, Yuqi Wang, Varad Pimpalkhute, Yonghao Zhuang, Aaryamonvikram Singh, Xuezhi Liang, Anze Xie, Jianshu She, Desai Fan, Chengqian Gao, Liqun Ma, Mikhail Yurochkin, John Maggs, Xuezhe Ma, Guowei He, Zhiting Hu, Zhengzhong Liu, Eric P. Xing
 
