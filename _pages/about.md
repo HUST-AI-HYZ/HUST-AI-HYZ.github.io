@@ -140,6 +140,23 @@ My research leverages mathematical insights into LLMs to develop efficient algor
 </div>
 
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/paper_main/llm_signature.jpg' alt="sym" width="90%"></div></div> 
+<div class='paper-box-text' markdown="1">
+
+**Spectral Signatures of Large Language Models**
+
+{Zhuoying Zhang#,  Ishan Verma Prasad#, **Yuanzhe Hu#**},  Zihang Liu, Hengrui Luo, Pu Ren, Yaoqing Yang
+
+**Under Review**  
+
+**Short Summary:** We use the shape information of the weight empirical spectral density as a compact spectral signature of each model.
+
+
+</div>
+</div>
+
+
 ## 🤔 Enhancing Memory and Reasoning in LLMs and Agents
 
 
