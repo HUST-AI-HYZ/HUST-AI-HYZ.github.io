@@ -125,38 +125,6 @@ My research leverages mathematical insights into LLMs to develop efficient algor
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/paper_main/Sciml_Diagnosis.jpg' alt="sym" width="90%"></div></div> 
-<div class='paper-box-text' markdown="1">
-
-**Unveiling Multi-regime Patterns in SciML: Distinct Failure Modes and Regime-specific Optimization**
-
-{**Yuanzhe Hu#**, Xiaopeng Wang#, Yuxin Wang#, Xiaokun Zhong#}, Haiquan Lu, Tianyu Pang, Michael W. Mahoney,Yujun Yan, Pu Ren, Yaoqing Yang
-
-**Under Review**  
-
-**Short Summary:** We propose a regime-based diagnostic framework using loss-landscape analysis to characterize the unique, pathological failure modes of scientific machine learning (SciML) models and identify regime-specific optimization strategies.
-
-</div>
-</div>
-
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/paper_main/llm_signature.jpg' alt="sym" width="90%"></div></div> 
-<div class='paper-box-text' markdown="1">
-
-**Spectral Signatures of Large Language Models**
-
-{Zhuoying Zhang#,  Ishan Verma Prasad#, **Yuanzhe Hu#**},  Zihang Liu, Hengrui Luo, Pu Ren, Yaoqing Yang
-
-**Under Review**  
-
-**Short Summary:** We use the shape information of the weight empirical spectral density as a compact spectral signature of each model.
-
-
-</div>
-</div>
-
-
 ## 🤔 Enhancing Memory and Reasoning in LLMs and Agents
 
 
