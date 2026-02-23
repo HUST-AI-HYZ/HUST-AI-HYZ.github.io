@@ -187,6 +187,7 @@ My research leverages mathematical insights into LLMs to develop efficient algor
 
 **Short Summary:** We present MemoryAreana, a new evaluation gym designed to bridge the gap between isolated recall and execution by benchmarking agents on tasks where memory acquisition and action are tightly coupled.
 
+[Paper](https://arxiv.org/pdf/2602.16313)
 
 </div>
 </div>
