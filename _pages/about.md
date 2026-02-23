@@ -179,9 +179,9 @@ My research leverages mathematical insights into LLMs to develop efficient algor
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/paper_main/MemoryAreana.png' alt="sym" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Benchmarking Agent Memory in Interdependent Multi-Session Agentic Tasks**
+**MemoryArena: Benchmarking Agent Memory in Interdependent Multi-Session Agentic Tasks**
 
-{Zexue He#, Yu Wang#, Churan Zhi#, **Yuanzhe Hu#**, Tzu-Ping Chen#}, Lang Yin, Ze Chen, Tong Arthur Wu, Siru Ouyang, Zihan Wang, Jiaxin Pei, Julian McAuley, Yejin Choi, Alex Pentland
+{Zexue He#, Yu Wang#, Churan Zhi#, **Yuanzhe Hu#**, Tzu-Ping Chen#, Lang Yin#}, Ze Chen, Tong Arthur Wu, Siru Ouyang, Zihan Wang, Jiaxin Pei, Julian McAuley, Yejin Choi, Alex Pentland
 
 **Under Review**  
 
