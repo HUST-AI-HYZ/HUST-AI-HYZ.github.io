@@ -30,9 +30,10 @@ My current research is focused on
 - **Enhancing Memory and Reasoning in LLMs and Agents**, specifically by enabling models to process long-term history and achieve advanced reasoning capabilities through post-training. Previous works include  [MemoryAgentBench (ICLR 2026), 190+ 🌟](https://arxiv.org/abs/2507.05257v2) for memory agent comprehensive evaluation, [M+ (ICML 2025)](https://arxiv.org/abs/2502.00592) for long-term information retention,  [K2-Think (Tech Report)](https://arxiv.org/abs/2509.07604) for large-scale reasoning, [MIRIX (Open-source framework, 3K+ 🌟)](https://github.com/Mirix-AI/MIRIX) for multi-agent memory systems, and [Mem-alpha (Under Review)](https://arxiv.org/abs/2509.25911) for RL-based memory management.
 
 
-My research leverages mathematical insights into large language models (LLMs) to develop efficient algorithms, while simultaneously unlocking advanced memory and reasoning capabilities in LLMs and AI Agents. I am actively openning to research collaboration inquiries. Feel free to reach out!
+My research leverages mathematical insights into large language models (LLMs) to develop efficient algorithms, while simultaneously unlocking advanced memory and reasoning capabilities in LLMs and AI Agents. 
 
-<!-- I am an incoming PhD student in the Machine Learning Program at the Georgia Institute of Technology (Georgia Tech), starting Fall 2026 -->
+I am an incoming PhD student in the **Machine Learning** at the **Georgia Institute of Technology (Georgia Tech)**, starting Fall 2026. I am actively openning to research collaboration inquiries. Feel free to reach out!
+
 
 
 # 🔥 News
@@ -49,6 +50,18 @@ My research leverages mathematical insights into large language models (LLMs) to
 <table>
   <tr>
     <td style="width: 60px; border: none; padding: 10px 15px 10px 0;">
+      <img src="./images/gt_badge.png" width="120">
+    </td>
+    <td style="border: none; vertical-align: middle;">
+      <b>Georgia Institute of Technology (Georgia Tech)</b><br>
+      PhD in Machine Learning
+    </td>
+    <td style="text-align: right; border: none; vertical-align: middle; white-space: nowrap;">
+      <i>2026.08 - </i>
+    </td>
+  </tr>
+  <tr>
+    <td style="width: 60px; border: none; padding: 10px 15px 10px 0;">
       <img src="./images/ucsd_badge.png" width="80">
     </td>
     <td style="border: none; vertical-align: middle;">
@@ -56,7 +69,7 @@ My research leverages mathematical insights into large language models (LLMs) to
       M.S. in Computer Science and Engineering
     </td>
     <td style="text-align: right; border: none; vertical-align: middle; white-space: nowrap;">
-      <i>2024.09 - 2026.03 (Expected)</i>
+      <i>2024.09 - Now</i>
     </td>
   </tr>
   <tr>
