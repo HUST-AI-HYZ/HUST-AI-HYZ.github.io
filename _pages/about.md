@@ -54,7 +54,7 @@ I am an incoming PhD student in the **Machine Learning** at the **Georgia Instit
     </td>
     <td style="border: none; vertical-align: middle;">
       <b>Georgia Institute of Technology (Georgia Tech)</b><br>
-      PhD in Machine Learning
+      Ph.D. in Machine Learning
     </td>
     <td style="text-align: right; border: none; vertical-align: middle; white-space: nowrap;">
       <i>2026.08 - </i>
