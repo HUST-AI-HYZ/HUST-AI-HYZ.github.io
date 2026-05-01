@@ -37,6 +37,7 @@ I am an incoming PhD student in the **Machine Learning** at the **Georgia Instit
 
 
 # 🔥 News
+- *2026.05*: &nbsp;🎉🎉 Two papers are accepted by [ICML 2026](https://icml.cc/) as **Regular**! See you at Seoul, South Korea.
 - *2026.01*: &nbsp;🎉🎉 Our paper "Evaluating Memory in LLM Agents via Incremental Multi-Turn Interactions" was accepted by [ICLR 2026](https://iclr.cc). 
 - *2025.09*: &nbsp;😁 Excited to share that our recent work "K2-Think: A Parameter-Efficient Reasoning System".
 - *2025.07*: &nbsp;😁 We open-sourced the [MemoryAgentBench](https://github.com/HUST-AI-HYZ/MemoryAgentBench). Thanks for the great help from [Yu Wang](https://yuwang.us)! 
