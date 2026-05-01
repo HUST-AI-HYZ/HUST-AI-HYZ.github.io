@@ -137,25 +137,7 @@ I am an incoming PhD student in the **Machine Learning** at the **Georgia Instit
 ## 🤔 Enhancing Memory and Reasoning in LLMs and Agents
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MIRIX</div><img src='images/mirix_memory.jpg' alt="sym" width="90%"></div></div>
-<div class='paper-box-text' markdown="1">
 
-**MIRIX: Multi-Agent Memory System for LLM-Based Agents**
-
-**My Contribution:** Designed the framework for MIRIX's Evaluation, project maintenance and bug solving.
-
-**Open-Source Project, 3K+ 🌟 stars**
-
-<a href="https://mirix.io"><img src="https://img.shields.io/badge/Website-mirix.io-A569BD?logo=googlechrome&logoColor=white" alt="Website"></a>
-<a href="https://github.com/Mirix-AI/MIRIX">
-  <img src="https://img.shields.io/github/stars/Mirix-AI/MIRIX" alt="Star Count">
-</a>
-<a href="https://github.com/Mirix-AI/MIRIX">
-  <img src="https://img.shields.io/github/forks/Mirix-AI/MIRIX" alt="Fork Count">
-</a>
-
-</div>
-</div>
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/paper_main/MemAgentBench.png' alt="sym" width="90%"></div></div>
@@ -192,7 +174,7 @@ I am an incoming PhD student in the **Machine Learning** at the **Georgia Instit
 
 {Zexue He#, Yu Wang#, Churan Zhi#, **Yuanzhe Hu#**, Tzu-Ping Chen#, Lang Yin#}, Ze Chen, Tong Arthur Wu, Siru Ouyang, Zihan Wang, Jiaxin Pei, Julian McAuley, Yejin Choi, Alex Pentland
 
-**Under Review**  
+**ICML 2026**  
 
 **Short Summary:** We present MemoryAreana, a new evaluation gym designed to bridge the gap between isolated recall and execution by benchmarking agents on tasks where memory acquisition and action are tightly coupled.
 
@@ -200,6 +182,7 @@ I am an incoming PhD student in the **Machine Learning** at the **Georgia Instit
 
 </div>
 </div>
+
 
 
 
@@ -227,6 +210,7 @@ Yu Wang, Dmitry Krotov, **Yuanzhe Hu**, Yifan Gao, Wangchunshu Zhou, Julian McAu
 
 </div>
 </div>
+
 
 
 
@@ -279,3 +263,23 @@ Zhoujun Cheng, Richard Fan, Shibo Hao, Taylor W. Killian, Haonan Li, Suqi Sun, H
 </div>
 
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MIRIX</div><img src='images/mirix_memory.jpg' alt="sym" width="90%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**MIRIX: Multi-Agent Memory System for LLM-Based Agents**
+
+**My Contribution:** Designed the framework for MIRIX's Evaluation, project maintenance and bug solving.
+
+**Open-Source Project, 3K+ 🌟 stars**
+
+<a href="https://mirix.io"><img src="https://img.shields.io/badge/Website-mirix.io-A569BD?logo=googlechrome&logoColor=white" alt="Website"></a>
+<a href="https://github.com/Mirix-AI/MIRIX">
+  <img src="https://img.shields.io/github/stars/Mirix-AI/MIRIX" alt="Star Count">
+</a>
+<a href="https://github.com/Mirix-AI/MIRIX">
+  <img src="https://img.shields.io/github/forks/Mirix-AI/MIRIX" alt="Fork Count">
+</a>
+
+</div>
+</div>
