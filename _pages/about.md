@@ -63,7 +63,7 @@ I am an incoming PhD student in the **Machine Learning** at the **Georgia Instit
       M.S. in Computer Science and Engineering
     </td>
     <td style="text-align: right; border: none; vertical-align: middle; white-space: nowrap;">
-      <i>2024.09 - Now</i>
+      <i>2024.09 - 2026.03</i>
     </td>
   </tr>
   <tr>
