@@ -167,7 +167,7 @@ I am an incoming PhD student in the **Machine Learning** at the **Georgia Instit
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/paper_main/MemoryAreana.png' alt="sym" width="90%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/paper_main/MemoryAreana.png' alt="sym" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **MemoryArena: Benchmarking Agent Memory in Interdependent Multi-Session Agentic Tasks**
