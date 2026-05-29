@@ -10,7 +10,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-# ℹ️ Short Bio
+## ℹ️ Short Bio
 
 Hi, I'm Yuanzhe, currently a research intern at [Qwen Team](https://huggingface.co/Qwen)@Alibaba Group, working on the Agentic Evaluation for Qwen model series. 
 
@@ -18,9 +18,9 @@ Previously I was a master student at University of Califronia, San Diego 🔱. I
 
 My current research is focused on
 
-- **Understanding the mechanisms, training dynamics, and generalization of LLMs and SciML models via mathematical analysis.** Building upon this theoretical foundation, We design advanced optimization algorithms to make LLM compression and training more efficient. Previous works include [FARMS (ICML 2025)](https://arxiv.org/abs/2506.06280) for layer-wise pruning, [Model Balancing (EMNLP 2024 Oral)](https://arxiv.org/abs/2410.12178) for low-resource fine-tuning. 
+- **Understanding the mechanisms, training dynamics, and generalization of LLMs and SciML models via mathematical analysis.** Building upon this theoretical foundation, We design advanced optimization algorithms to make LLM compression and training more efficient. Previous works include [SciML Diagnosis (ICML 2026)](https://arxiv.org/pdf/2605.29153) for diagnosing failure modes in SciML models, [FARMS (ICML 2025)](https://arxiv.org/abs/2506.06280) for layer-wise pruning, and [Model Balancing (EMNLP 2024 Oral)](https://arxiv.org/abs/2410.12178) for low-resource fine-tuning. 
 
-- **Enhancing Memory and Reasoning in LLMs and Agents**, specifically by enabling models to process long-term history and achieve advanced reasoning capabilities through post-training. Previous works include  [MemoryAgentBench (ICLR 2026), 300+ 🌟](https://arxiv.org/abs/2507.05257v2) and [MemoryArena (Under Review)](https://arxiv.org/pdf/2602.16313) for agentic memory comprehensive evaluation, [M+ (ICML 2025)](https://arxiv.org/abs/2502.00592) for long-term information retention,  [K2-Think (Tech Report)](https://arxiv.org/abs/2509.07604) for large-scale reasoning, [MIRIX (Open-source framework, 3K+ 🌟)](https://github.com/Mirix-AI/MIRIX) for multi-agent memory systems, and [Mem-alpha (Under Review)](https://arxiv.org/abs/2509.25911) for RL-based memory management. 
+- **Enhancing Memory and Reasoning in LLMs and Agents**, specifically by enabling models to process long-term history and achieve advanced reasoning capabilities through post-training. Previous works include  [MemoryAgentBench (ICLR 2026), 300+ 🌟](https://arxiv.org/abs/2507.05257v2) and [MemoryArena (ICML 2026)](https://arxiv.org/pdf/2602.16313) for agentic memory comprehensive evaluation, [M+ (ICML 2025)](https://arxiv.org/abs/2502.00592) for long-term information retention,  [K2-Think (Tech Report)](https://arxiv.org/abs/2509.07604) for large-scale reasoning, [MIRIX (Open-source framework, 3K+ 🌟)](https://github.com/Mirix-AI/MIRIX) for multi-agent memory systems, and [Mem-alpha](https://arxiv.org/abs/2509.25911) for RL-based memory management. 
 
 
 My research leverages mathematical insights into large language models (LLMs) to develop efficient algorithms, while simultaneously unlocking advanced memory and reasoning capabilities in LLMs and AI Agents. 
@@ -29,7 +29,7 @@ I am an incoming PhD student in the **Machine Learning** at the **Georgia Instit
 
 
 
-# 🔥 News
+## 🔥 News
 - *2026.05*: &nbsp; 🎉🎉🎉 One paper is accepted by [KDD 2026](https://kdd2026.kdd.org). &nbsp; Two papers are accepted by [ICML 2026](https://icml.cc/) as **Regular**! See you at Seoul, South Korea.
 
 - *2026.04*: &nbsp;😁 I graduated from UCSD! &nbsp;💼 Joined [Qwen Team](https://huggingface.co/Qwen)@Alibaba Group as a research intern. 
@@ -41,7 +41,7 @@ I am an incoming PhD student in the **Machine Learning** at the **Georgia Instit
 - *2024.06*: &nbsp;😁 I graduated from HUST! &nbsp;😄 I created my account on OpenReview!
 
 
-# 📖 Educations
+## 📖 Educations
 <table>
   <tr>
     <td style="width: 60px; border: none; padding: 10px 15px 10px 0;">
@@ -85,11 +85,60 @@ I am an incoming PhD student in the **Machine Learning** at the **Georgia Instit
 
 
 
-# ⚙️ Research Project
+## 🔧 Industrial Experience
+<table>
+  <tr>
+    <td style="width: 60px; border: none; padding: 10px 15px 10px 0;">
+      <img src="./images/qwen-color.svg" width="120">
+    </td>
+    <td style="border: none; vertical-align: middle;">
+      <b>Qwen Team, Tongyi Lab, Alibaba Group</b><br>
+      Research Intern, working on the Agentic Evaluation for Qwen model series. 
+    </td>
+    <td style="text-align: right; border: none; vertical-align: middle; white-space: nowrap;">
+      <i>2026.04 - </i>
+    </td>
+  </tr>
+  <tr>
+    <td style="width: 60px; border: none; padding: 10px 15px 10px 0;">
+      <img src="./images/mbzuai.png" width="80">
+    </td>
+    <td style="border: none; vertical-align: middle;">
+      <b>Institute of Foundation Models, MBZUAI</b><br>
+      Research Collaborator, post-training for LLM reasoning.
+    </td>
+    <td style="text-align: right; border: none; vertical-align: middle; white-space: nowrap;">
+      <i>2025.06 - 2025.09</i>
+    </td>
+  </tr>
+</table>
 
-## 📖 Mathematical Analysis and Optimization on LLMs and SciML Models
+
+
+
+## ⚙️ Research Project
+
+### 📖 Mathematical Analysis and Optimization on LLMs and SciML Models
 
 <span style="color: #5DADE2;"># denotes equal contribution</span>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/paper_main/sciml_diagnosis.jpg' alt="sym" width="90%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Unveiling Multi-regime Patterns in SciML: Distinct Failure Modes and Regime-specific Optimization**
+
+{Yuxin Wang#, **Yuanzhe Hu#**, Xiaokun Zhong#, Xiaopeng Wang#}, Haiquan Lu, Tianyu Pang, Michael W. Mahoney, Yujun Yan, Pu Ren, Yaoqing Yang
+
+**ICML 2026**
+
+**Short Summary:** A diagnosis framework for Scientific Machine Learning Models.
+
+[Paper](https://arxiv.org/pdf/2605.29153) 
+
+</div>
+</div>
+
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='images/paper_main/ICML2025_FARMS.jpg' alt="sym" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -136,7 +185,7 @@ I am an incoming PhD student in the **Machine Learning** at the **Georgia Instit
 
 
 
-## 🤔 Enhancing Memory and Reasoning in LLMs and Agents
+### 🤔 Enhancing Memory and Reasoning in LLMs and Agents
 
 
 
@@ -191,6 +240,8 @@ I am an incoming PhD student in the **Machine Learning** at the **Georgia Instit
 
 
 
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='images/paper_main/ICML2025_Mplus.jpg' alt="sym" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -212,10 +263,6 @@ Yu Wang, Dmitry Krotov, **Yuanzhe Hu**, Yifan Gao, Wangchunshu Zhou, Julian McAu
 
 </div>
 </div>
-
-
-
-
 
 
 
@@ -287,31 +334,3 @@ Zhoujun Cheng, Richard Fan, Shibo Hao, Taylor W. Killian, Haonan Li, Suqi Sun, H
 </div>
 
 
-
-# 🔧 Industrial Experience
-<table>
-  <tr>
-    <td style="width: 60px; border: none; padding: 10px 15px 10px 0;">
-      <img src="./images/qwen-color.svg" width="120">
-    </td>
-    <td style="border: none; vertical-align: middle;">
-      <b>Qwen Team, Tongyi Lab, Alibaba Group</b><br>
-      Research Intern, working on the Agentic Evaluation for Qwen model series. 
-    </td>
-    <td style="text-align: right; border: none; vertical-align: middle; white-space: nowrap;">
-      <i>2026.04 - </i>
-    </td>
-  </tr>
-  <tr>
-    <td style="width: 60px; border: none; padding: 10px 15px 10px 0;">
-      <img src="./images/mbzuai.png" width="80">
-    </td>
-    <td style="border: none; vertical-align: middle;">
-      <b>Institute of Foundation Models, MBZUAI</b><br>
-      Research Collaborator 
-    </td>
-    <td style="text-align: right; border: none; vertical-align: middle; white-space: nowrap;">
-      <i>2025.06 - 2025.09</i>
-    </td>
-  </tr>
-</table>
