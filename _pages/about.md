@@ -122,7 +122,7 @@ I am an incoming PhD student in the **Machine Learning** at the **Georgia Instit
 
 <span style="color: #5DADE2;"># denotes equal contribution</span>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/paper_main/sciml_diagnosis.jpg' alt="sym" width="90%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/paper_main/Sciml_Diagnosis.jpg' alt="sym" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Unveiling Multi-regime Patterns in SciML: Distinct Failure Modes and Regime-specific Optimization**
