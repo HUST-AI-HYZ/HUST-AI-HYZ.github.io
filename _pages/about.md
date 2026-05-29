@@ -12,7 +12,7 @@ redirect_from:
 
 # ℹ️ Short Bio
 
-Hi, I'm Yuanzhe, currently a research intern at Qwen Team@Alibaba Group, working on the Agentic Evaluation for Qwen model series. 
+Hi, I'm Yuanzhe, currently a research intern at [Qwen Team](https://huggingface.co/Qwen)@Alibaba Group, working on the Agentic Evaluation for Qwen model series. 
 
 Previously I was a master student at University of Califronia, San Diego 🔱. I have the great honor of being collaborating with Prof. [Yaoqing Yang](https://sites.google.com/site/yangyaoqingcmu/) from CS@Dartmouth College, [Julian McAuley](https://cseweb.ucsd.edu/~jmcauley/) from CSE@UC San Diego, [Zhiting Hu](https://zhiting.ucsd.edu) HDSI@UC San Diego.
 
@@ -30,14 +30,15 @@ I am an incoming PhD student in the **Machine Learning** at the **Georgia Instit
 
 
 # 🔥 News
-- *2026.05*: &nbsp;🎉🎉 Two papers are accepted by [ICML 2026](https://icml.cc/) as **Regular**! See you at Seoul, South Korea.
+- *2026.05*: &nbsp; 🎉🎉🎉 One paper is accepted by [KDD 2026](https://kdd2026.kdd.org). &nbsp; Two papers are accepted by [ICML 2026](https://icml.cc/) as **Regular**! See you at Seoul, South Korea.
+
+- *2026.04*: &nbsp;😁 I graduated from UCSD! &nbsp;💼 Joined [Qwen Team](https://huggingface.co/Qwen)@Alibaba Group as a research intern. 
+
 - *2026.01*: &nbsp;🎉🎉 Our paper "Evaluating Memory in LLM Agents via Incremental Multi-Turn Interactions" was accepted by [ICLR 2026](https://iclr.cc). 
-- *2025.09*: &nbsp;😁 Excited to share that our recent work "K2-Think: A Parameter-Efficient Reasoning System".
 - *2025.07*: &nbsp;😁 We open-sourced the [MemoryAgentBench](https://github.com/HUST-AI-HYZ/MemoryAgentBench). Thanks for the great help from [Yu Wang](https://yuwang.us)! 
 - *2025.05*: &nbsp;🎉🎉 Two papers are accepted by [ICML 2025](https://icml.cc/) as **Poster**! See you at Vancouver.
 - *2024.09*: &nbsp;🎉🎉 Excited to share that our work “Model Balancing Helps Low-data Training and Fine-tuning” is accepted by [EMNLP 2024](https://2024.emnlp.org) as **Oral Presentation**!
-- *2024.06*: &nbsp;😁 I graduated from HUST!
-- *2024.06*: &nbsp;😄 I created my account on OpenReview!
+- *2024.06*: &nbsp;😁 I graduated from HUST! &nbsp;😄 I created my account on OpenReview!
 
 
 # 📖 Educations
