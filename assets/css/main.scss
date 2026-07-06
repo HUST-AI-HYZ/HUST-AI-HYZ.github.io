@@ -90,6 +90,27 @@
 
 }
 
+.paper-box.no-image {
+    .paper-box-text{
+        max-width: 100%;
+        padding-left: 0;
+    }
+
+    .badge{
+        position: static;
+        display: inline-block;
+        margin: 0 0 .8em 0;
+        border-radius: 3px;
+    }
+
+    @include breakpoint($medium) {
+        .paper-box-text{
+            max-width: 100%;
+            padding-left: 0;
+        }
+    }
+}
+
 $scroll_offset : 2em;
 h1:before, .anchor:before { 
     content: ''; 

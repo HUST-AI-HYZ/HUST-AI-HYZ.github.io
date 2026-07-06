@@ -30,6 +30,8 @@ I am an incoming PhD student in the **Machine Learning** at the **Georgia Instit
 
 
 ## 🔥 News
+- *2026.06*: &nbsp; I gave a talk about Long-horizon Agent Evalution at Cornell Tech. See [Slides](https://drive.google.com/file/d/1X8m9WKTbU44Ve8NbU8aiFbJFMv-rd0uD/view?usp=sharing)
+
 - *2026.05*: &nbsp; 🎉🎉🎉 One paper is accepted by [KDD 2026](https://kdd2026.kdd.org). &nbsp; Two papers are accepted by [ICML 2026](https://icml.cc/) as **Regular**! See you at Seoul, South Korea.
 
 - *2026.04*: &nbsp;😁 I graduated from UCSD! &nbsp;💼 Joined [Qwen Team](https://huggingface.co/Qwen)@Alibaba Group as a research intern. 
@@ -229,7 +231,10 @@ I am an incoming PhD student in the **Machine Learning** at the **Georgia Instit
 
 **Short Summary:** We present MemoryAreana, a new evaluation gym designed to bridge the gap between isolated recall and execution by benchmarking agents on tasks where memory acquisition and action are tightly coupled.
 
-[Paper](https://arxiv.org/pdf/2602.16313)
+[Paper](https://arxiv.org/pdf/2602.16313) <a href="https://github.com/ZexueHe/memoryarena">
+<img src="https://img.shields.io/github/stars/ZexueHe/memoryarena" alt="Star Count">
+</a>  <a href="https://huggingface.co/datasets/ZexueHe/memoryarena"><img src="https://img.shields.io/badge/Dataset-HuggingFace-FFD21E?logo=huggingface" alt="HF Dataset"></a> <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fhuggingface.co%2Fapi%2Fdatasets%2FZexueHe%2Fmemoryarena%3Fexpand%255B%255D%3DdownloadsAllTime&query=%24.downloadsAllTime&label=Total%20Downloads&color=orange&logo=huggingface&cacheSeconds=3600" alt="Dataset Downloads"> 
+
 
 </div>
 </div>
@@ -242,17 +247,16 @@ I am an incoming PhD student in the **Machine Learning** at the **Georgia Instit
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='images/paper_main/ICML2025_Mplus.jpg' alt="sym" width="90%"></div></div>
+<div class='paper-box no-image'>
 <div class='paper-box-text' markdown="1">
+
+<div class="badge">ICML 2025</div>
 
 **M+: Extending MemoryLLM with Scalable Long-Term Memory**
 
 Yu Wang, Dmitry Krotov, **Yuanzhe Hu**, Yifan Gao, Wangchunshu Zhou, Julian McAuley, Dan Gutfreund, Rogerio Feris, Zexue He
 
 **ICML 2025**
-
-
-**Short Summary:** M+ enhances long-term information retention in LLMs by integrating a retriever-based long-term memory mechanism.
 
 [Paper](https://arxiv.org/abs/2502.00592) \| [Review](https://openreview.net/forum?id=OcqbkROe8J&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICML.cc%2F2025%2FConference%2FAuthors%23your-submissions)) 
 
@@ -267,17 +271,16 @@ Yu Wang, Dmitry Krotov, **Yuanzhe Hu**, Yifan Gao, Wangchunshu Zhou, Julian McAu
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/paper_main/Mem_Alpha.png' alt="sym" width="90%"></div></div>
+<div class='paper-box no-image'>
 <div class='paper-box-text' markdown="1">
+
+<div class="badge">Preprint</div>
 
 **Mem-$\alpha$: Learning Memory Construction via Reinforcement Learning**
 
 Yu Wang, Ryuichi Takanobu, Zhiqi Liang, Yuzhen Mao, **Yuanzhe Hu**, Julian McAuley, Xiaojian Wu
 
-**Under Review**
-
-
-**Short Summary:** Mem-alpha, a reinforcement learning framework, enhances memory management in LLMs through interaction and feedback.
+**Preprint**
 
 
 [Paper](https://arxiv.org/abs/2509.25911) 
@@ -291,30 +294,32 @@ Yu Wang, Ryuichi Takanobu, Zhiqi Liang, Yuzhen Mao, **Yuanzhe Hu**, Julian McAul
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Tech Report</div><img src='images/paper_main/K2-Think.png' alt="sym" width="90%"></div></div>
+<div class='paper-box no-image'>
 <div class='paper-box-text' markdown="1">
+
+<div class="badge">Tech Report</div>
 
 **K2-Think: A Parameter-Efficient Reasoning System**
 
-Zhoujun Cheng, Richard Fan, Shibo Hao, Taylor W. Killian, Haonan Li, Suqi Sun, Hector Ren, Alexander Moreno, Daqian Zhang, Tianjun Zhong, Yuxin Xiong, **Yuanzhe Hu**, Yutao Xie, Xudong Han, Yuqi Wang, Varad Pimpalkhute, Yonghao Zhuang, Aaryamonvikram Singh, Xuezhi Liang, Anze Xie, Jianshu She, Desai Fan, Chengqian Gao, Liqun Ma, Mikhail Yurochkin, John Maggs, Xuezhe Ma, Guowei He, Zhiting Hu, Zhengzhong Liu, Eric P. Xing
+MBZUAI IFM / LLM 360 Team (Including **Yuanzhe Hu**)
 
 **MBZUAI IFM / LLM 360 Tech Report**
 
 
-**Short Summary:** K2-Think is a parameter-efficient reasoning system based on a 32B model.
-
 
 [Paper](https://arxiv.org/abs/2509.07604) 
 
- <a href="https://huggingface.co/LLM360/K2-Think"><img src="https://img.shields.io/badge/Model-HuggingFace-FFD21E?logo=huggingface" alt="Model"></a> <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fhuggingface.co%2Fapi%2Fmodels%2FLLM360%2FK2-Think%3Fexpand%255B%255D%3DdownloadsAllTime&label=Total%20Downloads&query=%24.downloadsAllTime&color=orange&logo=huggingface&cacheSeconds=3600" alt="Model Downloads">  <a href="https://www.nytimes.com/2025/09/09/technology/uae-emirates-ai-open-source.html"><img src="https://img.shields.io/badge/Media-NY_Times-555555?logo=nytimes" alt="NY Times"></a> <a href="https://www.forbes.com/sites/patrickmoorhead/2025/09/09/the-uae-showcases-its-abilities-in-ai-reasoning-with-k2-think-model/"><img src="https://img.shields.io/badge/Media-Forbes-5DADE2?logo=forbes" alt="Forbes"></a> 
+<a href="https://www.nytimes.com/2025/09/09/technology/uae-emirates-ai-open-source.html"><img src="https://img.shields.io/badge/Media-NY_Times-555555?logo=nytimes" alt="NY Times"></a> <a href="https://www.forbes.com/sites/patrickmoorhead/2025/09/09/the-uae-showcases-its-abilities-in-ai-reasoning-with-k2-think-model/"><img src="https://img.shields.io/badge/Media-Forbes-5DADE2?logo=forbes" alt="Forbes"></a> 
 
 </div>
 </div>
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MIRIX</div><img src='images/mirix_memory.jpg' alt="sym" width="90%"></div></div>
+<div class='paper-box no-image'>
 <div class='paper-box-text' markdown="1">
+
+<div class="badge">MIRIX</div>
 
 **MIRIX: Multi-Agent Memory System for LLM-Based Agents**
 
