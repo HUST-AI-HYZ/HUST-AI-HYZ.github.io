@@ -12,11 +12,13 @@ redirect_from:
 
 ## ℹ️ Short Bio
 
-Hi, I'm Yuanzhe, currently a research intern at [Qwen Team](https://huggingface.co/Qwen)@Alibaba Group, working on the Agentic Evaluation for Qwen model series. 
+Hi, I'm Yuanzhe, currently 
 
-Previously I was a master student at University of Califronia, San Diego 🔱. I have the great honor of being collaborating with Prof. [Yaoqing Yang](https://sites.google.com/site/yangyaoqingcmu/) from CS@Dartmouth College, [Julian McAuley](https://cseweb.ucsd.edu/~jmcauley/) from CSE@UC San Diego, [Zhiting Hu](https://zhiting.ucsd.edu) HDSI@UC San Diego.
+I am a PhD student in the **Machine Learning** at the **Georgia Institute of Technology (Georgia Tech)**, starting Fall 2026. I am actively openning to research collaboration inquiries. Feel free to reach out!
 
-My current research is focused on
+Previously I was a master student at University of Califronia, San Diego 🔱. I have the great honor of being collaborating with Prof. [Yaoqing Yang](https://sites.google.com/site/yangyaoqingcmu/) from CS@Dartmouth College, [Julian McAuley](https://cseweb.ucsd.edu/~jmcauley/) from CSE@UC San Diego, [Zhiting Hu](https://zhiting.ucsd.edu) HDSI@UC San Diego. I have also worked a research intern at [Qwen Team](https://huggingface.co/Qwen)@Alibaba Group, working on the Agentic Coding for Qwen model series. 
+
+My research is focused on
 
 - **Understanding the mechanisms, training dynamics, and generalization of LLMs and SciML models via mathematical analysis.** Building upon this theoretical foundation, We design advanced optimization algorithms to make LLM compression and training more efficient. Previous works include [SciML Diagnosis (ICML 2026)](https://arxiv.org/pdf/2605.29153) for diagnosing failure modes in SciML models, [FARMS (ICML 2025)](https://arxiv.org/abs/2506.06280) for layer-wise pruning, and [Model Balancing (EMNLP 2024 Oral)](https://arxiv.org/abs/2410.12178) for low-resource fine-tuning. 
 
@@ -24,9 +26,6 @@ My current research is focused on
 
 
 My research leverages mathematical insights into large language models (LLMs) to develop efficient algorithms, while simultaneously unlocking advanced memory and reasoning capabilities in LLMs and AI Agents. 
-
-I am an incoming PhD student in the **Machine Learning** at the **Georgia Institute of Technology (Georgia Tech)**, starting Fall 2026. I am actively openning to research collaboration inquiries. Feel free to reach out!
-
 
 
 ## 🔥 News
@@ -95,10 +94,10 @@ I am an incoming PhD student in the **Machine Learning** at the **Georgia Instit
     </td>
     <td style="border: none; vertical-align: middle;">
       <b>Qwen Team, Tongyi Lab, Alibaba Group</b><br>
-      Research Intern, working on the Agentic Evaluation for Qwen model series. 
+      Research Intern, working on the Agentic Coding for Qwen model series. 
     </td>
     <td style="text-align: right; border: none; vertical-align: middle; white-space: nowrap;">
-      <i>2026.04 - </i>
+      <i>2026.04 - 2026.08</i>
     </td>
   </tr>
   <tr>
