@@ -12,9 +12,7 @@ redirect_from:
 
 ## ℹ️ Short Bio
 
-Hi, I'm Yuanzhe, currently 
-
-I am a PhD student in the **Computer and Information Sciences ** at the **Georgia Institute of Technology (Georgia Tech)**, starting Fall 2026. I am actively openning to research collaboration inquiries. Feel free to reach out!
+Hi, I'm Yuanzhe, currently I am a PhD student in the **Computer and Information Sciences ** at the **Georgia Institute of Technology (Georgia Tech)**, starting Fall 2026. I am actively openning to research collaboration inquiries. Feel free to reach out!
 
 Previously I was a master student at University of Califronia, San Diego 🔱. I have the great honor of being collaborating with Prof. [Yaoqing Yang](https://sites.google.com/site/yangyaoqingcmu/) from CS@Dartmouth College, [Julian McAuley](https://cseweb.ucsd.edu/~jmcauley/) from CSE@UC San Diego, [Zhiting Hu](https://zhiting.ucsd.edu) HDSI@UC San Diego. I have also worked a research intern at [Qwen Team](https://huggingface.co/Qwen)@Alibaba Group, working on the Agentic Coding for Qwen model series. 
 
