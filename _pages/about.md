@@ -14,7 +14,7 @@ redirect_from:
 
 Hi, I'm Yuanzhe, currently 
 
-I am a PhD student in the **Machine Learning** at the **Georgia Institute of Technology (Georgia Tech)**, starting Fall 2026. I am actively openning to research collaboration inquiries. Feel free to reach out!
+I am a PhD student in the **Computer and Information Sciences ** at the **Georgia Institute of Technology (Georgia Tech)**, starting Fall 2026. I am actively openning to research collaboration inquiries. Feel free to reach out!
 
 Previously I was a master student at University of Califronia, San Diego 🔱. I have the great honor of being collaborating with Prof. [Yaoqing Yang](https://sites.google.com/site/yangyaoqingcmu/) from CS@Dartmouth College, [Julian McAuley](https://cseweb.ucsd.edu/~jmcauley/) from CSE@UC San Diego, [Zhiting Hu](https://zhiting.ucsd.edu) HDSI@UC San Diego. I have also worked a research intern at [Qwen Team](https://huggingface.co/Qwen)@Alibaba Group, working on the Agentic Coding for Qwen model series. 
 
@@ -29,6 +29,8 @@ My research leverages mathematical insights into large language models (LLMs) to
 
 
 ## 🔥 News
+- *2026.08*: &nbsp; Started my PhD journey. 
+
 - *2026.06*: &nbsp; I gave a talk about Long-horizon Agent Evalution at Cornell Tech. See [Slides](https://drive.google.com/file/d/1X8m9WKTbU44Ve8NbU8aiFbJFMv-rd0uD/view?usp=sharing)
 
 - *2026.05*: &nbsp; 🎉🎉🎉 One paper is accepted by [KDD 2026](https://kdd2026.kdd.org). &nbsp; Two papers are accepted by [ICML 2026](https://icml.cc/) as **Regular**! See you at Seoul, South Korea.
@@ -50,7 +52,7 @@ My research leverages mathematical insights into large language models (LLMs) to
     </td>
     <td style="border: none; vertical-align: middle;">
       <b>Georgia Institute of Technology (Georgia Tech)</b><br>
-      Ph.D. in Machine Learning
+      Ph.D. in Computer and Information Sciences 
     </td>
     <td style="text-align: right; border: none; vertical-align: middle; white-space: nowrap;">
       <i>2026.08 - </i>
