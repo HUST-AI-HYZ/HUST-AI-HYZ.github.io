@@ -12,11 +12,11 @@ redirect_from:
 
 ## ℹ️ Short Bio
 
-Hi, I'm Yuanzhe, currently I am a PhD student in the **Computer and Information Sciences ** at the **Georgia Institute of Technology (Georgia Tech)**, starting Fall 2026. I am actively openning to research collaboration inquiries. Feel free to reach out!
+Hi, I'm Yuanzhe, currently I am a PhD student in the **Computer and Information Sciences** at the **Georgia Institute of Technology (Georgia Tech)**, starting Fall 2026. I am actively openning to research collaboration inquiries. Feel free to reach out!
 
-Previously I was a master student at University of Califronia, San Diego 🔱. I have the great honor of being collaborating with Prof. [Yaoqing Yang](https://sites.google.com/site/yangyaoqingcmu/) from CS@Dartmouth College, [Julian McAuley](https://cseweb.ucsd.edu/~jmcauley/) from CSE@UC San Diego, [Zhiting Hu](https://zhiting.ucsd.edu) HDSI@UC San Diego. I have also worked a research intern at [Qwen Team](https://huggingface.co/Qwen)@Alibaba Group, working on the Agentic Coding for Qwen model series. 
+Previously I was a master student at University of Califronia, San Diego 🔱. I have the great honor of collaborating with Prof. [Yaoqing Yang](https://sites.google.com/site/yangyaoqingcmu/) from CS@Dartmouth College, [Julian McAuley](https://cseweb.ucsd.edu/~jmcauley/) from CSE@UC San Diego, [Zhiting Hu](https://zhiting.ucsd.edu) HDSI@UC San Diego. I have also worked a research intern at [Qwen Team](https://huggingface.co/Qwen)@Alibaba Group, working on the Agentic Coding for Qwen model series. 
 
-My research is focused on
+My previous or current research is focused on
 
 - **Understanding the mechanisms, training dynamics, and generalization of LLMs and SciML models via mathematical analysis.** Building upon this theoretical foundation, We design advanced optimization algorithms to make LLM compression and training more efficient. Previous works include [SciML Diagnosis (ICML 2026)](https://arxiv.org/pdf/2605.29153) for diagnosing failure modes in SciML models, [FARMS (ICML 2025)](https://arxiv.org/abs/2506.06280) for layer-wise pruning, and [Model Balancing (EMNLP 2024 Oral)](https://arxiv.org/abs/2410.12178) for low-resource fine-tuning. 
 
