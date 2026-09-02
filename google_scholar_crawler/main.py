@@ -8,6 +8,7 @@ import html
 import json
 import os
 import re
+import sys
 import time
 import urllib.error
 import urllib.parse
@@ -58,10 +59,16 @@ def fetch_profile(author_id: str, attempts: int) -> tuple[str, str]:
             return url, document
         except (urllib.error.URLError, TimeoutError, RuntimeError) as error:
             last_error = error
+            print(
+                f"Scholar fetch attempt {attempt}/{attempts} failed: {error}",
+                file=sys.stderr,
+            )
             if attempt < attempts:
                 time.sleep(5 * attempt)
 
-    raise RuntimeError(f"Unable to fetch Google Scholar after {attempts} attempts") from last_error
+    raise RuntimeError(
+        f"Unable to fetch Google Scholar after {attempts} attempts: {last_error}"
+    ) from last_error
 
 
 def parse_profile(author_id: str, source_url: str, document: str) -> dict:

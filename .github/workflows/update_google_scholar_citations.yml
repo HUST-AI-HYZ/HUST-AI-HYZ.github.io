@@ -21,7 +21,9 @@ concurrency:
 
 jobs:
   update-citations:
-    runs-on: ubuntu-latest
+    # Scholar blocks many Azure data-center IPs used by Ubuntu runners.
+    # GitHub-hosted macOS runners use a separate network pool.
+    runs-on: macos-latest
     steps:
       - name: Check out the website
         uses: actions/checkout@v7
