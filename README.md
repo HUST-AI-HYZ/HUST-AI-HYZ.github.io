@@ -27,7 +27,7 @@ Some examples:
 ## Quick Start
 
 1. Fork this REPO and rename to `USERNAME.github.io`, where `USERNAME` is your github USERNAME.
-1. Maintain Google Scholar citation data manually in `assets/data/google_scholar/gs_data.json`.
+1. Set `GOOGLE_SCHOLAR_ID` in `.github/workflows/update_google_scholar_citations.yml`; the scheduled workflow refreshes citation data automatically.
 1. Generate favicon using [favicon-generator](https://redketchup.io/favicon-generator) and download all generated files to `REPO/images`.
 1. Modify the configuration of your homepage `_config.yml`:
     1. `title`: the title of your homepage
@@ -39,13 +39,13 @@ Some examples:
     1. More configuration details are described in the comments.
 1. Add your homepage content in `_pages/about.md`.
     1. You can use html+markdown syntax just same as jekyll.
-    1. You can use a `<span>` tag with class `show_paper_citations` and attribute `data` to display the citations of your paper. Set the data to the google scholar paper ID. For
+    1. Use a `<span>` with class `show_paper_citations` and `data-paper-id` set to the Google Scholar paper ID. Citation badges are displayed automatically once a paper has more than 20 citations.
         ```html
-        <span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span>
+        <span class='show_paper_citations' data-paper-id='DhtAFkwAAAAJ:ALROH1vI_8AC'></span>
         ``` 
         > Q: How to get the google scholar paper ID?   
         > A: Enter your google scholar homepage and click the paper name. Then you can see the paper ID from `citation_for_view=XXXX`, where `XXXX` is the required paper ID.
-        > Then add or update the matching key in `assets/data/google_scholar/gs_data.json`.
+        > The scheduled crawler populates the matching citation data automatically.
 1. Your page will be published at `https://USERNAME.github.io`.
 
 ## Debug Locally

@@ -12,18 +12,17 @@ redirect_from:
 
 ## ℹ️ Short Bio
 
-Hi, I'm Yuanzhe, currently I am a PhD student in the **Computer and Information Sciences** at the **Georgia Institute of Technology (Georgia Tech)**, starting Fall 2026. I am actively openning to research collaboration inquiries. Feel free to reach out!
+Hi, I'm Yuanzhe, a Ph.D. student in **Computer and Information Sciences** at the **Georgia Institute of Technology (Georgia Tech)**. I am broadly interested in building reliable, adaptive, and efficient AI systems—especially agents that must learn, remember, reason, and act over long horizons. I am open to research collaborations, so please feel free to reach out!
 
-Previously I was a master student at University of Califronia, San Diego 🔱. I have the great honor of collaborating with Prof. [Yaoqing Yang](https://sites.google.com/site/yangyaoqingcmu/) from CS@Dartmouth College, [Julian McAuley](https://cseweb.ucsd.edu/~jmcauley/) from CSE@UC San Diego, [Zhiting Hu](https://zhiting.ucsd.edu) HDSI@UC San Diego. I have also worked a research intern at [Qwen Team](https://huggingface.co/Qwen)@Alibaba Group, working on the Agentic Coding for Qwen model series. 
+Before joining Georgia Tech, I received my M.S. in Computer Science and Engineering from the University of California, San Diego (UCSD) 🔱 and my B.S. in Artificial Intelligence from Huazhong University of Science and Technology (HUST). I have been fortunate to collaborate with Prof. [Yaoqing Yang](https://sites.google.com/site/yangyaoqingcmu/) at Dartmouth College, Prof. [Julian McAuley](https://cseweb.ucsd.edu/~jmcauley/) at UC San Diego, and Prof. [Zhiting Hu](https://zhiting.ucsd.edu) at UC San Diego.
 
-My previous or current research is focused on
+My research spans two complementary directions:
 
-- **Understanding the mechanisms, training dynamics, and generalization of LLMs and SciML models via mathematical analysis.** Building upon this theoretical foundation, We design advanced optimization algorithms to make LLM compression and training more efficient. Previous works include [SciML Diagnosis (ICML 2026)](https://arxiv.org/pdf/2605.29153) for diagnosing failure modes in SciML models, [FARMS (ICML 2025)](https://arxiv.org/abs/2506.06280) for layer-wise pruning, and [Model Balancing (EMNLP 2024 Oral)](https://arxiv.org/abs/2410.12178) for low-resource fine-tuning. 
+- **Reliable AI agents and long-horizon learning.** I develop evaluation harnesses, memory systems, and post-training methods to study how agents acquire, update, retrieve, and use knowledge across extended interactions and complex environments. Recent projects include [EarthVerse](https://arxiv.org/abs/2608.23525), [MemoryArena (ICML 2026)](https://arxiv.org/abs/2602.16313), [MemoryAgentBench (ICLR 2026)](https://arxiv.org/abs/2507.05257), [Mem-$\alpha$](https://arxiv.org/abs/2509.25911), [M+ (ICML 2025)](https://arxiv.org/abs/2502.00592), [K2-Think](https://arxiv.org/abs/2509.07604), and [MIRIX](https://github.com/Mirix-AI/MIRIX).
 
-- **Enhancing Memory and Reasoning in LLMs and Agents**, specifically by enabling models to process long-term history and achieve advanced reasoning capabilities through post-training. Previous works include  [MemoryAgentBench (ICLR 2026), 300+ 🌟](https://arxiv.org/abs/2507.05257v2) and [MemoryArena (ICML 2026)](https://arxiv.org/pdf/2602.16313) for agentic memory comprehensive evaluation, [M+ (ICML 2025)](https://arxiv.org/abs/2502.00592) for long-term information retention,  [K2-Think (Tech Report)](https://arxiv.org/abs/2509.07604) for large-scale reasoning, [MIRIX (Open-source framework, 3K+ 🌟)](https://github.com/Mirix-AI/MIRIX) for multi-agent memory systems, and [Mem-alpha](https://arxiv.org/abs/2509.25911) for RL-based memory management. 
+- **Understanding and improving learning systems.** I use mathematical and spectral perspectives to study model structure, training dynamics, generalization, and failure modes, and translate these insights into more efficient training and compression methods. This line includes [Spectral Signatures of Large Language Models (KDD 2026)](https://arxiv.org/abs/2607.03377), [SciML Diagnosis (ICML 2026)](https://arxiv.org/abs/2605.29153), [FARMS (ICML 2025)](https://arxiv.org/abs/2506.06280), and [Model Balancing (EMNLP 2024 Oral)](https://arxiv.org/abs/2410.12178).
 
-
-My research leverages mathematical insights into large language models (LLMs) to develop efficient algorithms, while simultaneously unlocking advanced memory and reasoning capabilities in LLMs and AI Agents. 
+Looking forward, I am particularly interested in agent harnesses and memory for long-horizon learning and decision-making, self-improving systems that learn continually from interaction and feedback, and agent architectures that reliably work with tools, services, and structured data sources such as databases.
 
 
 ## 🔥 News
@@ -33,7 +32,7 @@ My research leverages mathematical insights into large language models (LLMs) to
 
 - *2026.05*: &nbsp; 🎉🎉🎉 One paper is accepted by [KDD 2026](https://kdd2026.kdd.org). &nbsp; Two papers are accepted by [ICML 2026](https://icml.cc/) as **Regular**! See you at Seoul, South Korea.
 
-- *2026.04*: &nbsp;😁 I graduated from UCSD! &nbsp;💼 Joined [Qwen Team](https://huggingface.co/Qwen)@Alibaba Group as a research intern. 
+- *2026.04*: &nbsp;😁 I graduated from UCSD!
 
 - *2026.01*: &nbsp;🎉🎉 Our paper "Evaluating Memory in LLM Agents via Incremental Multi-Turn Interactions" was accepted by [ICLR 2026](https://iclr.cc). 
 - *2025.07*: &nbsp;😁 We open-sourced the [MemoryAgentBench](https://github.com/HUST-AI-HYZ/MemoryAgentBench). Thanks for the great help from [Yu Wang](https://yuwang.us)! 
@@ -90,18 +89,6 @@ My research leverages mathematical insights into large language models (LLMs) to
 <table>
   <tr>
     <td style="width: 60px; border: none; padding: 10px 15px 10px 0;">
-      <img src="./images/qwen-color.svg" width="120">
-    </td>
-    <td style="border: none; vertical-align: middle;">
-      <b>Qwen Team, Tongyi Lab, Alibaba Group</b><br>
-      Research Intern, working on the Agentic Coding for Qwen model series. 
-    </td>
-    <td style="text-align: right; border: none; vertical-align: middle; white-space: nowrap;">
-      <i>2026.04 - 2026.08</i>
-    </td>
-  </tr>
-  <tr>
-    <td style="width: 60px; border: none; padding: 10px 15px 10px 0;">
       <img src="./images/mbzuai.png" width="80">
     </td>
     <td style="border: none; vertical-align: middle;">
@@ -119,78 +106,9 @@ My research leverages mathematical insights into large language models (LLMs) to
 
 ## ⚙️ Research Project
 
-### 📖 Mathematical Analysis and Optimization on LLMs and SciML Models
-
 <span style="color: #5DADE2;"># denotes equal contribution</span>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/paper_main/Sciml_Diagnosis.jpg' alt="sym" width="90%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**Unveiling Multi-regime Patterns in SciML: Distinct Failure Modes and Regime-specific Optimization**
-
-{Yuxin Wang#, **Yuanzhe Hu#**, Xiaokun Zhong#, Xiaopeng Wang#}, Haiquan Lu, Tianyu Pang, Michael W. Mahoney, Yujun Yan, Pu Ren, Yaoqing Yang
-
-**ICML 2026**
-
-**Short Summary:** A diagnosis framework for Scientific Machine Learning Models.
-
-[Paper](https://arxiv.org/pdf/2605.29153) 
-
-</div>
-</div>
-
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='images/paper_main/ICML2025_FARMS.jpg' alt="sym" width="90%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**Eigenspectrum Analysis of Neural Networks without Aspect Ratio Bias**
-
-**Yuanzhe Hu**, Kinshuk Goel, Vlad Killiakov, Yaoqing Yang
-
-**ICML 2025**
-
-**Short Summary:** A layer-wise LLM pruning method inspired by Marchenko–Pastur (MP) law. 
-
-[Paper](https://arxiv.org/abs/2506.06280) \| [Video](https://icml.cc/virtual/2025/poster/46300) \| [Review](https://openreview.net/forum?id=7ywj1B3DuO&referrer=%5BAuthor%20Console%5D%2Fgroup%3Fid%3DICML.cc%2F2025%2FConference%2FAuthors%23your-submissions)  
-
-<a href="https://github.com/HUST-AI-HYZ/FARMS">
-<img src="https://img.shields.io/github/stars/HUST-AI-HYZ/FARMS" alt="Star Count">
-</a>
-
-</div>
-</div>
-
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2024</div><img src='images/paper_main/EMNLP_2024.png' alt="sym" width="90%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**Model Balancing Helps Low-data Training and Fine-tuning**
-
-{Zihang Liu#, **Yuanzhe Hu#**}, Tianyu Pang, Yefan Zhou, Pu Ren, Yaoqing Yang
-
-**EMNLP 2024 <span style="color: red;">, Oral (168/6105=2.75%), Meta Review OA=5.0</span>**
-
-**Short Summary:** Learning rate scheduler for LLM fine-tuning on low-source dataset. 
-
-
-[Paper](https://arxiv.org/abs/2410.12178) \| [Video](https://us06web.zoom.us/rec/play/5RHeJiEVuG-yw_Ytt9cHPMzqEIm2xWenwjhHjJ4yt7camtmQObTndJ56YgBBw0A1TlNRGiwZ2MAw5klz.7Xm2WgzcHdxPjGqm?autoplay=true) \| [Review](./pdf/paper_review/Model_balancing_review.pdf)
-
-<a href="https://github.com/ZihangHLiu/ModelBalancing">
-<img src="https://img.shields.io/github/stars/ZihangHLiu/ModelBalancing" alt="Star Count">
-</a>
-
-</div>
-</div>
-
-
-
-### 🤔 Enhancing Memory and Reasoning in LLMs and Agents
-
-
-
-
+### 🤔 Reliable AI Agents and Long-Horizon Learning
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/paper_main/MemAgentBench.png' alt="sym" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -204,7 +122,7 @@ My research leverages mathematical insights into large language models (LLMs) to
 **Short Summary:**  MemoryAgentBench is a new benchmark designed to comprehensively evaluate memory agents in LLMs. 
 
 
-[Paper](https://arxiv.org/abs/2507.05257v2)
+[Paper](https://arxiv.org/abs/2507.05257v2) <span class="show_paper_citations" data-paper-id="ehBiQEUAAAAJ:NaGl4SEjCO4C"></span>
 
 <a href="https://github.com/HUST-AI-HYZ/MemoryAgentBench">
 <img src="https://img.shields.io/github/stars/HUST-AI-HYZ/MemoryAgentBench" alt="Star Count">
@@ -230,7 +148,7 @@ My research leverages mathematical insights into large language models (LLMs) to
 
 **Short Summary:** We present MemoryAreana, a new evaluation gym designed to bridge the gap between isolated recall and execution by benchmarking agents on tasks where memory acquisition and action are tightly coupled.
 
-[Paper](https://arxiv.org/pdf/2602.16313) <a href="https://github.com/ZexueHe/memoryarena">
+[Paper](https://arxiv.org/pdf/2602.16313) \| [Website](https://memoryarena.github.io/) <span class="show_paper_citations" data-paper-id="ehBiQEUAAAAJ:g5m5HwL7SMYC"></span> <a href="https://github.com/ZexueHe/memoryarena">
 <img src="https://img.shields.io/github/stars/ZexueHe/memoryarena" alt="Star Count">
 </a>  <a href="https://huggingface.co/datasets/ZexueHe/memoryarena"><img src="https://img.shields.io/badge/Dataset-HuggingFace-FFD21E?logo=huggingface" alt="HF Dataset"></a> <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fhuggingface.co%2Fapi%2Fdatasets%2FZexueHe%2Fmemoryarena%3Fexpand%255B%255D%3DdownloadsAllTime&query=%24.downloadsAllTime&label=Total%20Downloads&color=orange&logo=huggingface&cacheSeconds=3600" alt="Dataset Downloads"> 
 
@@ -246,6 +164,24 @@ My research leverages mathematical insights into large language models (LLMs) to
 
 
 
+
+<div class='paper-box no-image'>
+<div class='paper-box-text' markdown="1">
+
+<div class="badge">Preprint</div>
+
+**EarthVerse: Benchmarking Scientific Agents Across Dynamic Earth Systems and Natural Hazards**
+
+Zhiqing Cui, Xinxiang Yin, Yihong Tang, Xinglang Zhang, **Yuanzhe Hu**, Siru Zhong, Weidong Tang, Yuxuan Liang, Weijia Li, Ming Jin, Shirui Pan, Yuhao Kang, Dingyi Zhuang, Jinhua Zhao
+
+**Preprint**
+
+[Paper](https://arxiv.org/abs/2608.23525) \| [Website](https://cuizhiq.github.io/EarthVerse/) \| [Code](https://github.com/CuiZHIQ/Earth-Verse) \| [Dataset](https://huggingface.co/datasets/miracle10/EarthVerse) <span class="show_paper_citations" data-paper-id="ehBiQEUAAAAJ:Y5dfb0dijaUC"></span>
+
+</div>
+</div>
+
+
 <div class='paper-box no-image'>
 <div class='paper-box-text' markdown="1">
 
@@ -257,7 +193,7 @@ Yu Wang, Dmitry Krotov, **Yuanzhe Hu**, Yifan Gao, Wangchunshu Zhou, Julian McAu
 
 **ICML 2025**
 
-[Paper](https://arxiv.org/abs/2502.00592) \| [Review](https://openreview.net/forum?id=OcqbkROe8J&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICML.cc%2F2025%2FConference%2FAuthors%23your-submissions)) 
+[Paper](https://arxiv.org/abs/2502.00592) \| [Review](https://openreview.net/forum?id=OcqbkROe8J&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICML.cc%2F2025%2FConference%2FAuthors%23your-submissions)) <span class="show_paper_citations" data-paper-id="ehBiQEUAAAAJ:2P1L_qKh6hAC"></span>
 
 <a href="https://github.com/wangyu-ustc/MemoryLLM">
 <img src="https://img.shields.io/github/stars/wangyu-ustc/MemoryLLM" alt="Star Count">
@@ -282,7 +218,7 @@ Yu Wang, Ryuichi Takanobu, Zhiqi Liang, Yuzhen Mao, **Yuanzhe Hu**, Julian McAul
 **Preprint**
 
 
-[Paper](https://arxiv.org/abs/2509.25911) 
+[Paper](https://arxiv.org/abs/2509.25911) \| [Model](https://huggingface.co/YuWangX/Memalpha-4B) <span class="show_paper_citations" data-paper-id="ehBiQEUAAAAJ:M3NEmzRMIkIC"></span>
 
 <a href="https://github.com/wangyu-ustc/Mem-alpha">
 <img src="https://img.shields.io/github/stars/wangyu-ustc/Mem-alpha" alt="Star Count">
@@ -306,7 +242,7 @@ MBZUAI IFM / LLM 360 Team (Including **Yuanzhe Hu**)
 
 
 
-[Paper](https://arxiv.org/abs/2509.07604) 
+[Paper](https://arxiv.org/abs/2509.07604) \| [Website](https://k2think.ai/) \| [SFT Code](https://github.com/MBZUAI-IFM/K2-Think-SFT) \| [Model](https://huggingface.co/IFM/K2-Think) <span class="show_paper_citations" data-paper-id="ehBiQEUAAAAJ:YFjsv_pBGBYC"></span>
 
 <a href="https://www.nytimes.com/2025/09/09/technology/uae-emirates-ai-open-source.html"><img src="https://img.shields.io/badge/Media-NY_Times-555555?logo=nytimes" alt="NY Times"></a> <a href="https://www.forbes.com/sites/patrickmoorhead/2025/09/09/the-uae-showcases-its-abilities-in-ai-reasoning-with-k2-think-model/"><img src="https://img.shields.io/badge/Media-Forbes-5DADE2?logo=forbes" alt="Forbes"></a> 
 
@@ -338,3 +274,83 @@ MBZUAI IFM / LLM 360 Team (Including **Yuanzhe Hu**)
 </div>
 
 
+### 📖 Understanding and Improving Learning Systems
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/paper_main/Sciml_Diagnosis.jpg' alt="sym" width="90%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Unveiling Multi-regime Patterns in SciML: Distinct Failure Modes and Regime-specific Optimization**
+
+{Yuxin Wang#, **Yuanzhe Hu#**, Xiaokun Zhong#, Xiaopeng Wang#}, Haiquan Lu, Tianyu Pang, Michael W. Mahoney, Yujun Yan, Pu Ren, Yaoqing Yang
+
+**ICML 2026**
+
+**Short Summary:** A diagnosis framework for Scientific Machine Learning Models.
+
+[Paper](https://arxiv.org/pdf/2605.29153) \| [Code](https://github.com/leastima/sciml_multi_regime) <span class="show_paper_citations" data-paper-id="ehBiQEUAAAAJ:a0OBvERweLwC"></span>
+
+</div>
+</div>
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='images/paper_main/ICML2025_FARMS.jpg' alt="sym" width="90%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Eigenspectrum Analysis of Neural Networks without Aspect Ratio Bias**
+
+**Yuanzhe Hu**, Kinshuk Goel, Vlad Killiakov, Yaoqing Yang
+
+**ICML 2025**
+
+**Short Summary:** A layer-wise LLM pruning method inspired by Marchenko–Pastur (MP) law.
+
+[Paper](https://arxiv.org/abs/2506.06280) \| [Video](https://icml.cc/virtual/2025/poster/46300) \| [Review](https://openreview.net/forum?id=7ywj1B3DuO&referrer=%5BAuthor%20Console%5D%2Fgroup%3Fid%3DICML.cc%2F2025%2FConference%2FAuthors%23your-submissions) <span class="show_paper_citations" data-paper-id="ehBiQEUAAAAJ:BqipwSGYUEgC"></span>
+
+<a href="https://github.com/HUST-AI-HYZ/FARMS">
+<img src="https://img.shields.io/github/stars/HUST-AI-HYZ/FARMS" alt="Star Count">
+</a>
+
+</div>
+</div>
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2024</div><img src='images/paper_main/EMNLP_2024.png' alt="sym" width="90%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Model Balancing Helps Low-data Training and Fine-tuning**
+
+{Zihang Liu#, **Yuanzhe Hu#**}, Tianyu Pang, Yefan Zhou, Pu Ren, Yaoqing Yang
+
+**EMNLP 2024 <span style="color: red;">, Oral (168/6105=2.75%), Meta Review OA=5.0</span>**
+
+**Short Summary:** Learning rate scheduler for LLM fine-tuning on low-source dataset.
+
+
+[Paper](https://arxiv.org/abs/2410.12178) \| [Video](https://us06web.zoom.us/rec/play/5RHeJiEVuG-yw_Ytt9cHPMzqEIm2xWenwjhHj4yt7camtmQObTndJ56YgBBw0A1TlNRGiwZ2MAw5klz.7Xm2WgzcHdxPjGqm?autoplay=true) \| [Review](./pdf/paper_review/Model_balancing_review.pdf) <span class="show_paper_citations" data-paper-id="ehBiQEUAAAAJ:maZDTaKrznsC"></span>
+
+<a href="https://github.com/ZihangHLiu/ModelBalancing">
+<img src="https://img.shields.io/github/stars/ZihangHLiu/ModelBalancing" alt="Star Count">
+</a>
+
+</div>
+</div>
+
+
+
+<div class='paper-box no-image'>
+<div class='paper-box-text' markdown="1">
+
+<div class="badge">KDD 2026</div>
+
+**Spectral Signatures of Large Language Models**
+
+Zhuoying Zhang, Ishan V. Prasad, **Yuanzhe Hu**, Zihang Liu, Hengrui Luo, Pu Ren, Yaoqing Yang
+
+**KDD 2026**
+
+[Paper](https://arxiv.org/abs/2607.03377) \| [Code](https://github.com/Ingrid-505/Spectral_Signature) <span class="show_paper_citations" data-paper-id="ehBiQEUAAAAJ:J-pR_7NvFogC"></span>
+
+</div>
+</div>

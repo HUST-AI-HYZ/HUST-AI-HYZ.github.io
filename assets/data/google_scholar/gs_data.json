@@ -1,6 +1,48 @@
 {
   "name": "Yuanzhe Hu",
-  "citedby": 0,
-  "updated": "manual",
-  "publications": {}
+  "citedby": 525,
+  "updated": "2026-09-02T19:07:33+00:00",
+  "source": "https://scholar.google.com/citations?hl=en&user=ehBiQEUAAAAJ&pagesize=100&view_op=list_works&sortby=pubdate",
+  "publications": {
+    "ehBiQEUAAAAJ:Y5dfb0dijaUC": {
+      "title": "EarthVerse: Benchmarking Scientific Agents Across Dynamic Earth Systems and Natural Hazards",
+      "num_citations": 0
+    },
+    "ehBiQEUAAAAJ:J-pR_7NvFogC": {
+      "title": "Spectral Signatures of Large Language Models",
+      "num_citations": 1
+    },
+    "ehBiQEUAAAAJ:a0OBvERweLwC": {
+      "title": "Unveiling Multi-regime Patterns in SciML: Distinct Failure Modes and Regime-specific Optimization",
+      "num_citations": 1
+    },
+    "ehBiQEUAAAAJ:g5m5HwL7SMYC": {
+      "title": "MemoryArena: Benchmarking Agent Memory in Interdependent Multi-Session Agentic Tasks",
+      "num_citations": 69
+    },
+    "ehBiQEUAAAAJ:M3NEmzRMIkIC": {
+      "title": "Mem-{\\alpha}: Learning Memory Construction via Reinforcement Learning",
+      "num_citations": 99
+    },
+    "ehBiQEUAAAAJ:YFjsv_pBGBYC": {
+      "title": "K2-Think: A Parameter-Efficient Reasoning System",
+      "num_citations": 15
+    },
+    "ehBiQEUAAAAJ:BqipwSGYUEgC": {
+      "title": "Eigenspectrum analysis of neural networks without aspect ratio bias",
+      "num_citations": 13
+    },
+    "ehBiQEUAAAAJ:2P1L_qKh6hAC": {
+      "title": "M+: Extending memoryllm with scalable long-term memory",
+      "num_citations": 83
+    },
+    "ehBiQEUAAAAJ:NaGl4SEjCO4C": {
+      "title": "Evaluating memory in llm agents via incremental multi-turn interactions",
+      "num_citations": 222
+    },
+    "ehBiQEUAAAAJ:maZDTaKrznsC": {
+      "title": "Model balancing helps low-data training and fine-tuning",
+      "num_citations": 22
+    }
+  }
 }

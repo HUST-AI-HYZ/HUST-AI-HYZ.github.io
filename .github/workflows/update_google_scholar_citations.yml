@@ -1,0 +1,51 @@
+name: Update Google Scholar citations
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/update_google_scholar_citations.yml"
+      - "google_scholar_crawler/**"
+  schedule:
+    # Daily at 08:17 UTC. Avoiding the top of the hour reduces scheduler delays.
+    - cron: "17 8 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: google-scholar-citations
+  cancel-in-progress: false
+
+jobs:
+  update-citations:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out the website
+        uses: actions/checkout@v7
+
+      - name: Set up Python
+        uses: actions/setup-python@v7
+        with:
+          python-version: "3.12"
+
+      - name: Fetch Google Scholar citation counts
+        env:
+          GOOGLE_SCHOLAR_ID: ehBiQEUAAAAJ
+        run: >-
+          python google_scholar_crawler/main.py
+          --output assets/data/google_scholar/gs_data.json
+
+      - name: Publish changed citation counts
+        run: |
+          if git diff --quiet -- assets/data/google_scholar/gs_data.json; then
+            echo "Citation counts are unchanged."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/data/google_scholar/gs_data.json
+          git commit -m "Update Google Scholar citation counts"
+          git push

@@ -1,19 +1,84 @@
 <script>
-    $(document).ready(function () {
-        $.getJSON("{{ '/assets/data/google_scholar/gs_data.json' | relative_url }}", function (data) {
-            var totalCitation = data['citedby'];
+    (function ($) {
+        var citationThreshold = 20;
+        var remoteDataUrl = "https://raw.githubusercontent.com/{{ site.repository }}/main/assets/data/google_scholar/gs_data.json";
+        var localDataUrl = "{{ '/assets/data/google_scholar/gs_data.json' | relative_url }}";
+
+        function renderCitationData(data) {
             var totalCitationEle = document.getElementById('total_cit');
-            if (totalCitationEle && totalCitation !== undefined) {
-                totalCitationEle.innerHTML = totalCitation;
+            if (totalCitationEle && data.citedby !== undefined) {
+                totalCitationEle.textContent = data.citedby;
             }
-            var citationEles = document.getElementsByClassName('show_paper_citations')
-            Array.prototype.forEach.call(citationEles, element => {
-                var paperId = element.getAttribute('data')
-                if (data['publications'] && data['publications'][paperId]) {
-                    var numCitations = data['publications'][paperId]['num_citations']
-                    element.innerHTML = '| Citations: ' + numCitations;
+
+            var citationEles = document.getElementsByClassName('show_paper_citations');
+            Array.prototype.forEach.call(citationEles, function (element) {
+                var paperId = element.getAttribute('data-paper-id') || element.getAttribute('data');
+                var publication = data.publications && data.publications[paperId];
+                var citationCount = publication ? parseInt(publication.num_citations, 10) : 0;
+
+                element.textContent = '';
+                if (isNaN(citationCount) || citationCount <= citationThreshold) {
+                    return;
                 }
+
+                var authorId = paperId.split(':')[0];
+                var scholarUrl = 'https://scholar.google.com/citations?view_op=view_citation&hl=en&user=' +
+                    encodeURIComponent(authorId) + '&citation_for_view=' + encodeURIComponent(paperId);
+                var link = document.createElement('a');
+                var icon = document.createElement('i');
+                var updated = data.updated ? ' Updated ' + data.updated + '.' : '';
+
+                link.className = 'citation-badge';
+                link.href = scholarUrl;
+                link.target = '_blank';
+                link.rel = 'noopener noreferrer';
+                link.setAttribute('aria-label', 'Cited by ' + citationCount + ' on Google Scholar');
+                link.title = 'Google Scholar citations.' + updated;
+                icon.className = 'fas fa-quote-left';
+                icon.setAttribute('aria-hidden', 'true');
+
+                link.appendChild(icon);
+                link.appendChild(document.createTextNode(' Cited by ' + citationCount));
+                element.appendChild(link);
             });
+        }
+
+        function dataTimestamp(data) {
+            var timestamp = data && data.updated ? Date.parse(data.updated) : 0;
+            return isNaN(timestamp) ? 0 : timestamp;
+        }
+
+        function loadNewestCitationData(urls) {
+            var candidates = [];
+            var pending = urls.length;
+
+            function finishRequest(data) {
+                if (data) {
+                    candidates.push(data);
+                }
+                pending -= 1;
+                if (pending === 0 && candidates.length > 0) {
+                    candidates.sort(function (left, right) {
+                        return dataTimestamp(right) - dataTimestamp(left);
+                    });
+                    renderCitationData(candidates[0]);
+                }
+            }
+
+            urls.forEach(function (url) {
+                $.getJSON(url)
+                    .done(function (data) {
+                        finishRequest(data);
+                    })
+                    .fail(function () {
+                        finishRequest(null);
+                    });
+            });
+        }
+
+        $(document).ready(function () {
+            var hourlyCacheKey = Math.floor(Date.now() / 3600000);
+            loadNewestCitationData([remoteDataUrl + '?v=' + hourlyCacheKey, localDataUrl]);
         });
-    })
+    })(jQuery);
 </script>
