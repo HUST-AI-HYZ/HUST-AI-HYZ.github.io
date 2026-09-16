@@ -131,29 +131,3 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
-
-a.citation-badge {
-    display: inline-flex;
-    align-items: center;
-    gap: .35em;
-    margin-left: .45em;
-    padding: .15em .55em;
-    border-radius: 999px;
-    color: #fff !important;
-    background-color: #4285f4;
-    font-size: .78em;
-    font-weight: 600;
-    line-height: 1.5;
-    vertical-align: baseline;
-    white-space: nowrap;
-    text-decoration: none !important;
-
-    &:hover,
-    &:focus {
-        background-color: #2f6fc9;
-    }
-
-    i {
-        font-size: .85em;
-    }
-}

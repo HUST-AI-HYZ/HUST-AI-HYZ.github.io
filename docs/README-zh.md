@@ -26,7 +26,6 @@ AcadHomepage
 - [作者的个人主页](https://rayeren.github.io/)
 
 ## 主要特点
-- **自动更新谷歌学术引用**: 借助谷歌学术爬虫和 GitHub Actions，本仓库可以自动更新作者与论文的引用数；论文引用数严格大于 20 时，主页会自动显示引用徽标。
 - **支持谷歌Analytics**: 你可以通过简单的配置来实现使用谷歌Analytics跟踪网页的流量。
 - **响应式的**: 此主页会针对不同的屏幕尺寸自动调整布局。
 - **美观而简约**: 此主页美观而简约，适合个人学术主页的搭建。
@@ -35,7 +34,6 @@ AcadHomepage
 ## 快速开始
 
 1. Fork本仓库到`USERNAME/USERNAME.github.io`，其中`USERNAME`是你的github用户名。
-1. 在 `.github/workflows/update_google_scholar_citations.yml` 中设置 `GOOGLE_SCHOLAR_ID`；定时工作流会自动更新谷歌学术引用数据。
 1. 使用 [favicon-generator](https://redketchup.io/favicon-generator)生成favicon（网页icon文件），并下载所有文件到`REPO/images`。
 1. 修改主页配置文件[_config.yml](../_config.yml):
     1. `title`: 主页标题

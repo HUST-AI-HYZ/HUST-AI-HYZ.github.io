@@ -18,7 +18,6 @@ Some examples:
 - [Personal Homepage of the author](https://rayeren.github.io/)
 
 ## Key Features
-- **Automatically update google scholar citations**: using the google scholar crawler and github action, this REPO can update the author citations and publication citations automatically.
 - **Support Google analytics**: you can trace the traffics of your homepage by easy configuration.
 - **Responsive**: this homepage automatically adjust for different screen sizes and viewports.
 - **Beautiful and Simple Design**: this homepage is beautiful and simple, which is very suitable for academic personal homepage.
@@ -27,7 +26,6 @@ Some examples:
 ## Quick Start
 
 1. Fork this REPO and rename to `USERNAME.github.io`, where `USERNAME` is your github USERNAME.
-1. Set `GOOGLE_SCHOLAR_ID` in `.github/workflows/update_google_scholar_citations.yml`; the scheduled workflow refreshes citation data automatically.
 1. Generate favicon using [favicon-generator](https://redketchup.io/favicon-generator) and download all generated files to `REPO/images`.
 1. Modify the configuration of your homepage `_config.yml`:
     1. `title`: the title of your homepage
@@ -39,13 +37,6 @@ Some examples:
     1. More configuration details are described in the comments.
 1. Add your homepage content in `_pages/about.md`.
     1. You can use html+markdown syntax just same as jekyll.
-    1. Use a `<span>` with class `show_paper_citations` and `data-paper-id` set to the Google Scholar paper ID. Citation badges are displayed automatically once a paper has more than 20 citations.
-        ```html
-        <span class='show_paper_citations' data-paper-id='DhtAFkwAAAAJ:ALROH1vI_8AC'></span>
-        ``` 
-        > Q: How to get the google scholar paper ID?   
-        > A: Enter your google scholar homepage and click the paper name. Then you can see the paper ID from `citation_for_view=XXXX`, where `XXXX` is the required paper ID.
-        > The scheduled crawler populates the matching citation data automatically.
 1. Your page will be published at `https://USERNAME.github.io`.
 
 ## Debug Locally

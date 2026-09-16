@@ -122,7 +122,7 @@ Looking forward, I am particularly interested in agent harnesses and memory for 
 **Short Summary:**  MemoryAgentBench is a new benchmark designed to comprehensively evaluate memory agents in LLMs. 
 
 
-[Paper](https://arxiv.org/abs/2507.05257v2) <span class="show_paper_citations" data-paper-id="ehBiQEUAAAAJ:NaGl4SEjCO4C"></span>
+[Paper](https://arxiv.org/abs/2507.05257v2)
 
 <a href="https://github.com/HUST-AI-HYZ/MemoryAgentBench">
 <img src="https://img.shields.io/github/stars/HUST-AI-HYZ/MemoryAgentBench" alt="Star Count">
@@ -148,7 +148,7 @@ Looking forward, I am particularly interested in agent harnesses and memory for 
 
 **Short Summary:** We present MemoryAreana, a new evaluation gym designed to bridge the gap between isolated recall and execution by benchmarking agents on tasks where memory acquisition and action are tightly coupled.
 
-[Paper](https://arxiv.org/pdf/2602.16313) \| [Website](https://memoryarena.github.io/) <span class="show_paper_citations" data-paper-id="ehBiQEUAAAAJ:g5m5HwL7SMYC"></span> <a href="https://github.com/ZexueHe/memoryarena">
+[Paper](https://arxiv.org/pdf/2602.16313) \| [Website](https://memoryarena.github.io/) <a href="https://github.com/ZexueHe/memoryarena">
 <img src="https://img.shields.io/github/stars/ZexueHe/memoryarena" alt="Star Count">
 </a>  <a href="https://huggingface.co/datasets/ZexueHe/memoryarena"><img src="https://img.shields.io/badge/Dataset-HuggingFace-FFD21E?logo=huggingface" alt="HF Dataset"></a> <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fhuggingface.co%2Fapi%2Fdatasets%2FZexueHe%2Fmemoryarena%3Fexpand%255B%255D%3DdownloadsAllTime&query=%24.downloadsAllTime&label=Total%20Downloads&color=orange&logo=huggingface&cacheSeconds=3600" alt="Dataset Downloads"> 
 
@@ -176,7 +176,7 @@ Zhiqing Cui, Xinxiang Yin, Yihong Tang, Xinglang Zhang, **Yuanzhe Hu**, Siru Zho
 
 **Preprint**
 
-[Paper](https://arxiv.org/abs/2608.23525) \| [Website](https://cuizhiq.github.io/EarthVerse/) \| [Code](https://github.com/CuiZHIQ/Earth-Verse) \| [Dataset](https://huggingface.co/datasets/miracle10/EarthVerse) <span class="show_paper_citations" data-paper-id="ehBiQEUAAAAJ:Y5dfb0dijaUC"></span>
+[Paper](https://arxiv.org/abs/2608.23525) \| [Website](https://cuizhiq.github.io/EarthVerse/) \| [Code](https://github.com/CuiZHIQ/Earth-Verse) \| [Dataset](https://huggingface.co/datasets/miracle10/EarthVerse)
 
 </div>
 </div>
@@ -193,7 +193,7 @@ Yu Wang, Dmitry Krotov, **Yuanzhe Hu**, Yifan Gao, Wangchunshu Zhou, Julian McAu
 
 **ICML 2025**
 
-[Paper](https://arxiv.org/abs/2502.00592) \| [Review](https://openreview.net/forum?id=OcqbkROe8J&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICML.cc%2F2025%2FConference%2FAuthors%23your-submissions)) <span class="show_paper_citations" data-paper-id="ehBiQEUAAAAJ:2P1L_qKh6hAC"></span>
+[Paper](https://arxiv.org/abs/2502.00592) \| [Review](https://openreview.net/forum?id=OcqbkROe8J&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICML.cc%2F2025%2FConference%2FAuthors%23your-submissions))
 
 <a href="https://github.com/wangyu-ustc/MemoryLLM">
 <img src="https://img.shields.io/github/stars/wangyu-ustc/MemoryLLM" alt="Star Count">
@@ -218,7 +218,7 @@ Yu Wang, Ryuichi Takanobu, Zhiqi Liang, Yuzhen Mao, **Yuanzhe Hu**, Julian McAul
 **Preprint**
 
 
-[Paper](https://arxiv.org/abs/2509.25911) \| [Model](https://huggingface.co/YuWangX/Memalpha-4B) <span class="show_paper_citations" data-paper-id="ehBiQEUAAAAJ:M3NEmzRMIkIC"></span>
+[Paper](https://arxiv.org/abs/2509.25911) \| [Model](https://huggingface.co/YuWangX/Memalpha-4B)
 
 <a href="https://github.com/wangyu-ustc/Mem-alpha">
 <img src="https://img.shields.io/github/stars/wangyu-ustc/Mem-alpha" alt="Star Count">
@@ -242,7 +242,7 @@ MBZUAI IFM / LLM 360 Team (Including **Yuanzhe Hu**)
 
 
 
-[Paper](https://arxiv.org/abs/2509.07604) \| [Website](https://k2think.ai/) \| [SFT Code](https://github.com/MBZUAI-IFM/K2-Think-SFT) \| [Model](https://huggingface.co/IFM/K2-Think) <span class="show_paper_citations" data-paper-id="ehBiQEUAAAAJ:YFjsv_pBGBYC"></span>
+[Paper](https://arxiv.org/abs/2509.07604) \| [Website](https://k2think.ai/) \| [SFT Code](https://github.com/MBZUAI-IFM/K2-Think-SFT) \| [Model](https://huggingface.co/IFM/K2-Think)
 
 <a href="https://www.nytimes.com/2025/09/09/technology/uae-emirates-ai-open-source.html"><img src="https://img.shields.io/badge/Media-NY_Times-555555?logo=nytimes" alt="NY Times"></a> <a href="https://www.forbes.com/sites/patrickmoorhead/2025/09/09/the-uae-showcases-its-abilities-in-ai-reasoning-with-k2-think-model/"><img src="https://img.shields.io/badge/Media-Forbes-5DADE2?logo=forbes" alt="Forbes"></a> 
 
@@ -287,7 +287,7 @@ MBZUAI IFM / LLM 360 Team (Including **Yuanzhe Hu**)
 
 **Short Summary:** A diagnosis framework for Scientific Machine Learning Models.
 
-[Paper](https://arxiv.org/pdf/2605.29153) \| [Code](https://github.com/leastima/sciml_multi_regime) <span class="show_paper_citations" data-paper-id="ehBiQEUAAAAJ:a0OBvERweLwC"></span>
+[Paper](https://arxiv.org/pdf/2605.29153) \| [Code](https://github.com/leastima/sciml_multi_regime)
 
 </div>
 </div>
@@ -305,7 +305,7 @@ MBZUAI IFM / LLM 360 Team (Including **Yuanzhe Hu**)
 
 **Short Summary:** A layer-wise LLM pruning method inspired by Marchenko–Pastur (MP) law.
 
-[Paper](https://arxiv.org/abs/2506.06280) \| [Video](https://icml.cc/virtual/2025/poster/46300) \| [Review](https://openreview.net/forum?id=7ywj1B3DuO&referrer=%5BAuthor%20Console%5D%2Fgroup%3Fid%3DICML.cc%2F2025%2FConference%2FAuthors%23your-submissions) <span class="show_paper_citations" data-paper-id="ehBiQEUAAAAJ:BqipwSGYUEgC"></span>
+[Paper](https://arxiv.org/abs/2506.06280) \| [Video](https://icml.cc/virtual/2025/poster/46300) \| [Review](https://openreview.net/forum?id=7ywj1B3DuO&referrer=%5BAuthor%20Console%5D%2Fgroup%3Fid%3DICML.cc%2F2025%2FConference%2FAuthors%23your-submissions)
 
 <a href="https://github.com/HUST-AI-HYZ/FARMS">
 <img src="https://img.shields.io/github/stars/HUST-AI-HYZ/FARMS" alt="Star Count">
@@ -328,7 +328,7 @@ MBZUAI IFM / LLM 360 Team (Including **Yuanzhe Hu**)
 **Short Summary:** Learning rate scheduler for LLM fine-tuning on low-source dataset.
 
 
-[Paper](https://arxiv.org/abs/2410.12178) \| [Video](https://us06web.zoom.us/rec/play/5RHeJiEVuG-yw_Ytt9cHPMzqEIm2xWenwjhHj4yt7camtmQObTndJ56YgBBw0A1TlNRGiwZ2MAw5klz.7Xm2WgzcHdxPjGqm?autoplay=true) \| [Review](./pdf/paper_review/Model_balancing_review.pdf) <span class="show_paper_citations" data-paper-id="ehBiQEUAAAAJ:maZDTaKrznsC"></span>
+[Paper](https://arxiv.org/abs/2410.12178) \| [Video](https://us06web.zoom.us/rec/play/5RHeJiEVuG-yw_Ytt9cHPMzqEIm2xWenwjhHj4yt7camtmQObTndJ56YgBBw0A1TlNRGiwZ2MAw5klz.7Xm2WgzcHdxPjGqm?autoplay=true) \| [Review](./pdf/paper_review/Model_balancing_review.pdf)
 
 <a href="https://github.com/ZihangHLiu/ModelBalancing">
 <img src="https://img.shields.io/github/stars/ZihangHLiu/ModelBalancing" alt="Star Count">
@@ -350,7 +350,7 @@ Zhuoying Zhang, Ishan V. Prasad, **Yuanzhe Hu**, Zihang Liu, Hengrui Luo, Pu Ren
 
 **KDD 2026**
 
-[Paper](https://arxiv.org/abs/2607.03377) \| [Code](https://github.com/Ingrid-505/Spectral_Signature) <span class="show_paper_citations" data-paper-id="ehBiQEUAAAAJ:J-pR_7NvFogC"></span>
+[Paper](https://arxiv.org/abs/2607.03377) \| [Code](https://github.com/Ingrid-505/Spectral_Signature)
 
 </div>
 </div>
